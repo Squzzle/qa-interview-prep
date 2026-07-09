@@ -32,8 +32,7 @@ const config: Config = {
       title: 'QA Interview Prep',
       items: [
         {type: 'docSidebar', sidebarId: 'tutorialSidebar', position: 'left', label: 'Вопросы'},
-        // TODO(task-4): вернуть на '/test' когда страница /test появится
-        {to: 'pathname:///test', label: 'Пройти тест', position: 'left'},
+        {to: '/test', label: 'Пройти тест', position: 'left'},
       ],
     },
     footer: {style: 'dark', links: [], copyright: 'QA Interview Prep'},

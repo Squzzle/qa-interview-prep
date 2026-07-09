@@ -10,15 +10,12 @@ const TEST_SIZE = 20;
 
 export default function Quiz(): React.ReactElement {
   const bank = useMemo(() => loadQuizBank(), []);
-  const [round, setRound] = useState(0);
   const [started, setStarted] = useState(false);
   const [answers, setAnswers] = useState<Record<string, number[]>>({});
   const [submitted, setSubmitted] = useState(false);
-
-  const questions = useMemo<QuizQuestion[]>(
-    () => (started ? selectRandom(bank, TEST_SIZE) : []),
-    [started, round, bank],
-  );
+  // The drawn set is committed to state (not derived via useMemo) so it stays
+  // stable across answer toggles and re-renders, changing only on start().
+  const [questions, setQuestions] = useState<QuizQuestion[]>([]);
 
   function toggle(qid: string, idx: number) {
     setAnswers((prev) => {
@@ -28,7 +25,8 @@ export default function Quiz(): React.ReactElement {
   }
 
   function start() {
-    setAnswers({}); setSubmitted(false); setStarted(true); setRound((r) => r + 1);
+    setQuestions(selectRandom(bank, TEST_SIZE));
+    setAnswers({}); setSubmitted(false); setStarted(true);
   }
 
   if (!started) {

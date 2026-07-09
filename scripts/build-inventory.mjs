@@ -57,6 +57,7 @@ for (const f of files) {
   const questions = Array.isArray(b.questions) ? b.questions : [];
   if (!section || !block || !blockLabel || questions.length === 0) {
     problems.push(`${f}: empty or malformed (questions=${questions.length})`);
+    continue; // skip: do not emit a data/inventory/<undefined>.json from a bad block
   }
   const usedInBlock = new Set();
   for (const q of questions) {

@@ -5,5 +5,7 @@ build
 docs/superpowers
 helm
 scripts
+# NOTE: matches only ROOT-level markdown (Claude.md, README.md). Docker's `*`
+# does not cross `/`, so docs/**/*.md answer pages ARE kept. Do NOT change to **/*.md.
 *.md
 .claude

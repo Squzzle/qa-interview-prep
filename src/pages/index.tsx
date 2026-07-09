@@ -12,6 +12,7 @@ export default function Home(): React.ReactElement {
           <Link className="button button--primary button--lg" to="/docs/intro">
             Открыть каталог вопросов
           </Link>{' '}
+          {/* TODO(task-4): вернуть на '/test' когда страница /test появится */}
           <Link className="button button--secondary button--lg" to="pathname:///test">
             Пройти тест
           </Link>

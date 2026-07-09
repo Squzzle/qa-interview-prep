@@ -12,7 +12,17 @@ const config: Config = {
   i18n: {defaultLocale: 'ru', locales: ['ru']},
   presets: [
     ['classic', {
-      docs: {sidebarPath: './sidebars.ts', routeBasePath: '/docs'},
+      docs: {
+        sidebarPath: './sidebars.ts',
+        routeBasePath: '/docs',
+        exclude: [
+          '**/_*.{js,jsx,ts,tsx,md,mdx}',
+          '**/_*/**',
+          '**/*.test.{js,jsx,ts,tsx}',
+          '**/__tests__/**',
+          'superpowers/**',
+        ],
+      },
       blog: false,
       theme: {customCss: './src/css/custom.css'},
     } satisfies Preset.Options],
@@ -22,6 +32,7 @@ const config: Config = {
       title: 'QA Interview Prep',
       items: [
         {type: 'docSidebar', sidebarId: 'tutorialSidebar', position: 'left', label: 'Вопросы'},
+        // TODO(task-4): вернуть на '/test' когда страница /test появится
         {to: 'pathname:///test', label: 'Пройти тест', position: 'left'},
       ],
     },

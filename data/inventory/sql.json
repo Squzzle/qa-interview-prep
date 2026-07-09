@@ -1,0 +1,266 @@
+[
+  {
+    "section": "sql",
+    "block": "bazovye-zaprosy",
+    "blockLabel": "Базовые запросы и фильтрация (SELECT, WHERE)",
+    "position": 1,
+    "slug": "tablica-employees-s-kolonkami-name-department-salary-vyvesti",
+    "question": "Таблица Employees с колонками name, department, salary. Вывести имена и зарплаты всех сотрудников."
+  },
+  {
+    "section": "sql",
+    "block": "bazovye-zaprosy",
+    "blockLabel": "Базовые запросы и фильтрация (SELECT, WHERE)",
+    "position": 1,
+    "slug": "tablica-employees-vyvesti-vseh-sotrudnikov-iz-otdela-it",
+    "question": "Таблица Employees. Вывести всех сотрудников из отдела 'IT'."
+  },
+  {
+    "section": "sql",
+    "block": "bazovye-zaprosy",
+    "blockLabel": "Базовые запросы и фильтрация (SELECT, WHERE)",
+    "position": 1,
+    "slug": "tablica-employees-s-kolonkami-name-salary-nayti-sotrudnikov",
+    "question": "Таблица Employees с колонками name, salary. Найти сотрудников с зарплатой больше 5000."
+  },
+  {
+    "section": "sql",
+    "block": "bazovye-zaprosy",
+    "blockLabel": "Базовые запросы и фильтрация (SELECT, WHERE)",
+    "position": 1,
+    "slug": "tablica-employees-s-kolonkami-name-hire-date-vyvesti",
+    "question": "Таблица Employees с колонками name, hire_date. Вывести сотрудников, нанятых после 1 января 2020 года."
+  },
+  {
+    "section": "sql",
+    "block": "bazovye-zaprosy",
+    "blockLabel": "Базовые запросы и фильтрация (SELECT, WHERE)",
+    "position": 1,
+    "slug": "tablica-employees-s-kolonkami-name-department-nayti-sotrudni",
+    "question": "Таблица Employees с колонками name, department. Найти сотрудников из отделов 'HR' или 'Sales'."
+  },
+  {
+    "section": "sql",
+    "block": "bazovye-zaprosy",
+    "blockLabel": "Базовые запросы и фильтрация (SELECT, WHERE)",
+    "position": 1,
+    "slug": "tablica-employees-s-kolonkami-name-salary-vyvesti-sotrudniko",
+    "question": "Таблица Employees с колонками name, salary. Вывести сотрудников с зарплатой от 3000 до 7000."
+  },
+  {
+    "section": "sql",
+    "block": "bazovye-zaprosy",
+    "blockLabel": "Базовые запросы и фильтрация (SELECT, WHERE)",
+    "position": 1,
+    "slug": "tablica-employees-s-kolonkoy-name-nayti-sotrudnikov-che",
+    "question": "Таблица Employees с колонкой name. Найти сотрудников, чьё имя начинается на букву 'А'."
+  },
+  {
+    "section": "sql",
+    "block": "sortirovka-gruppirovka-agregaty",
+    "blockLabel": "Сортировка, группировка и агрегатные функции (ORDER BY, GROUP BY, HAVING)",
+    "position": 2,
+    "slug": "tablica-employees-s-kolonkami-name-salary-vyvesti-sotrudniko",
+    "question": "Таблица Employees с колонками name, salary. Вывести сотрудников, отсортированных по зарплате от высокой к низкой."
+  },
+  {
+    "section": "sql",
+    "block": "sortirovka-gruppirovka-agregaty",
+    "blockLabel": "Сортировка, группировка и агрегатные функции (ORDER BY, GROUP BY, HAVING)",
+    "position": 2,
+    "slug": "tablica-employees-poschitat-obschee-kolichestvo-sotrudnikov",
+    "question": "Таблица Employees. Посчитать общее количество сотрудников."
+  },
+  {
+    "section": "sql",
+    "block": "sortirovka-gruppirovka-agregaty",
+    "blockLabel": "Сортировка, группировка и агрегатные функции (ORDER BY, GROUP BY, HAVING)",
+    "position": 2,
+    "slug": "tablica-employees-s-kolonkami-name-department-poschitat-koli",
+    "question": "Таблица Employees с колонками name, department. Посчитать количество сотрудников в каждом отделе."
+  },
+  {
+    "section": "sql",
+    "block": "sortirovka-gruppirovka-agregaty",
+    "blockLabel": "Сортировка, группировка и агрегатные функции (ORDER BY, GROUP BY, HAVING)",
+    "position": 2,
+    "slug": "tablica-employees-s-kolonkami-department-salary-nayti-sredny",
+    "question": "Таблица Employees с колонками department, salary. Найти среднюю зарплату по отделу 'Sales'."
+  },
+  {
+    "section": "sql",
+    "block": "sortirovka-gruppirovka-agregaty",
+    "blockLabel": "Сортировка, группировка и агрегатные функции (ORDER BY, GROUP BY, HAVING)",
+    "position": 2,
+    "slug": "tablica-employees-s-kolonkami-department-salary-poschitat-ma",
+    "question": "Таблица Employees с колонками department, salary. Посчитать максимальную и минимальную зарплату по каждому отделу."
+  },
+  {
+    "section": "sql",
+    "block": "sortirovka-gruppirovka-agregaty",
+    "blockLabel": "Сортировка, группировка и агрегатные функции (ORDER BY, GROUP BY, HAVING)",
+    "position": 2,
+    "slug": "tablica-employees-nayti-otdely-v-kotoryh-srednyaya-zarplata",
+    "question": "Таблица Employees. Найти отделы, в которых средняя зарплата превышает 6000."
+  },
+  {
+    "section": "sql",
+    "block": "sortirovka-gruppirovka-agregaty",
+    "blockLabel": "Сортировка, группировка и агрегатные функции (ORDER BY, GROUP BY, HAVING)",
+    "position": 2,
+    "slug": "tablica-orders-s-kolonkami-customer-id-order-amount",
+    "question": "Таблица Orders с колонками customer_id, order_amount. Вывести customer_id и общую сумму заказов только для клиентов с суммой больше 1000."
+  },
+  {
+    "section": "sql",
+    "block": "joins",
+    "blockLabel": "JOINs (работа с несколькими таблицами)",
+    "position": 3,
+    "slug": "tablicy-employees-id-name-i-departments-id-department",
+    "question": "Таблицы Employees (id, name) и Departments (id, department_name). Написать запрос с INNER JOIN, выводящий имя и отдел."
+  },
+  {
+    "section": "sql",
+    "block": "joins",
+    "blockLabel": "JOINs (работа с несколькими таблицами)",
+    "position": 3,
+    "slug": "tablicy-customers-id-name-i-orders-id-customer",
+    "question": "Таблицы Customers (id, name) и Orders (id, customer_id, amount). Вывести всех клиентов и их заказы (клиенты без заказов с NULL)."
+  },
+  {
+    "section": "sql",
+    "block": "joins",
+    "blockLabel": "JOINs (работа с несколькими таблицами)",
+    "position": 3,
+    "slug": "tablicy-students-courses-i-svyazka-studentcourses-vyvesti-im",
+    "question": "Таблицы Students, Courses и связка StudentCourses. Вывести имена студентов и названия курсов."
+  },
+  {
+    "section": "sql",
+    "block": "joins",
+    "blockLabel": "JOINs (работа с несколькими таблицами)",
+    "position": 3,
+    "slug": "tablica-employees-id-name-manager-id-vyvesti-spisok",
+    "question": "Таблица Employees (id, name, manager_id). Вывести список сотрудников с именами начальников (SELF JOIN)."
+  },
+  {
+    "section": "sql",
+    "block": "podzaprosy-i-dml",
+    "blockLabel": "Подзапросы и обновление данных (Subqueries, UPDATE, DELETE)",
+    "position": 4,
+    "slug": "tablica-employees-nayti-sotrudnikov-s-zarplatoy-vyshe-sredne",
+    "question": "Таблица Employees. Найти сотрудников с зарплатой выше средней (подзапрос)."
+  },
+  {
+    "section": "sql",
+    "block": "podzaprosy-i-dml",
+    "blockLabel": "Подзапросы и обновление данных (Subqueries, UPDATE, DELETE)",
+    "position": 4,
+    "slug": "tablica-products-product-name-price-category-id-nayti",
+    "question": "Таблица Products (product_name, price, category_id). Найти название продукта с максимальной ценой в каждой категории."
+  },
+  {
+    "section": "sql",
+    "block": "podzaprosy-i-dml",
+    "blockLabel": "Подзапросы и обновление данных (Subqueries, UPDATE, DELETE)",
+    "position": 4,
+    "slug": "tablica-orders-nayti-klientov-bez-zakazov-not-exists",
+    "question": "Таблица Orders. Найти клиентов без заказов (NOT EXISTS или LEFT JOIN)."
+  },
+  {
+    "section": "sql",
+    "block": "podzaprosy-i-dml",
+    "blockLabel": "Подзапросы и обновление данных (Subqueries, UPDATE, DELETE)",
+    "position": 4,
+    "slug": "tablica-employees-uvelichit-zarplatu-na-10-vsem-v",
+    "question": "Таблица Employees. Увеличить зарплату на 10% всем в отделе 'IT' (UPDATE)."
+  },
+  {
+    "section": "sql",
+    "block": "podzaprosy-i-dml",
+    "blockLabel": "Подзапросы и обновление данных (Subqueries, UPDATE, DELETE)",
+    "position": 4,
+    "slug": "tablica-logs-s-kolonkoy-created-at-udalit-zapisi",
+    "question": "Таблица Logs с колонкой created_at. Удалить записи старше 2023 года (DELETE)."
+  },
+  {
+    "section": "sql",
+    "block": "ddl",
+    "blockLabel": "Проектирование и модификация структуры (DDL)",
+    "position": 5,
+    "slug": "sozdat-tablicu-users-s-avtoinkrementnym-id-unikalnym-usernam",
+    "question": "Создать таблицу Users с автоинкрементным id, уникальным username, email и created_at по умолчанию."
+  },
+  {
+    "section": "sql",
+    "block": "ddl",
+    "blockLabel": "Проектирование и модификация структуры (DDL)",
+    "position": 5,
+    "slug": "dobavit-kolonku-phone-number-tipa-varchar-20-v",
+    "question": "Добавить колонку phone_number типа VARCHAR(20) в таблицу Employees."
+  },
+  {
+    "section": "sql",
+    "block": "ddl",
+    "blockLabel": "Проектирование и модификация структуры (DDL)",
+    "position": 5,
+    "slug": "izmenit-tip-kolonki-salary-v-tablice-employees-s",
+    "question": "Изменить тип колонки salary в таблице Employees с INT на DECIMAL(10,2)."
+  },
+  {
+    "section": "sql",
+    "block": "ddl",
+    "blockLabel": "Проектирование и модификация структуры (DDL)",
+    "position": 5,
+    "slug": "dobavit-ogranichenie-vneshnego-klyucha-chtoby-customer-id-v",
+    "question": "Добавить ограничение внешнего ключа, чтобы customer_id в Orders ссылался на Customers."
+  },
+  {
+    "section": "sql",
+    "block": "ddl",
+    "blockLabel": "Проектирование и модификация структуры (DDL)",
+    "position": 5,
+    "slug": "udalit-tablicu-oldlogs",
+    "question": "Удалить таблицу OldLogs."
+  },
+  {
+    "section": "sql",
+    "block": "prodvinutye-koncepcii",
+    "blockLabel": "Продвинутые концепции (оконные функции, транзакции, представления)",
+    "position": 6,
+    "slug": "tablica-employees-prisvoit-rang-kazhdomu-sotrudniku-vnutri-o",
+    "question": "Таблица Employees. Присвоить ранг каждому сотруднику внутри отдела по зарплате (оконная функция)."
+  },
+  {
+    "section": "sql",
+    "block": "prodvinutye-koncepcii",
+    "blockLabel": "Продвинутые концепции (оконные функции, транзакции, представления)",
+    "position": 6,
+    "slug": "tablica-orders-vyvesti-summu-datu-i-nakopitelnuyu-summu",
+    "question": "Таблица Orders. Вывести сумму, дату и накопительную сумму по клиентам (оконная функция SUM() OVER)."
+  },
+  {
+    "section": "sql",
+    "block": "prodvinutye-koncepcii",
+    "blockLabel": "Продвинутые концепции (оконные функции, транзакции, представления)",
+    "position": 6,
+    "slug": "tablica-products-vyvesti-nazvanie-cenu-i-raznicu-s",
+    "question": "Таблица Products. Вывести название, цену и разницу с предыдущей ценой (функция LAG())."
+  },
+  {
+    "section": "sql",
+    "block": "prodvinutye-koncepcii",
+    "blockLabel": "Продвинутые концепции (оконные функции, транзакции, представления)",
+    "position": 6,
+    "slug": "napisat-tranzakciyu-dlya-perevoda-100-edinic-so-scheta",
+    "question": "Написать транзакцию для перевода 100 единиц со счёта 1 на счёт 2 с откатом при ошибке."
+  },
+  {
+    "section": "sql",
+    "block": "prodvinutye-koncepcii",
+    "blockLabel": "Продвинутые концепции (оконные функции, транзакции, представления)",
+    "position": 6,
+    "slug": "sozdat-predstavlenie-highearners-dlya-sotrudnikov-s-zarplato",
+    "question": "Создать представление HighEarners для сотрудников с зарплатой выше 8000."
+  }
+]

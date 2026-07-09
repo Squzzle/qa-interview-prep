@@ -1,0 +1,13 @@
+{
+  "section": "sql",
+  "block": "podzaprosy-i-dml",
+  "blockLabel": "Подзапросы и обновление данных (Subqueries, UPDATE, DELETE)",
+  "position": 4,
+  "questions": [
+    "Таблица Employees. Найти сотрудников с зарплатой выше средней (подзапрос).",
+    "Таблица Products (product_name, price, category_id). Найти название продукта с максимальной ценой в каждой категории.",
+    "Таблица Orders. Найти клиентов без заказов (NOT EXISTS или LEFT JOIN).",
+    "Таблица Employees. Увеличить зарплату на 10% всем в отделе 'IT' (UPDATE).",
+    "Таблица Logs с колонкой created_at. Удалить записи старше 2023 года (DELETE)."
+  ]
+}

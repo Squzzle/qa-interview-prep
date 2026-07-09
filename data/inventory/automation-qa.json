@@ -1,0 +1,1146 @@
+[
+  {
+    "section": "automation-qa",
+    "block": "osnovy-avtomatizatsii",
+    "blockLabel": "Основы автоматизации",
+    "position": 1,
+    "slug": "chto-takoe-avtomatizirovannoe-testirovanie-i-kakovy-ego-osno",
+    "question": "Что такое автоматизированное тестирование и каковы его основные цели?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "osnovy-avtomatizatsii",
+    "blockLabel": "Основы автоматизации",
+    "position": 1,
+    "slug": "kakie-testy-celesoobrazno-avtomatizirovat-a-kakie-net-prived",
+    "question": "Какие тесты целесообразно автоматизировать, а какие — нет? Приведите примеры."
+  },
+  {
+    "section": "automation-qa",
+    "block": "osnovy-avtomatizatsii",
+    "blockLabel": "Основы автоматизации",
+    "position": 1,
+    "slug": "kakovy-preimuschestva-i-nedostatki-avtomatizacii-po-sravneni",
+    "question": "Каковы преимущества и недостатки автоматизации по сравнению с ручным тестированием?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "osnovy-avtomatizatsii",
+    "blockLabel": "Основы автоматизации",
+    "position": 1,
+    "slug": "kakie-faktory-vliyayut-na-vybor-scenariev-dlya-avtomatizacii",
+    "question": "Какие факторы влияют на выбор сценариев для автоматизации?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "osnovy-avtomatizatsii",
+    "blockLabel": "Основы автоматизации",
+    "position": 1,
+    "slug": "dayte-opredeleniya-ponyatiyam-identifikaciya-autentifikaciya",
+    "question": "Дайте определения понятиям: идентификация, аутентификация, авторизация. Приведите пример последовательности этих процессов."
+  },
+  {
+    "section": "automation-qa",
+    "block": "osnovy-avtomatizatsii",
+    "blockLabel": "Основы автоматизации",
+    "position": 1,
+    "slug": "kakie-suschestvuyut-tipy-testov-podhodyaschie-dlya-avtomatiz",
+    "question": "Какие существуют типы тестов, подходящие для автоматизации (регрессионные, smoke, критический путь)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "git",
+    "blockLabel": "Git",
+    "position": 2,
+    "slug": "chto-takoe-git-i-dlya-kakih-celey-on",
+    "question": "Что такое Git и для каких целей он используется в разработке и тестировании?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "git",
+    "blockLabel": "Git",
+    "position": 2,
+    "slug": "v-chem-raznica-mezhdu-centralizovannymi-svn-i-decentralizova",
+    "question": "В чем разница между централизованными (SVN) и децентрализованными (Git) системами контроля версий?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "git",
+    "blockLabel": "Git",
+    "position": 2,
+    "slug": "opishite-osnovnye-koncepcii-git-repozitoriy-kommit-vetka",
+    "question": "Опишите основные концепции Git: репозиторий, коммит, ветка."
+  },
+  {
+    "section": "automation-qa",
+    "block": "git",
+    "blockLabel": "Git",
+    "position": 2,
+    "slug": "kakie-osnovnye-vetki-suschestvuyut-v-modeli-git-flow",
+    "question": "Какие основные ветки существуют в модели Git Flow? Объясните их назначение (main, develop, feature, release, hotfix)."
+  },
+  {
+    "section": "automation-qa",
+    "block": "git",
+    "blockLabel": "Git",
+    "position": 2,
+    "slug": "nazovite-i-obyasnite-naznachenie-bazovyh-komand-git-clone",
+    "question": "Назовите и объясните назначение базовых команд Git: `clone`, `add`, `commit`, `push`, `pull`, `status`, `log`."
+  },
+  {
+    "section": "automation-qa",
+    "block": "git",
+    "blockLabel": "Git",
+    "position": 2,
+    "slug": "v-chem-raznica-mezhdu-komandami-git-merge-i",
+    "question": "В чем разница между командами `git merge` и `git rebase`?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "git",
+    "blockLabel": "Git",
+    "position": 2,
+    "slug": "chto-delaet-komanda-git-cherry-pick-v-kakih",
+    "question": "Что делает команда `git cherry-pick`? В каких сценариях она может быть полезна?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "git",
+    "blockLabel": "Git",
+    "position": 2,
+    "slug": "kak-vremenno-sohranit-nezakommichennye-izmeneniya-ne-sozdava",
+    "question": "Как временно сохранить незакоммиченные изменения, не создавая коммит? Какая команда для этого используется (`git stash`)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "git",
+    "blockLabel": "Git",
+    "position": 2,
+    "slug": "obyasnite-raznicu-mezhdu-git-fetch-i-git-pull",
+    "question": "Объясните разницу между `git fetch` и `git pull`."
+  },
+  {
+    "section": "automation-qa",
+    "block": "git",
+    "blockLabel": "Git",
+    "position": 2,
+    "slug": "chto-takoe-git-squash-i-kak-ego-mozhno",
+    "question": "Что такое `git squash` и как его можно выполнить?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "git",
+    "blockLabel": "Git",
+    "position": 2,
+    "slug": "kakimi-komandami-mozhno-nastroit-imya-polzovatelya-i-email",
+    "question": "Какими командами можно настроить имя пользователя и email в Git?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "git",
+    "blockLabel": "Git",
+    "position": 2,
+    "slug": "v-chem-otlichie-git-revert-ot-git-reset",
+    "question": "В чем отличие `git revert` от `git reset`? Какой из них безопаснее для использования в общей ветке?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "git",
+    "blockLabel": "Git",
+    "position": 2,
+    "slug": "obyasnite-naznachenie-flagov-m-dlya-commit-b-dlya",
+    "question": "Объясните назначение флагов: `-m` (для `commit`), `-b` (для `checkout`), `--amend` (для `commit`), `-d` и `-D` (для `branch`), `-f` (для `push`)."
+  },
+  {
+    "section": "automation-qa",
+    "block": "git",
+    "blockLabel": "Git",
+    "position": 2,
+    "slug": "chto-takoe-git-blame-i-dlya-chego-on",
+    "question": "Что такое `git blame` и для чего он используется?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "git",
+    "blockLabel": "Git",
+    "position": 2,
+    "slug": "kak-s-pomoschyu-git-nayti-kommit-kotoryy-vnes",
+    "question": "Как с помощью Git найти коммит, который внес ошибку (`git bisect`)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "ci-cd",
+    "blockLabel": "CI/CD",
+    "position": 3,
+    "slug": "chto-takoe-ci-cd-rasshifruyte-abbreviatury-i-obyasnite",
+    "question": "Что такое CI/CD? Расшифруйте аббревиатуры и объясните концепции непрерывной интеграции, доставки и развертывания."
+  },
+  {
+    "section": "automation-qa",
+    "block": "ci-cd",
+    "blockLabel": "CI/CD",
+    "position": 3,
+    "slug": "v-chem-raznica-mezhdu-continuous-delivery-i-continuous",
+    "question": "В чем разница между Continuous Delivery и Continuous Deployment?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "ci-cd",
+    "blockLabel": "CI/CD",
+    "position": 3,
+    "slug": "chto-takoe-payplayn-pipeline-v-ci-cd-opishite",
+    "question": "Что такое пайплайн (Pipeline) в CI/CD? Опишите его типовую структуру (Source, Build, Test, Deploy)."
+  },
+  {
+    "section": "automation-qa",
+    "block": "ci-cd",
+    "blockLabel": "CI/CD",
+    "position": 3,
+    "slug": "kakie-instrumenty-ci-cd-vy-znaete-jenkins-gitlab",
+    "question": "Какие инструменты CI/CD вы знаете? (Jenkins, GitLab CI, GitHub Actions, TeamCity)"
+  },
+  {
+    "section": "automation-qa",
+    "block": "ci-cd",
+    "blockLabel": "CI/CD",
+    "position": 3,
+    "slug": "kakie-preimuschestva-daet-vnedrenie-ci-cd-dlya-komandy",
+    "question": "Какие преимущества дает внедрение CI/CD для команды тестирования?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "ci-cd",
+    "blockLabel": "CI/CD",
+    "position": 3,
+    "slug": "kak-vyglyadit-tipichnyy-yaml-fayl-konfiguracii-dlya-github",
+    "question": "Как выглядит типичный YAML-файл конфигурации для GitHub Actions или GitLab CI? Опишите его основные разделы (name, on, jobs, steps)."
+  },
+  {
+    "section": "automation-qa",
+    "block": "ci-cd",
+    "blockLabel": "CI/CD",
+    "position": 3,
+    "slug": "chto-takoe-artefakty-artifacts-v-kontekste-ci-cd",
+    "question": "Что такое артефакты (artifacts) в контексте CI/CD и для чего они используются?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "ci-cd",
+    "blockLabel": "CI/CD",
+    "position": 3,
+    "slug": "kak-v-payplayne-nastroit-zapusk-raznyh-etapov-stages",
+    "question": "Как в пайплайне настроить запуск разных этапов (stages) и заданий (jobs)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "ci-cd",
+    "blockLabel": "CI/CD",
+    "position": 3,
+    "slug": "chto-takoe-virtualizaciya-i-konteynerizaciya-v-chem-ih",
+    "question": "Что такое виртуализация и контейнеризация? В чем их принципиальное отличие?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "ci-cd",
+    "blockLabel": "CI/CD",
+    "position": 3,
+    "slug": "kakie-plyusy-ispolzovaniya-docker-dlya-zapuska-avtotestov",
+    "question": "Какие плюсы использования Docker для запуска автотестов?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "ci-cd",
+    "blockLabel": "CI/CD",
+    "position": 3,
+    "slug": "kak-jenkins-ispolzuet-jenkinsfile-v-chem-raznica-mezhdu",
+    "question": "Как Jenkins использует `Jenkinsfile`? В чем разница между декларативным и скриптовым синтаксисом Pipeline?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "test-ranery",
+    "blockLabel": "Тест-раннеры",
+    "position": 4,
+    "slug": "dlya-chego-nuzhny-test-rannery-junit-testng-v",
+    "question": "Для чего нужны тест-раннеры (JUnit, TestNG) в автоматизации?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "test-ranery",
+    "blockLabel": "Тест-раннеры",
+    "position": 4,
+    "slug": "nazovite-osnovnye-annotacii-junit-5-test-beforeeach-afterall",
+    "question": "Назовите основные аннотации JUnit 5 (`@Test`, `@BeforeEach`, `@AfterAll`, `@DisplayName`, `@Disabled`)."
+  },
+  {
+    "section": "automation-qa",
+    "block": "test-ranery",
+    "blockLabel": "Тест-раннеры",
+    "position": 4,
+    "slug": "kak-v-junit-5-organizovat-parametrizovannye-testy-kakie",
+    "question": "Как в JUnit 5 организовать параметризованные тесты? Какие аннотации для этого используются (`@ParameterizedTest`, `@ValueSource`, `@CsvSource`)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "test-ranery",
+    "blockLabel": "Тест-раннеры",
+    "position": 4,
+    "slug": "chto-takoe-assert-v-testah-kakie-osnovnye-assert",
+    "question": "Что такое `assert` в тестах? Какие основные assert-методы вы знаете в JUnit 5 (`assertEquals`, `assertTrue`, `assertThrows`)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "test-ranery",
+    "blockLabel": "Тест-раннеры",
+    "position": 4,
+    "slug": "chem-assertions-otlichayutsya-ot-assumptions-v-junit-5",
+    "question": "Чем `Assertions` отличаются от `Assumptions` в JUnit 5?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "test-ranery",
+    "blockLabel": "Тест-раннеры",
+    "position": 4,
+    "slug": "kak-v-junit-5-mozhno-sgruppirovat-neskolko-proverok",
+    "question": "Как в JUnit 5 можно сгруппировать несколько проверок так, чтобы тест упал один раз со всеми ошибками (`assertAll`)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "test-ranery",
+    "blockLabel": "Тест-раннеры",
+    "position": 4,
+    "slug": "kakie-osnovnye-annotacii-est-v-testng-test-beforemethod",
+    "question": "Какие основные аннотации есть в TestNG (`@Test`, `@BeforeMethod`, `@BeforeClass`, `@BeforeSuite`)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "test-ranery",
+    "blockLabel": "Тест-раннеры",
+    "position": 4,
+    "slug": "kak-v-testng-realizovat-parametrizaciyu-testov-s-pomoschyu",
+    "question": "Как в TestNG реализовать параметризацию тестов с помощью `@DataProvider`?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "test-ranery",
+    "blockLabel": "Тест-раннеры",
+    "position": 4,
+    "slug": "kak-v-testng-zadat-prioritet-vypolneniya-testov-priority",
+    "question": "Как в TestNG задать приоритет выполнения тестов (`priority`)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "test-ranery",
+    "blockLabel": "Тест-раннеры",
+    "position": 4,
+    "slug": "kak-v-testng-nastroit-zavisimosti-mezhdu-testami-dependsonme",
+    "question": "Как в TestNG настроить зависимости между тестами (`dependsOnMethods`)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "test-ranery",
+    "blockLabel": "Тест-раннеры",
+    "position": 4,
+    "slug": "kakie-suschestvuyut-sposoby-povtornogo-zapuska-upavshih-test",
+    "question": "Какие существуют способы повторного запуска упавших тестов (re-run failed tests) в JUnit 5 и TestNG?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "test-ranery",
+    "blockLabel": "Тест-раннеры",
+    "position": 4,
+    "slug": "sravnite-junit-5-i-testng-v-kakih-sluchayah",
+    "question": "Сравните JUnit 5 и TestNG. В каких случаях какой фреймворк предпочтительнее?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "sistemy-sborki",
+    "blockLabel": "Системы сборки",
+    "position": 5,
+    "slug": "dlya-chego-nuzhny-sistemy-sborki-maven-gradle-v",
+    "question": "Для чего нужны системы сборки (Maven, Gradle) в проектах автоматизации?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "sistemy-sborki",
+    "blockLabel": "Системы сборки",
+    "position": 5,
+    "slug": "chto-takoe-fayl-pom-xml-v-maven-opishite",
+    "question": "Что такое файл `pom.xml` в Maven? Опишите его структуру (groupId, artifactId, version, dependencies, plugins)."
+  },
+  {
+    "section": "automation-qa",
+    "block": "sistemy-sborki",
+    "blockLabel": "Системы сборки",
+    "position": 5,
+    "slug": "chto-takoe-zhiznennyy-cikl-maven-nazovite-osnovnye-fazy",
+    "question": "Что такое жизненный цикл Maven? Назовите основные фазы (clean, compile, test, package, install, deploy)."
+  },
+  {
+    "section": "automation-qa",
+    "block": "sistemy-sborki",
+    "blockLabel": "Системы сборки",
+    "position": 5,
+    "slug": "chto-takoe-dependency-i-plugin-v-maven",
+    "question": "Что такое `dependency` и `plugin` в Maven?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "sistemy-sborki",
+    "blockLabel": "Системы сборки",
+    "position": 5,
+    "slug": "v-chem-raznica-mezhdu-fazami-phase-i-celyami",
+    "question": "В чем разница между фазами (phase) и целями (goal) в Maven?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "sistemy-sborki",
+    "blockLabel": "Системы сборки",
+    "position": 5,
+    "slug": "chto-takoe-build-gradle-fayl-v-gradle-na",
+    "question": "Что такое `build.gradle` файл в Gradle? На каком языке он пишется?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "sistemy-sborki",
+    "blockLabel": "Системы сборки",
+    "position": 5,
+    "slug": "chto-takoe-zadacha-task-v-gradle",
+    "question": "Что такое задача (task) в Gradle?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "sistemy-sborki",
+    "blockLabel": "Системы сборки",
+    "position": 5,
+    "slug": "chem-gradle-otlichaetsya-ot-maven-s-tochki-zreniya",
+    "question": "Чем Gradle отличается от Maven с точки зрения производительности и гибкости конфигурации?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "lokatory",
+    "blockLabel": "Локаторы",
+    "position": 6,
+    "slug": "chto-takoe-lokatory-i-zachem-oni-nuzhny-v",
+    "question": "Что такое локаторы и зачем они нужны в UI-автоматизации?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "lokatory",
+    "blockLabel": "Локаторы",
+    "position": 6,
+    "slug": "kakie-osnovnye-tipy-lokatorov-suschestvuyut-v-selenium-webdr",
+    "question": "Какие основные типы локаторов существуют в Selenium WebDriver?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "lokatory",
+    "blockLabel": "Локаторы",
+    "position": 6,
+    "slug": "kakoy-lokator-schitaetsya-samym-bystrym-i-nadezhnym-pochemu",
+    "question": "Какой локатор считается самым быстрым и надежным? Почему?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "lokatory",
+    "blockLabel": "Локаторы",
+    "position": 6,
+    "slug": "chto-takoe-css-selektor-privedite-primery",
+    "question": "Что такое CSS-селектор? Приведите примеры."
+  },
+  {
+    "section": "automation-qa",
+    "block": "lokatory",
+    "blockLabel": "Локаторы",
+    "position": 6,
+    "slug": "chto-takoe-xpath-kakie-byvayut-tipy-xpath-absolyutnyy",
+    "question": "Что такое XPath? Какие бывают типы XPath (абсолютный и относительный)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "lokatory",
+    "blockLabel": "Локаторы",
+    "position": 6,
+    "slug": "chto-takoe-osi-xpath-dlya-chego-oni-ispolzuyutsya",
+    "question": "Что такое оси XPath? Для чего они используются? Приведите пример."
+  },
+  {
+    "section": "automation-qa",
+    "block": "lokatory",
+    "blockLabel": "Локаторы",
+    "position": 6,
+    "slug": "nazovite-neskolko-poleznyh-funkciy-xpath-contains-text-start",
+    "question": "Назовите несколько полезных функций XPath (`contains()`, `text()`, `starts-with()`, `last()`, `position()`)."
+  },
+  {
+    "section": "automation-qa",
+    "block": "lokatory",
+    "blockLabel": "Локаторы",
+    "position": 6,
+    "slug": "sravnite-css-selektory-i-xpath-kogda-chto-luchshe",
+    "question": "Сравните CSS-селекторы и XPath. Когда что лучше использовать?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "lokatory",
+    "blockLabel": "Локаторы",
+    "position": 6,
+    "slug": "kak-napisat-xpath-dlya-poiska-elementa-po-tekstu",
+    "question": "Как написать XPath для поиска элемента по тексту, содержащему \"Hello\"?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "lokatory",
+    "blockLabel": "Локаторы",
+    "position": 6,
+    "slug": "kak-nayti-element-kotoryy-sleduet-srazu-za-drugim",
+    "question": "Как найти элемент, который следует сразу за другим элементом, используя XPath?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "selenium",
+    "blockLabel": "Инициализация браузера и Selenium",
+    "position": 7,
+    "slug": "kak-pravilno-inicializirovat-webdriver-v-avtomatizirovannyh",
+    "question": "Как правильно инициализировать WebDriver в автоматизированных тестах?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "selenium",
+    "blockLabel": "Инициализация браузера и Selenium",
+    "position": 7,
+    "slug": "s-kakimi-nyuansami-mozhno-stolknutsya-pri-rabote-s",
+    "question": "С какими нюансами можно столкнуться при работе с разными браузерами (Chrome, Firefox)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "selenium",
+    "blockLabel": "Инициализация браузера и Selenium",
+    "position": 7,
+    "slug": "chto-takoe-webdrivermanager-i-zachem-on-nuzhen-kakie",
+    "question": "Что такое WebDriverManager и зачем он нужен? Какие проблемы он решает?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "selenium",
+    "blockLabel": "Инициализация браузера и Selenium",
+    "position": 7,
+    "slug": "cherez-kakoy-pattern-proektirovaniya-chasche-vsego-realizuet",
+    "question": "Через какой паттерн проектирования чаще всего реализуется управление экземпляром WebDriver? В чем его суть (Singleton)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "selenium",
+    "blockLabel": "Инициализация браузера и Selenium",
+    "position": 7,
+    "slug": "chto-takoe-json-wire-protocol-kakuyu-rol-on",
+    "question": "Что такое JSON Wire Protocol? Какую роль он играет в Selenium?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "selenium",
+    "blockLabel": "Инициализация браузера и Selenium",
+    "position": 7,
+    "slug": "chto-takoe-browser-capabilities-chromeoptions-firefoxoptions",
+    "question": "Что такое Browser Capabilities (`ChromeOptions`, `FirefoxOptions`)? Для чего их используют?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "selenium",
+    "blockLabel": "Инициализация браузера и Selenium",
+    "position": 7,
+    "slug": "kak-zapustit-brauzer-v-headless-rezhime-dlya-chego",
+    "question": "Как запустить браузер в headless-режиме? Для чего это нужно?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "selenium",
+    "blockLabel": "Инициализация браузера и Selenium",
+    "position": 7,
+    "slug": "chto-takoe-neyavnye-ozhidaniya-implicit-wait-kak-oni",
+    "question": "Что такое неявные ожидания (Implicit Wait)? Как они задаются?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "selenium",
+    "blockLabel": "Инициализация браузера и Selenium",
+    "position": 7,
+    "slug": "chto-takoe-yavnye-ozhidaniya-explicit-wait-i-klass",
+    "question": "Что такое явные ожидания (Explicit Wait) и класс `WebDriverWait`? В чем их преимущество?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "selenium",
+    "blockLabel": "Инициализация браузера и Selenium",
+    "position": 7,
+    "slug": "kakie-expected-conditions-vy-znaete-visibilityofelementlocat",
+    "question": "Какие Expected Conditions вы знаете (`visibilityOfElementLocated`, `elementToBeClickable`, `alertIsPresent`)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "selenium",
+    "blockLabel": "Инициализация браузера и Selenium",
+    "position": 7,
+    "slug": "chem-yavnye-ozhidaniya-otlichayutsya-ot-neyavnyh-mozhno-li",
+    "question": "Чем явные ожидания отличаются от неявных? Можно ли их смешивать?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "selenium",
+    "blockLabel": "Инициализация браузера и Selenium",
+    "position": 7,
+    "slug": "chto-takoe-fluent-wait-i-chem-on-otlichaetsya",
+    "question": "Что такое Fluent Wait и чем он отличается от обычного явного ожидания?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "selenium",
+    "blockLabel": "Инициализация браузера и Selenium",
+    "position": 7,
+    "slug": "pochemu-ispolzovanie-thread-sleep-schitaetsya-plohoy-praktik",
+    "question": "Почему использование `Thread.sleep()` считается плохой практикой?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "selenium",
+    "blockLabel": "Инициализация браузера и Selenium",
+    "position": 7,
+    "slug": "kakie-isklyucheniya-exceptions-v-selenium-vy-znaete-nosuchel",
+    "question": "Какие исключения (exceptions) в Selenium вы знаете (`NoSuchElementException`, `StaleElementReferenceException`, `TimeoutException`)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "selenium",
+    "blockLabel": "Инициализация браузера и Selenium",
+    "position": 7,
+    "slug": "kogda-voznikaet-staleelementreferenceexception-i-kak-s-nim-b",
+    "question": "Когда возникает `StaleElementReferenceException` и как с ним бороться?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "selenium",
+    "blockLabel": "Инициализация браузера и Selenium",
+    "position": 7,
+    "slug": "dlya-chego-nuzhen-klass-actions-v-selenium-kakie",
+    "question": "Для чего нужен класс `Actions` в Selenium? Какие действия он позволяет выполнять?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "selenium",
+    "blockLabel": "Инициализация браузера и Selenium",
+    "position": 7,
+    "slug": "kak-v-selenium-pereklyuchitsya-na-vsplyvayuschee-okno-alert",
+    "question": "Как в Selenium переключиться на всплывающее окно (alert), принять или отклонить его?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "selenium",
+    "blockLabel": "Инициализация браузера и Selenium",
+    "position": 7,
+    "slug": "kak-rabotat-s-elementami-vnutri-iframe",
+    "question": "Как работать с элементами внутри iframe?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "selenium",
+    "blockLabel": "Инициализация браузера и Selenium",
+    "position": 7,
+    "slug": "kak-vypolnit-javascript-kod-cherez-selenium-javascriptexecut",
+    "question": "Как выполнить JavaScript код через Selenium (`JavascriptExecutor`)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "selenium",
+    "blockLabel": "Инициализация браузера и Selenium",
+    "position": 7,
+    "slug": "kak-pereklyuchatsya-mezhdu-vkladkami-ili-oknami-brauzera-win",
+    "question": "Как переключаться между вкладками или окнами браузера (`WindowHandle`)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "selenium",
+    "blockLabel": "Инициализация браузера и Selenium",
+    "position": 7,
+    "slug": "chto-takoe-page-object-model-opishite-ego-strukturu",
+    "question": "Что такое Page Object Model? Опишите его структуру и преимущества."
+  },
+  {
+    "section": "automation-qa",
+    "block": "selenium",
+    "blockLabel": "Инициализация браузера и Selenium",
+    "position": 7,
+    "slug": "chto-takoe-page-element-component-object-chem-on",
+    "question": "Что такое Page Element / Component Object? Чем он отличается от Page Object?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "selenium",
+    "blockLabel": "Инициализация браузера и Selenium",
+    "position": 7,
+    "slug": "chto-takoe-selenide-kakie-zadachi-on-uproschaet-po",
+    "question": "Что такое Selenide? Какие задачи он упрощает по сравнению с чистым Selenium?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "selenium",
+    "blockLabel": "Инициализация браузера и Selenium",
+    "position": 7,
+    "slug": "chto-takoe-selenoid-kakuyu-infrastrukturnuyu-problemu-on-res",
+    "question": "Что такое Selenoid? Какую инфраструктурную проблему он решает?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "playwright",
+    "blockLabel": "Playwright",
+    "position": 8,
+    "slug": "chto-takoe-playwright-kem-razrabotan-i-kakie-brauzery",
+    "question": "Что такое Playwright? Кем разработан и какие браузеры поддерживает?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "playwright",
+    "blockLabel": "Playwright",
+    "position": 8,
+    "slug": "kakovy-osnovnye-arhitekturnye-otlichiya-playwright-ot-seleni",
+    "question": "Каковы основные архитектурные отличия Playwright от Selenium (WebSocket vs HTTP, встроенные драйверы)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "playwright",
+    "blockLabel": "Playwright",
+    "position": 8,
+    "slug": "provedite-sravnenie-playwright-i-selenium-po-klyuchevym-para",
+    "question": "Проведите сравнение Playwright и Selenium по ключевым параметрам: auto-waiting, изоляция тестов, скорость, работа с сетью."
+  },
+  {
+    "section": "automation-qa",
+    "block": "playwright",
+    "blockLabel": "Playwright",
+    "position": 8,
+    "slug": "chto-takoe-playwright-test-runner-v-chem-ego",
+    "question": "Что такое Playwright Test Runner? В чем его преимущество перед использованием JUnit/TestNG для E2E-тестов?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "playwright",
+    "blockLabel": "Playwright",
+    "position": 8,
+    "slug": "kakie-osnovnye-klassy-ispolzuyutsya-v-playwright-java-playwr",
+    "question": "Какие основные классы используются в Playwright Java (`Playwright`, `Browser`, `BrowserContext`, `Page`)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "playwright",
+    "blockLabel": "Playwright",
+    "position": 8,
+    "slug": "v-chem-raznica-mezhdu-browser-browsercontext-i-page",
+    "question": "В чем разница между `Browser`, `BrowserContext` и `Page` в Playwright?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "playwright",
+    "blockLabel": "Playwright",
+    "position": 8,
+    "slug": "dlya-chego-nuzhen-browsercontext-kak-on-pomogaet-v",
+    "question": "Для чего нужен `BrowserContext`? Как он помогает в изоляции тестов?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "playwright",
+    "blockLabel": "Playwright",
+    "position": 8,
+    "slug": "chto-takoe-lokator-locator-v-playwright-chem-ego",
+    "question": "Что такое локатор (Locator) в Playwright? Чем его поведение отличается от `WebElement` в Selenium (ленивость, auto-waiting)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "playwright",
+    "blockLabel": "Playwright",
+    "position": 8,
+    "slug": "kakie-vstroennye-metody-dlya-sozdaniya-tochnyh-lokatorov-est",
+    "question": "Какие встроенные методы для создания точных локаторов есть в Playwright (`page.getByRole()`, `page.getByText()`, `page.getByTestId()`)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "playwright",
+    "blockLabel": "Playwright",
+    "position": 8,
+    "slug": "pochemu-rekomenduetsya-ispolzovat-getbyrole-vmesto-xpath-css",
+    "question": "Почему рекомендуется использовать `getByRole` вместо XPath/CSS?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "playwright",
+    "blockLabel": "Playwright",
+    "position": 8,
+    "slug": "kak-rabotaet-auto-waiting-v-playwright-dlya-kakih",
+    "question": "Как работает auto-waiting в Playwright? Для каких действий оно применяется?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "playwright",
+    "blockLabel": "Playwright",
+    "position": 8,
+    "slug": "kakie-metody-dlya-ozhidaniya-usloviy-suschestvuyut-v-playwri",
+    "question": "Какие методы для ожидания условий существуют в Playwright (`waitForSelector`, `waitForFunction`, `waitForURL`)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "playwright",
+    "blockLabel": "Playwright",
+    "position": 8,
+    "slug": "kak-v-playwright-perehvatyvat-i-modificirovat-setevye-zapros",
+    "question": "Как в Playwright перехватывать и модифицировать сетевые запросы (`page.route()`)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "playwright",
+    "blockLabel": "Playwright",
+    "position": 8,
+    "slug": "kak-v-playwright-zamokat-otvet-api",
+    "question": "Как в Playwright замокать ответ API?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "playwright",
+    "blockLabel": "Playwright",
+    "position": 8,
+    "slug": "kak-v-playwright-rabotat-s-neskolkimi-vkladkami-ili",
+    "question": "Как в Playwright работать с несколькими вкладками или страницами?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "playwright",
+    "blockLabel": "Playwright",
+    "position": 8,
+    "slug": "kak-vklyuchit-zapis-video-ili-trassirovki-dlya-otladki",
+    "question": "Как включить запись видео или трассировки для отладки упавших тестов в Playwright?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "playwright",
+    "blockLabel": "Playwright",
+    "position": 8,
+    "slug": "chto-takoe-trace-viewer-i-kak-on-pomogaet",
+    "question": "Что такое Trace Viewer и как он помогает в анализе причин падения тестов?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "playwright",
+    "blockLabel": "Playwright",
+    "position": 8,
+    "slug": "kak-v-playwright-emulirovat-mobilnoe-ustroystvo-ili-zadat",
+    "question": "Как в Playwright эмулировать мобильное устройство или задать геолокацию?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "playwright",
+    "blockLabel": "Playwright",
+    "position": 8,
+    "slug": "kak-rabotat-s-iframe-v-playwright",
+    "question": "Как работать с iframe в Playwright?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "playwright",
+    "blockLabel": "Playwright",
+    "position": 8,
+    "slug": "kak-obrabatyvat-dialogovye-okna-alert-confirm-v-playwright",
+    "question": "Как обрабатывать диалоговые окна (alert, confirm) в Playwright?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "playwright",
+    "blockLabel": "Playwright",
+    "position": 8,
+    "slug": "kakie-isklyucheniya-specifichny-dlya-playwright-timeouterror",
+    "question": "Какие исключения специфичны для Playwright (`TimeoutError`, `PlaywrightException`)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "playwright",
+    "blockLabel": "Playwright",
+    "position": 8,
+    "slug": "kak-v-playwright-otslezhivat-neobrabotannye-oshibki-javascri",
+    "question": "Как в Playwright отслеживать необработанные ошибки JavaScript на странице (`WebError`)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "api-testirovanie",
+    "blockLabel": "API-тестирование",
+    "position": 9,
+    "slug": "dlya-chego-nuzhno-testirovat-api",
+    "question": "Для чего нужно тестировать API?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "api-testirovanie",
+    "blockLabel": "API-тестирование",
+    "position": 9,
+    "slug": "chto-takoe-rest-i-soap-v-chem-ih",
+    "question": "Что такое REST и SOAP? В чем их ключевые отличия?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "api-testirovanie",
+    "blockLabel": "API-тестирование",
+    "position": 9,
+    "slug": "chto-takoe-serializaciya-i-deserializaciya-dannyh-kakie-bibl",
+    "question": "Что такое сериализация и десериализация данных? Какие библиотеки для этого используются в Java (Jackson, Gson)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "api-testirovanie",
+    "blockLabel": "API-тестирование",
+    "position": 9,
+    "slug": "sravnite-jackson-i-gson-kakie-annotacii-iz-jackson",
+    "question": "Сравните Jackson и Gson. Какие аннотации из Jackson (`@JsonProperty`, `@JsonIgnore`) вы знаете?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "api-testirovanie",
+    "blockLabel": "API-тестирование",
+    "position": 9,
+    "slug": "chto-takoe-retrofit-dlya-chego-on-ispolzuetsya",
+    "question": "Что такое Retrofit? Для чего он используется?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "api-testirovanie",
+    "blockLabel": "API-тестирование",
+    "position": 9,
+    "slug": "chto-takoe-restassured-kakie-klyuchevye-bdd-metody-on",
+    "question": "Что такое RestAssured? Какие ключевые BDD-методы он предоставляет (`given()`, `when()`, `then()`)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "api-testirovanie",
+    "blockLabel": "API-тестирование",
+    "position": 9,
+    "slug": "kak-s-pomoschyu-restassured-proverit-status-kod-otveta",
+    "question": "Как с помощью RestAssured проверить статус-код ответа?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "api-testirovanie",
+    "blockLabel": "API-тестирование",
+    "position": 9,
+    "slug": "kak-s-pomoschyu-restassured-izvlech-znachenie-iz-json",
+    "question": "Как с помощью RestAssured извлечь значение из JSON-ответа?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "api-testirovanie",
+    "blockLabel": "API-тестирование",
+    "position": 9,
+    "slug": "chto-takoe-requestspecification-i-responsespecification-v-re",
+    "question": "Что такое `RequestSpecification` и `ResponseSpecification` в RestAssured? Для чего они нужны?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "api-testirovanie",
+    "blockLabel": "API-тестирование",
+    "position": 9,
+    "slug": "chto-takoe-assertj-v-chem-ego-preimuschestvo-pered",
+    "question": "Что такое AssertJ? В чем его преимущество перед стандартными asserts JUnit?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "api-testirovanie",
+    "blockLabel": "API-тестирование",
+    "position": 9,
+    "slug": "kakie-metody-assertj-dlya-proverki-kollekciy-hassize-contain",
+    "question": "Какие методы AssertJ для проверки коллекций (`hasSize`, `contains`, `extracting`) вы знаете?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "api-testirovanie",
+    "blockLabel": "API-тестирование",
+    "position": 9,
+    "slug": "chto-takoe-awaitility-i-dlya-kakih-celey-ego",
+    "question": "Что такое Awaitility и для каких целей его используют при тестировании асинхронных операций (в т.ч. API)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "api-testirovanie",
+    "blockLabel": "API-тестирование",
+    "position": 9,
+    "slug": "kak-s-pomoschyu-awaitility-dozhdatsya-vypolneniya-opredelenn",
+    "question": "Как с помощью Awaitility дождаться выполнения определенного условия?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "arhitektura-freymvorka",
+    "blockLabel": "Архитектура фреймворка",
+    "position": 10,
+    "slug": "chto-takoe-pattern-page-object-kakie-problemy-on",
+    "question": "Что такое паттерн Page Object? Какие проблемы он решает?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "arhitektura-freymvorka",
+    "blockLabel": "Архитектура фреймворка",
+    "position": 10,
+    "slug": "kakie-urovni-layers-mozhno-vydelit-v-horosho-strukturirovann",
+    "question": "Какие уровни (layers) можно выделить в хорошо структурированном фреймворке автоматизации (тесты, бизнес-логика, core)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "arhitektura-freymvorka",
+    "blockLabel": "Архитектура фреймворка",
+    "position": 10,
+    "slug": "chto-takoe-mvc-iz-kakih-komponentov-sostoit",
+    "question": "Что такое MVC? Из каких компонентов состоит?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "arhitektura-freymvorka",
+    "blockLabel": "Архитектура фреймворка",
+    "position": 10,
+    "slug": "chto-takoe-bdd-i-gherkin-dlya-chego-nuzhny",
+    "question": "Что такое BDD и Gherkin? Для чего нужны `.feature` файлы и ключевые слова (Given, When, Then)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "arhitektura-freymvorka",
+    "blockLabel": "Архитектура фреймворка",
+    "position": 10,
+    "slug": "kakie-instrumenty-ispolzuyutsya-dlya-bdd-testirovaniya-cucum",
+    "question": "Какие инструменты используются для BDD-тестирования (Cucumber, SpecFlow)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "arhitektura-freymvorka",
+    "blockLabel": "Архитектура фреймворка",
+    "position": 10,
+    "slug": "chto-takoe-akita-kakie-osnovnye-komponenty-v-nego",
+    "question": "Что такое Akita? Какие основные компоненты в него входят (`akitaScenario`, `AkitaPage`, `AkitaStepDefinitions`)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "arhitektura-freymvorka",
+    "blockLabel": "Архитектура фреймворка",
+    "position": 10,
+    "slug": "kak-v-akita-organizovana-rabota-so-stranicami-i",
+    "question": "Как в Akita организована работа со страницами и элементами через аннотации (`@Name`, `@FindBy`)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "loggery-i-reportery",
+    "blockLabel": "Логгеры и репортеры",
+    "position": 11,
+    "slug": "chto-takoe-logirovanie-i-zachem-ono-nuzhno-v",
+    "question": "Что такое логирование и зачем оно нужно в автотестах? Какие библиотеки для логов вы знаете (Log4j, SLF4J)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "loggery-i-reportery",
+    "blockLabel": "Логгеры и репортеры",
+    "position": 11,
+    "slug": "chto-takoe-reporter-i-dlya-chego-on-nuzhen",
+    "question": "Что такое репортер и для чего он нужен? Какие репортеры вы знаете (Allure, ExtentReports)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "loggery-i-reportery",
+    "blockLabel": "Логгеры и репортеры",
+    "position": 11,
+    "slug": "kakie-annotacii-allure-ispolzuyutsya-dlya-uluchsheniya-otche",
+    "question": "Какие аннотации Allure используются для улучшения отчетов (`@Epic`, `@Feature`, `@Story`, `@Step`, `@Severity`, `@Attachment`)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "loggery-i-reportery",
+    "blockLabel": "Логгеры и репортеры",
+    "position": 11,
+    "slug": "kak-s-pomoschyu-allure-prikrepit-skrinshot-k-otchetu",
+    "question": "Как с помощью Allure прикрепить скриншот к отчету при падении теста?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "loggery-i-reportery",
+    "blockLabel": "Логгеры и репортеры",
+    "position": 11,
+    "slug": "kakie-metriki-avtomatizacii-vy-znaete-pokrytie-testami-proce",
+    "question": "Какие метрики автоматизации вы знаете (покрытие тестами, процент прохождения, flakiness, время выполнения)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "loggery-i-reportery",
+    "blockLabel": "Логгеры и репортеры",
+    "position": 11,
+    "slug": "chto-takoe-flaky-testy-i-kak-s-nimi",
+    "question": "Что такое flaky-тесты и как с ними бороться?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "avtomatizatsiya-mobilnyh",
+    "blockLabel": "Автоматизация мобильных приложений",
+    "position": 12,
+    "slug": "chto-takoe-appium-dlya-kakih-platform-on-ispolzuetsya",
+    "question": "Что такое Appium? Для каких платформ он используется?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "avtomatizatsiya-mobilnyh",
+    "blockLabel": "Автоматизация мобильных приложений",
+    "position": 12,
+    "slug": "kakovy-osnovnye-principy-raboty-appium-ispolzovanie-webdrive",
+    "question": "Каковы основные принципы работы Appium (использование WebDriver, не требует изменения кода приложения)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "avtomatizatsiya-mobilnyh",
+    "blockLabel": "Автоматизация мобильных приложений",
+    "position": 12,
+    "slug": "chto-takoe-appium-inspector-i-dlya-chego-on",
+    "question": "Что такое Appium Inspector и для чего он используется?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "avtomatizatsiya-mobilnyh",
+    "blockLabel": "Автоматизация мобильных приложений",
+    "position": 12,
+    "slug": "kakie-suschestvuyut-strategii-poiska-elementov-v-appium-acce",
+    "question": "Какие существуют стратегии поиска элементов в Appium (Accessibility ID, XPath, Android UIAutomator, iOS Predicate)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "avtomatizatsiya-mobilnyh",
+    "blockLabel": "Автоматизация мобильных приложений",
+    "position": 12,
+    "slug": "v-chem-raznica-mezhdu-mobileelement-androidelement-i-ioselem",
+    "question": "В чем разница между `MobileElement`, `AndroidElement` и `IOSElement`?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "avtomatizatsiya-mobilnyh",
+    "blockLabel": "Автоматизация мобильных приложений",
+    "position": 12,
+    "slug": "kakie-instrumenty-dlya-avtomatizacii-android-vy-znaete-espre",
+    "question": "Какие инструменты для автоматизации Android вы знаете (Espresso, UI Automator)? А для iOS (XCUITest)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "avtomatizatsiya-mobilnyh",
+    "blockLabel": "Автоматизация мобильных приложений",
+    "position": 12,
+    "slug": "chto-takoe-kaspresso-kakie-preimuschestva-on-daet-pri",
+    "question": "Что такое Kaspresso? Какие преимущества он дает при написании тестов для Android?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "avtomatizatsiya-mobilnyh",
+    "blockLabel": "Автоматизация мобильных приложений",
+    "position": 12,
+    "slug": "chto-takoe-webdriverio-i-dlya-kakih-platform-on",
+    "question": "Что такое WebdriverIO и для каких платформ он может использоваться?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "avtomatizatsiya-mobilnyh",
+    "blockLabel": "Автоматизация мобильных приложений",
+    "position": 12,
+    "slug": "kakie-programmy-i-instrumenty-vhodyat-v-skoup-nabor",
+    "question": "Какие программы и инструменты входят в \"скоуп\" (набор) для запуска мобильных тестов (Appium Server, эмуляторы/симуляторы, реальные устройства)?"
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "section": "hr",
+    "block": "hr-interview",
+    "blockLabel": "HR-интервью и поведенческие вопросы",
+    "position": 1,
+    "slug": "pochemu-reshil-a-menyat-tekuschee-mesto-raboty",
+    "question": "Почему решил(а) менять текущее место работы?"
+  },
+  {
+    "section": "hr",
+    "block": "hr-interview",
+    "blockLabel": "HR-интервью и поведенческие вопросы",
+    "position": 1,
+    "slug": "pochemu-zainteresovala-imenno-nasha-kompaniya-vakansiya",
+    "question": "Почему заинтересовала именно наша компания / вакансия?"
+  },
+  {
+    "section": "hr",
+    "block": "hr-interview",
+    "blockLabel": "HR-интервью и поведенческие вопросы",
+    "position": 1,
+    "slug": "esli-budet-neskolko-offerov-s-odinakovoy-zarplatoy-po",
+    "question": "Если будет несколько офферов с одинаковой зарплатой — по каким критериям будешь выбирать?"
+  },
+  {
+    "section": "hr",
+    "block": "hr-interview",
+    "blockLabel": "HR-интервью и поведенческие вопросы",
+    "position": 1,
+    "slug": "chto-dlya-tebya-samoe-vazhnoe-v-rabote-a",
+    "question": "Что для тебя самое важное в работе? А что категорически не принимаешь?"
+  },
+  {
+    "section": "hr",
+    "block": "hr-interview",
+    "blockLabel": "HR-интервью и поведенческие вопросы",
+    "position": 1,
+    "slug": "chto-dlya-tebya-yavlyaetsya-krasnym-flagom-v-buduschey",
+    "question": "Что для тебя является красным флагом в будущей компании? От чего сразу хочется отказаться?"
+  },
+  {
+    "section": "hr",
+    "block": "hr-interview",
+    "blockLabel": "HR-интервью и поведенческие вопросы",
+    "position": 1,
+    "slug": "kakie-zadachi-tebe-ne-nravyatsya-ne-hotelos-by",
+    "question": "Какие задачи тебе не нравятся / не хотелось бы делать?"
+  },
+  {
+    "section": "hr",
+    "block": "hr-interview",
+    "blockLabel": "HR-интервью и поведенческие вопросы",
+    "position": 1,
+    "slug": "byvali-li-sluchai-kogda-ne-uspeval-a-k",
+    "question": "Бывали ли случаи, когда не успевал(а) к дедлайнам? Как выходил(а) из ситуации?"
+  },
+  {
+    "section": "hr",
+    "block": "hr-interview",
+    "blockLabel": "HR-интервью и поведенческие вопросы",
+    "position": 1,
+    "slug": "kakoy-format-raboty-tebe-komfortnee-ofis-gibrid-ili",
+    "question": "Какой формат работы тебе комфортнее: офис, гибрид или полная удаленка? Почему?"
+  },
+  {
+    "section": "hr",
+    "block": "hr-interview",
+    "blockLabel": "HR-интервью и поведенческие вопросы",
+    "position": 1,
+    "slug": "rasskazhi-pro-svoy-proshlyy-opyt-kak-u-vas",
+    "question": "Расскажи про свой прошлый опыт: как у вас было организовано взаимодействие в команде?"
+  },
+  {
+    "section": "hr",
+    "block": "hr-interview",
+    "blockLabel": "HR-интервью и поведенческие вопросы",
+    "position": 1,
+    "slug": "chto-dlya-tebya-vazhno-v-kollektive-v-kakoy",
+    "question": "Что для тебя важно в коллективе? В какой команде тебе работалось лучше всего и почему?"
+  },
+  {
+    "section": "hr",
+    "block": "hr-interview",
+    "blockLabel": "HR-интервью и поведенческие вопросы",
+    "position": 1,
+    "slug": "provodil-a-li-vremya-s-kollegami-vne-raboty",
+    "question": "Проводил(а) ли время с коллегами вне работы (корпоративы, совместные активности)? Как к этому относишься?"
+  },
+  {
+    "section": "hr",
+    "block": "hr-interview",
+    "blockLabel": "HR-интервью и поведенческие вопросы",
+    "position": 1,
+    "slug": "est-li-u-tebya-hobbi-uvlecheniya-pomimo-raboty",
+    "question": "Есть ли у тебя хобби, увлечения помимо работы?"
+  },
+  {
+    "section": "hr",
+    "block": "hr-interview",
+    "blockLabel": "HR-интервью и поведенческие вопросы",
+    "position": 1,
+    "slug": "kuda-hochesh-rasti-professionalno-vidish-sebya-v-buduschem",
+    "question": "Куда хочешь расти профессионально? Видишь себя в будущем больше в управлении, в экспертизе или в архитектуре?"
+  },
+  {
+    "section": "hr",
+    "block": "hr-interview",
+    "blockLabel": "HR-интервью и поведенческие вопросы",
+    "position": 1,
+    "slug": "kak-predstavlyaesh-sebe-idealnyy-rabochiy-den",
+    "question": "Как представляешь себе идеальный рабочий день?"
+  },
+  {
+    "section": "hr",
+    "block": "voprosy-intervyueru",
+    "blockLabel": "Вопросы, которые задать интервьюеру",
+    "position": 3,
+    "slug": "kak-u-vas-vystroen-process-code-review-dlya",
+    "question": "Как у вас выстроен процесс code review для автотестов?"
+  },
+  {
+    "section": "hr",
+    "block": "voprosy-intervyueru",
+    "blockLabel": "Вопросы, которые задать интервьюеру",
+    "position": 3,
+    "slug": "s-kakimi-trudnostyami-seychas-stalkivaetsya-komanda-testirov",
+    "question": "С какими трудностями сейчас сталкивается команда тестирования?"
+  },
+  {
+    "section": "hr",
+    "block": "voprosy-intervyueru",
+    "blockLabel": "Вопросы, которые задать интервьюеру",
+    "position": 3,
+    "slug": "kak-raspredelyayutsya-zadachi-mezhdu-manual-i-automation-inz",
+    "question": "Как распределяются задачи между manual и automation инженерами? Есть ли у нас pure manual?"
+  },
+  {
+    "section": "hr",
+    "block": "voprosy-intervyueru",
+    "blockLabel": "Вопросы, которые задать интервьюеру",
+    "position": 3,
+    "slug": "est-li-vozmozhnost-mentoringa-ili-obucheniya-za-schet",
+    "question": "Есть ли возможность менторинга или обучения за счет компании?"
+  },
+  {
+    "section": "hr",
+    "block": "voprosy-intervyueru",
+    "blockLabel": "Вопросы, которые задать интервьюеру",
+    "position": 3,
+    "slug": "uvideli-li-vy-v-nashem-razgovore-momenty-kotorye",
+    "question": "Увидели ли вы в нашем разговоре моменты, которые вас смущают, чтобы я мог их прояснить?"
+  }
+]

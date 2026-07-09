@@ -1,0 +1,6 @@
+Приложение развёрнуто в namespace {{ .Release.Namespace }}.
+
+Откройте сайт через port-forward:
+  kubectl -n {{ .Release.Namespace }} port-forward svc/{{ include "iq.name" . }} 8080:{{ .Values.service.port }}
+
+Затем в браузере: http://localhost:8080

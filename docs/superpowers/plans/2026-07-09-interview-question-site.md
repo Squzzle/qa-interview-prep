@@ -452,6 +452,7 @@ Co-Authored-By: Claude Opus 4.8 (1M context) <noreply@anthropic.com>"
 
 **Files:**
 - Create: `src/components/Quiz/Quiz.tsx`, `src/components/Quiz/Quiz.module.css`, `src/pages/test.tsx`
+- Modify: `docusaurus.config.ts`, `src/pages/index.tsx`, `docs/intro.md` (вернуть ссылки на `/test`)
 
 **Interfaces:**
 - Consumes: `loadQuizBank`, `selectRandom`, `isCorrect`, `QuizQuestion`.
@@ -581,12 +582,19 @@ export default function TestPage(): React.ReactElement {
 }
 ```
 
-- [ ] **Step 4: Сборка проходит**
+- [ ] **Step 4: Вернуть чистые ссылки на `/test`**
+
+В Task 1 ссылки на несуществовавшую тогда страницу `/test` были обёрнуты в `pathname:///test`, чтобы обойти `onBrokenLinks: 'throw'`. Теперь страница `/test` существует — верни обычные внутренние ссылки, чтобы восстановить проверку битых ссылок, и убери сопутствующие `TODO(task-4)`-комментарии:
+- `docusaurus.config.ts`: navbar item → `{to: '/test', label: 'Пройти тест', position: 'left'}`.
+- `src/pages/index.tsx`: `<Link ... to="/test">Пройти тест</Link>`.
+- `docs/intro.md`: `[тест](/test)`.
+
+- [ ] **Step 5: Сборка проходит**
 
 Run: `cd /Users/ariinsomnia/Documents/MyProjects/interview-question && npm run build`
-Expected: `[SUCCESS] Generated static files`. Страница `/test` в выводе.
+Expected: `[SUCCESS] Generated static files`. Страница `/test` в выводе; ошибок битых ссылок нет.
 
-- [ ] **Step 5: Ручная проверка рендера (dev)**
+- [ ] **Step 6: Ручная проверка рендера (dev)**
 
 Run (в фоне, затем curl):
 ```bash
@@ -594,7 +602,7 @@ cd /Users/ariinsomnia/Documents/MyProjects/interview-question && (npm run serve 
 ```
 Expected: `OK-TEST`. Затем остановить сервер (`pkill -f "docusaurus serve"`).
 
-- [ ] **Step 6: Commit**
+- [ ] **Step 7: Commit**
 
 ```bash
 git add -A

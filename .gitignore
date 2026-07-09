@@ -22,3 +22,6 @@ yarn-error.log*
 data/inventory/chunks/
 data/quiz/blocks/
 data/inventory/quiz-src/
+
+# Local Claude Code tooling/config
+.claude/

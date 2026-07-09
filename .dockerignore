@@ -6,3 +6,4 @@ docs/superpowers
 helm
 scripts
 *.md
+.claude

@@ -1,0 +1,671 @@
+[
+  {
+    "id": "sql__bazovye-zaprosy__q1",
+    "category": "Базовые запросы и фильтрация (SELECT, WHERE)",
+    "question": "Какой запрос выведет только имена и зарплаты всех сотрудников из таблицы Employees?",
+    "options": [
+      "SELECT * FROM Employees",
+      "SELECT name, salary FROM Employees",
+      "SELECT department FROM Employees",
+      "SELECT name, department FROM Employees",
+      "SELECT salary FROM Employees WHERE name IS NOT NULL"
+    ],
+    "correct": [
+      1
+    ],
+    "topicUrl": "/docs/sql/bazovye-zaprosy/tablica-employees-s-kolonkami-name-department-salary-vyvesti"
+  },
+  {
+    "id": "sql__bazovye-zaprosy__q2",
+    "category": "Базовые запросы и фильтрация (SELECT, WHERE)",
+    "question": "Как правильно отфильтровать сотрудников отдела 'IT' в предложении WHERE?",
+    "options": [
+      "WHERE department = 'IT'",
+      "WHERE department == 'IT'",
+      "WHERE department LIKE 'IT'",
+      "WHERE department IN ('IT')",
+      "WHERE department = \"IT\" (двойные кавычки в стандартном SQL для строк)"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "topicUrl": "/docs/sql/bazovye-zaprosy/tablica-employees-vyvesti-vseh-sotrudnikov-iz-otdela-it"
+  },
+  {
+    "id": "sql__bazovye-zaprosy__q3",
+    "category": "Базовые запросы и фильтрация (SELECT, WHERE)",
+    "question": "Какие операторы сравнения можно использовать в WHERE для условия 'зарплата больше 5000'?",
+    "options": [
+      "salary > 5000",
+      "salary => 5000",
+      "salary >= 5001 (для целочисленных значений эквивалентно)",
+      "salary =< 5000",
+      "salary != 5000"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "topicUrl": "/docs/sql/bazovye-zaprosy/tablica-employees-s-kolonkami-name-salary-nayti-sotrudnikov"
+  },
+  {
+    "id": "sql__bazovye-zaprosy__q4",
+    "category": "Базовые запросы и фильтрация (SELECT, WHERE)",
+    "question": "Как корректно отфильтровать сотрудников, нанятых после 1 января 2020 года?",
+    "options": [
+      "WHERE hire_date > '2020-01-01'",
+      "WHERE hire_date >= '2020-01-02'",
+      "WHERE hire_date > 20200101",
+      "WHERE hire_date < '2020-01-01'",
+      "WHERE hire_date = '2020-01-01'"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/sql/bazovye-zaprosy/tablica-employees-s-kolonkami-name-hire-date-vyvesti"
+  },
+  {
+    "id": "sql__bazovye-zaprosy__q5",
+    "category": "Базовые запросы и фильтрация (SELECT, WHERE)",
+    "question": "Какие варианты правильно найдут сотрудников из отделов 'HR' или 'Sales'?",
+    "options": [
+      "WHERE department IN ('HR', 'Sales')",
+      "WHERE department = 'HR' OR department = 'Sales'",
+      "WHERE department = 'HR' AND department = 'Sales'",
+      "WHERE department BETWEEN 'HR' AND 'Sales'",
+      "WHERE department NOT IN ('HR', 'Sales')"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/sql/bazovye-zaprosy/tablica-employees-s-kolonkami-name-department-nayti-sotrudni"
+  },
+  {
+    "id": "sql__bazovye-zaprosy__q6",
+    "category": "Базовые запросы и фильтрация (SELECT, WHERE)",
+    "question": "Как вывести сотрудников с зарплатой от 3000 до 7000 включительно?",
+    "options": [
+      "WHERE salary BETWEEN 3000 AND 7000",
+      "WHERE salary >= 3000 AND salary <= 7000",
+      "WHERE salary > 3000 AND salary < 7000",
+      "WHERE salary IN (3000, 7000)",
+      "WHERE salary >= 3000 OR salary <= 7000"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/sql/bazovye-zaprosy/tablica-employees-s-kolonkami-name-salary-vyvesti-sotrudniko"
+  },
+  {
+    "id": "sql__bazovye-zaprosy__q7",
+    "category": "Базовые запросы и фильтрация (SELECT, WHERE)",
+    "question": "Какое условие правильно найдёт сотрудников, чьё имя начинается на букву 'А'?",
+    "options": [
+      "WHERE name LIKE 'А%'",
+      "WHERE name LIKE '%А'",
+      "WHERE name = 'А%'",
+      "WHERE name LIKE 'А_'",
+      "WHERE SUBSTRING(name, 1, 1) = 'А'"
+    ],
+    "correct": [
+      0,
+      4
+    ],
+    "topicUrl": "/docs/sql/bazovye-zaprosy/tablica-employees-s-kolonkoy-name-nayti-sotrudnikov-che"
+  },
+  {
+    "id": "sql__bazovye-zaprosy__q8",
+    "category": "Базовые запросы и фильтрация (SELECT, WHERE)",
+    "question": "Какие утверждения о WHERE и SELECT в базовых запросах верны?",
+    "options": [
+      "WHERE фильтрует строки до группировки и до формирования результата выборки",
+      "SELECT * возвращает все колонки таблицы",
+      "WHERE может использоваться для фильтрации по нескольким условиям через AND/OR",
+      "SELECT обязательно должен содержать WHERE",
+      "WHERE может фильтровать по агрегатным функциям напрямую (например WHERE COUNT(*) > 5)"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/sql/bazovye-zaprosy/tablica-employees-s-kolonkami-name-department-salary-vyvesti"
+  },
+  {
+    "id": "sql__ddl__q1",
+    "category": "Проектирование и модификация структуры (DDL)",
+    "question": "Какие варианты корректно обеспечивают автоинкрементный первичный ключ id при создании таблицы (в зависимости от СУБД)?",
+    "options": [
+      "id INT PRIMARY KEY AUTO_INCREMENT (MySQL)",
+      "id SERIAL PRIMARY KEY (PostgreSQL)",
+      "id INT PRIMARY KEY DEFAULT RANDOM()",
+      "id INT GENERATED ALWAYS AS IDENTITY PRIMARY KEY",
+      "id VARCHAR(36) PRIMARY KEY AUTO_INCREMENT"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "topicUrl": "/docs/sql/ddl/sozdat-tablicu-users-s-avtoinkrementnym-id-unikalnym-usernam"
+  },
+  {
+    "id": "sql__ddl__q2",
+    "category": "Проектирование и модификация структуры (DDL)",
+    "question": "Каким оператором добавляется новая колонка в уже существующую таблицу?",
+    "options": [
+      "ALTER TABLE ... ADD COLUMN ...",
+      "UPDATE TABLE ... ADD COLUMN ...",
+      "MODIFY TABLE ... ADD COLUMN ...",
+      "INSERT COLUMN INTO TABLE ...",
+      "CREATE COLUMN ON TABLE ..."
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/sql/ddl/dobavit-kolonku-phone-number-tipa-varchar-20-v"
+  },
+  {
+    "id": "sql__ddl__q3",
+    "category": "Проектирование и модификация структуры (DDL)",
+    "question": "Какие конструкции применяются для изменения типа существующей колонки?",
+    "options": [
+      "ALTER TABLE t ALTER COLUMN c TYPE DECIMAL(10,2) (PostgreSQL)",
+      "ALTER TABLE t MODIFY COLUMN c DECIMAL(10,2) (MySQL)",
+      "ALTER TABLE t CHANGE TYPE c DECIMAL(10,2)",
+      "UPDATE t SET COLUMN TYPE c = DECIMAL(10,2)",
+      "ALTER TABLE t RENAME COLUMN c TO DECIMAL(10,2)"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/sql/ddl/izmenit-tip-kolonki-salary-v-tablice-employees-s"
+  },
+  {
+    "id": "sql__ddl__q4",
+    "category": "Проектирование и модификация структуры (DDL)",
+    "question": "Что верно про ограничение внешнего ключа (FOREIGN KEY)?",
+    "options": [
+      "Оно обеспечивает ссылочную целостность между таблицами",
+      "Его можно добавить к существующей таблице через ALTER TABLE ... ADD CONSTRAINT ... FOREIGN KEY",
+      "Колонка, на которую ссылаются (обычно PRIMARY KEY), должна существовать в родительской таблице",
+      "Внешний ключ обязательно должен быть уникальным в дочерней таблице",
+      "Внешний ключ автоматически создаёт индекс, который нельзя удалить"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/sql/ddl/dobavit-ogranichenie-vneshnego-klyucha-chtoby-customer-id-v"
+  },
+  {
+    "id": "sql__ddl__q5",
+    "category": "Проектирование и модификация структуры (DDL)",
+    "question": "Чем DROP TABLE отличается от TRUNCATE TABLE и DELETE FROM?",
+    "options": [
+      "DROP TABLE удаляет саму таблицу вместе со структурой и всеми данными",
+      "TRUNCATE TABLE удаляет все строки, но сохраняет структуру таблицы",
+      "DELETE FROM без WHERE удаляет все строки, но обычно логируется построчно и медленнее TRUNCATE",
+      "DROP TABLE можно отменить командой ROLLBACK в любой СУБД без исключений",
+      "TRUNCATE TABLE удаляет саму таблицу из схемы базы данных"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/sql/ddl/udalit-tablicu-oldlogs"
+  },
+  {
+    "id": "sql__joins__q1",
+    "category": "JOINs (работа с несколькими таблицами)",
+    "question": "Что делает INNER JOIN при соединении таблиц Employees и Departments?",
+    "options": [
+      "Возвращает только строки, у которых есть совпадение в обеих таблицах",
+      "Возвращает все строки из Employees, даже без совпадения в Departments",
+      "Возвращает все строки из Departments, даже без совпадения в Employees",
+      "Возвращает декартово произведение всех строк обеих таблиц",
+      "Возвращает только строки, отсутствующие в обеих таблицах"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/sql/joins/tablicy-employees-id-name-i-departments-id-department"
+  },
+  {
+    "id": "sql__joins__q2",
+    "category": "JOINs (работа с несколькими таблицами)",
+    "question": "Нужно вывести всех клиентов (Customers), включая тех, у кого нет заказов в Orders, при этом для клиентов без заказов поля заказа должны быть NULL. Какой JOIN использовать?",
+    "options": [
+      "LEFT JOIN Customers с Orders",
+      "INNER JOIN Customers с Orders",
+      "RIGHT JOIN Orders с Customers (Customers слева)",
+      "CROSS JOIN Customers и Orders",
+      "SELF JOIN таблицы Customers"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "topicUrl": "/docs/sql/joins/tablicy-customers-id-name-i-orders-id-customer"
+  },
+  {
+    "id": "sql__joins__q3",
+    "category": "JOINs (работа с несколькими таблицами)",
+    "question": "Зачем нужна промежуточная (связующая) таблица StudentCourses между Students и Courses?",
+    "options": [
+      "Она реализует связь многие-ко-многим между студентами и курсами",
+      "Она хранит внешние ключи student_id и course_id, объединяя их в пары",
+      "Без неё нельзя связать студентов и курсы напрямую по одному внешнему ключу с обеих сторон",
+      "Она заменяет собой первичные ключи таблиц Students и Courses",
+      "Она нужна только для ускорения запросов, а не для описания связи"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/sql/joins/tablicy-students-courses-i-svyazka-studentcourses-vyvesti-im"
+  },
+  {
+    "id": "sql__joins__q4",
+    "category": "JOINs (работа с несколькими таблицами)",
+    "question": "Как называется соединение таблицы Employees (id, name, manager_id) саму с собой для получения имени начальника у каждого сотрудника?",
+    "options": [
+      "SELF JOIN",
+      "CROSS JOIN",
+      "NATURAL JOIN",
+      "FULL OUTER JOIN",
+      "ANTI JOIN"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/sql/joins/tablica-employees-id-name-manager-id-vyvesti-spisok"
+  },
+  {
+    "id": "sql__joins__q5",
+    "category": "JOINs (работа с несколькими таблицами)",
+    "question": "При SELF JOIN таблицы Employees для вывода пар «сотрудник — его начальник» необходимо:",
+    "options": [
+      "Указать двум псевдонимам (алиасам) одной и той же таблицы разные имена, например e и m",
+      "Соединить e.manager_id с m.id",
+      "Использовать LEFT JOIN, если нужно показать сотрудников без начальника (например, топ-менеджера)",
+      "Создать отдельную физическую копию таблицы Employees для второго алиаса",
+      "Обязательно использовать CROSS JOIN вместо обычного условия соединения"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/sql/joins/tablica-employees-id-name-manager-id-vyvesti-spisok"
+  },
+  {
+    "id": "sql__podzaprosy-i-dml__q1",
+    "category": "Подзапросы и обновление данных (Subqueries, UPDATE, DELETE)",
+    "question": "Как найти сотрудников с зарплатой выше средней по всей таблице Employees?",
+    "options": [
+      "SELECT * FROM Employees WHERE salary > (SELECT AVG(salary) FROM Employees)",
+      "SELECT * FROM Employees WHERE salary > AVG(salary)",
+      "SELECT * FROM Employees GROUP BY salary HAVING salary > AVG(salary)",
+      "SELECT * FROM Employees WHERE salary > ALL(SELECT salary FROM Employees)",
+      "SELECT * FROM Employees ORDER BY salary DESC LIMIT (SELECT COUNT(*)/2 FROM Employees)"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/sql/podzaprosy-i-dml/tablica-employees-nayti-sotrudnikov-s-zarplatoy-vyshe-sredne"
+  },
+  {
+    "id": "sql__podzaprosy-i-dml__q2",
+    "category": "Подзапросы и обновление данных (Subqueries, UPDATE, DELETE)",
+    "question": "Какими способами можно получить продукт с максимальной ценой в каждой категории (Products: product_name, price, category_id)?",
+    "options": [
+      "Коррелированный подзапрос: WHERE price = (SELECT MAX(price) FROM Products p2 WHERE p2.category_id = p1.category_id)",
+      "Оконная функция ROW_NUMBER() OVER (PARTITION BY category_id ORDER BY price DESC) = 1",
+      "GROUP BY category_id без агрегатных функций и без подзапроса к исходной таблице",
+      "JOIN с подзапросом, возвращающим MAX(price) по каждой category_id",
+      "WHERE price > ALL(SELECT price FROM Products)"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "topicUrl": "/docs/sql/podzaprosy-i-dml/tablica-products-product-name-price-category-id-nayti"
+  },
+  {
+    "id": "sql__podzaprosy-i-dml__q3",
+    "category": "Подзапросы и обновление данных (Subqueries, UPDATE, DELETE)",
+    "question": "Как найти клиентов, у которых нет ни одного заказа?",
+    "options": [
+      "SELECT * FROM Customers c WHERE NOT EXISTS (SELECT 1 FROM Orders o WHERE o.customer_id = c.id)",
+      "SELECT c.* FROM Customers c LEFT JOIN Orders o ON c.id = o.customer_id WHERE o.customer_id IS NULL",
+      "SELECT * FROM Customers WHERE id NOT IN (SELECT customer_id FROM Orders)",
+      "SELECT * FROM Customers c INNER JOIN Orders o ON c.id = o.customer_id WHERE o.id IS NULL",
+      "SELECT * FROM Customers WHERE id IN (SELECT customer_id FROM Orders WHERE customer_id IS NULL)"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/sql/podzaprosy-i-dml/tablica-orders-nayti-klientov-bez-zakazov-not-exists"
+  },
+  {
+    "id": "sql__podzaprosy-i-dml__q4",
+    "category": "Подзапросы и обновление данных (Subqueries, UPDATE, DELETE)",
+    "question": "Как корректно увеличить зарплату на 10% всем сотрудникам отдела 'IT'?",
+    "options": [
+      "UPDATE Employees SET salary = salary * 1.1 WHERE department = 'IT'",
+      "UPDATE Employees SET salary = salary + 10 WHERE department = 'IT'",
+      "UPDATE Employees SET salary = salary * 1.10 WHERE department LIKE 'IT'",
+      "ALTER TABLE Employees SET salary = salary * 1.1 WHERE department = 'IT'",
+      "UPDATE Employees SET salary = salary * 0.1 WHERE department = 'IT'"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "topicUrl": "/docs/sql/podzaprosy-i-dml/tablica-employees-uvelichit-zarplatu-na-10-vsem-v"
+  },
+  {
+    "id": "sql__podzaprosy-i-dml__q5",
+    "category": "Подзапросы и обновление данных (Subqueries, UPDATE, DELETE)",
+    "question": "Как удалить из таблицы Logs (колонка created_at) все записи старше 2023 года?",
+    "options": [
+      "DELETE FROM Logs WHERE created_at < '2023-01-01'",
+      "DELETE FROM Logs WHERE YEAR(created_at) < 2023",
+      "TRUNCATE TABLE Logs WHERE created_at < '2023-01-01'",
+      "DELETE FROM Logs WHERE created_at >= '2023-01-01'",
+      "DROP FROM Logs WHERE created_at < '2023-01-01'"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/sql/podzaprosy-i-dml/tablica-logs-s-kolonkoy-created-at-udalit-zapisi"
+  },
+  {
+    "id": "sql__podzaprosy-i-dml__q6",
+    "category": "Подзапросы и обновление данных (Subqueries, UPDATE, DELETE)",
+    "question": "Чем отличается коррелированный подзапрос от обычного (некоррелированного)?",
+    "options": [
+      "Коррелированный подзапрос ссылается на столбцы внешнего запроса и выполняется повторно для каждой строки внешнего запроса",
+      "Некоррелированный подзапрос выполняется независимо от внешнего запроса один раз",
+      "Коррелированный подзапрос обязательно возвращает несколько строк, а некоррелированный - только одну",
+      "Разницы между ними нет, это синонимы",
+      "Коррелированный подзапрос можно использовать только в предложении FROM"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/sql/podzaprosy-i-dml/tablica-products-product-name-price-category-id-nayti"
+  },
+  {
+    "id": "sql__podzaprosy-i-dml__q7",
+    "category": "Подзапросы и обновление данных (Subqueries, UPDATE, DELETE)",
+    "question": "Что произойдёт, если выполнить UPDATE или DELETE без предложения WHERE?",
+    "options": [
+      "Операция будет применена ко всем строкам таблицы",
+      "СУБД автоматически откажется выполнять запрос без WHERE",
+      "Будет затронута только первая строка таблицы",
+      "Запрос выполнится, но не изменит ни одной строки",
+      "Это приведёт к ошибке синтаксиса"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/sql/podzaprosy-i-dml/tablica-logs-s-kolonkoy-created-at-udalit-zapisi"
+  },
+  {
+    "id": "sql__prodvinutye-koncepcii__q1",
+    "category": "Продвинутые концепции (оконные функции, транзакции, представления)",
+    "question": "Чем отличаются оконные функции ROW_NUMBER(), RANK() и DENSE_RANK() при наличии одинаковых значений (дубликатов) в наборе?",
+    "options": [
+      "ROW_NUMBER() присваивает уникальный номер каждой строке, даже при равных значениях",
+      "RANK() пропускает номера после группы одинаковых значений (оставляет «пробелы»)",
+      "DENSE_RANK() не оставляет пробелов в нумерации после повторяющихся значений",
+      "Все три функции всегда дают одинаковый результат независимо от дубликатов",
+      "RANK() и DENSE_RANK() можно использовать только с PARTITION BY, а ROW_NUMBER() — нет"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/sql/prodvinutye-koncepcii/tablica-employees-prisvoit-rang-kazhdomu-sotrudniku-vnutri-o"
+  },
+  {
+    "id": "sql__prodvinutye-koncepcii__q2",
+    "category": "Продвинутые концепции (оконные функции, транзакции, представления)",
+    "question": "Как правильно вычислить накопительную (running total) сумму заказов для каждого клиента по дате с помощью оконной функции?",
+    "options": [
+      "SUM(amount) OVER (PARTITION BY customer_id ORDER BY order_date)",
+      "SUM(amount) OVER (PARTITION BY customer_id) без ORDER BY даст такую же накопительную сумму",
+      "GROUP BY customer_id, order_date с SUM(amount) даст построчно такой же результат, как и оконная функция",
+      "SUM(amount) OVER (PARTITION BY order_date ORDER BY customer_id)",
+      "Оконные функции нельзя использовать вместе с ORDER BY в определении окна"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/sql/prodvinutye-koncepcii/tablica-orders-vyvesti-summu-datu-i-nakopitelnuyu-summu"
+  },
+  {
+    "id": "sql__prodvinutye-koncepcii__q3",
+    "category": "Продвинутые концепции (оконные функции, транзакции, представления)",
+    "question": "Что делает оконная функция LAG(price) при выводе цены товара и разницы с предыдущей ценой?",
+    "options": [
+      "Возвращает значение цены из предыдущей строки окна согласно ORDER BY",
+      "Возвращает значение цены из следующей строки окна",
+      "Позволяет задать значение по умолчанию, если предыдущей строки не существует",
+      "Требует обязательного использования GROUP BY",
+      "Вычисляет среднее значение цены по всем строкам таблицы"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "topicUrl": "/docs/sql/prodvinutye-koncepcii/tablica-products-vyvesti-nazvanie-cenu-i-raznicu-s"
+  },
+  {
+    "id": "sql__prodvinutye-koncepcii__q4",
+    "category": "Продвинутые концепции (оконные функции, транзакции, представления)",
+    "question": "Какие утверждения о транзакции перевода средств между счетами с откатом при ошибке верны?",
+    "options": [
+      "Транзакция начинается с BEGIN/START TRANSACTION и завершается COMMIT при успехе",
+      "При возникновении ошибки следует выполнить ROLLBACK, чтобы отменить все изменения транзакции",
+      "Транзакция гарантирует атомарность: либо выполняются все операции, либо ни одна",
+      "COMMIT можно вызвать до завершения всех операций перевода без влияния на целостность данных",
+      "ROLLBACK невозможен после выполнения хотя бы одного UPDATE внутри транзакции"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/sql/prodvinutye-koncepcii/napisat-tranzakciyu-dlya-perevoda-100-edinic-so-scheta"
+  },
+  {
+    "id": "sql__prodvinutye-koncepcii__q5",
+    "category": "Продвинутые концепции (оконные функции, транзакции, представления)",
+    "question": "Что из перечисленного относится к свойствам ACID транзакций?",
+    "options": [
+      "Atomicity (атомарность)",
+      "Consistency (согласованность)",
+      "Isolation (изолированность)",
+      "Durability (устойчивость)",
+      "Normalization (нормализация)"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "topicUrl": "/docs/sql/prodvinutye-koncepcii/napisat-tranzakciyu-dlya-perevoda-100-edinic-so-scheta"
+  },
+  {
+    "id": "sql__prodvinutye-koncepcii__q6",
+    "category": "Продвинутые концепции (оконные функции, транзакции, представления)",
+    "question": "Какие утверждения о представлении (VIEW), например HighEarners для сотрудников с зарплатой выше 8000, верны?",
+    "options": [
+      "VIEW — это сохранённый SQL-запрос, который в общем случае не хранит данные физически",
+      "При обращении к VIEW данные извлекаются из базовых таблиц в реальном времени",
+      "VIEW всегда можно использовать для INSERT/UPDATE независимо от сложности запроса",
+      "Простое представление на одной таблице без агрегаций и DISTINCT обычно является обновляемым",
+      "VIEW нельзя использовать в запросах с JOIN других таблиц"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "topicUrl": "/docs/sql/prodvinutye-koncepcii/sozdat-predstavlenie-highearners-dlya-sotrudnikov-s-zarplato"
+  },
+  {
+    "id": "sql__sortirovka-gruppirovka-agregaty__q1",
+    "category": "Сортировка, группировка и агрегатные функции (ORDER BY, GROUP BY, HAVING)",
+    "question": "Какая конструкция используется для сортировки результата запроса по убыванию значения колонки?",
+    "options": [
+      "GROUP BY salary DESC",
+      "ORDER BY salary DESC",
+      "SORT BY salary DESC",
+      "HAVING salary DESC",
+      "ORDER BY salary ASC"
+    ],
+    "correct": [
+      1
+    ],
+    "topicUrl": "/docs/sql/sortirovka-gruppirovka-agregaty/tablica-employees-s-kolonkami-name-salary-vyvesti-sotrudniko"
+  },
+  {
+    "id": "sql__sortirovka-gruppirovka-agregaty__q2",
+    "category": "Сортировка, группировка и агрегатные функции (ORDER BY, GROUP BY, HAVING)",
+    "question": "Какие агрегатные функции можно использовать в SQL для вычисления сводных значений по группе строк?",
+    "options": [
+      "COUNT()",
+      "SUM()",
+      "AVG()",
+      "ORDER()",
+      "MAX()"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "topicUrl": "/docs/sql/sortirovka-gruppirovka-agregaty/tablica-employees-poschitat-obschee-kolichestvo-sotrudnikov"
+  },
+  {
+    "id": "sql__sortirovka-gruppirovka-agregaty__q3",
+    "category": "Сортировка, группировка и агрегатные функции (ORDER BY, GROUP BY, HAVING)",
+    "question": "Как посчитать количество сотрудников в каждом отделе таблицы Employees(name, department)?",
+    "options": [
+      "SELECT department, COUNT(*) FROM Employees GROUP BY department",
+      "SELECT department, COUNT(*) FROM Employees ORDER BY department",
+      "SELECT COUNT(department) FROM Employees",
+      "SELECT department, COUNT(*) FROM Employees WHERE department GROUP BY department",
+      "SELECT department, SUM(*) FROM Employees GROUP BY department"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/sql/sortirovka-gruppirovka-agregaty/tablica-employees-s-kolonkami-name-department-poschitat-koli"
+  },
+  {
+    "id": "sql__sortirovka-gruppirovka-agregaty__q4",
+    "category": "Сортировка, группировка и агрегатные функции (ORDER BY, GROUP BY, HAVING)",
+    "question": "Как найти среднюю зарплату по отделу 'Sales' в таблице Employees(department, salary)?",
+    "options": [
+      "SELECT AVG(salary) FROM Employees WHERE department = 'Sales'",
+      "SELECT AVG(salary) FROM Employees GROUP BY department HAVING department = 'Sales'",
+      "SELECT department, AVG(salary) FROM Employees WHERE department = 'Sales' GROUP BY department",
+      "SELECT SUM(salary)/COUNT(*) FROM Employees ORDER BY department = 'Sales'",
+      "SELECT MAX(salary) FROM Employees WHERE department = 'Sales'"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "topicUrl": "/docs/sql/sortirovka-gruppirovka-agregaty/tablica-employees-s-kolonkami-department-salary-nayti-sredny"
+  },
+  {
+    "id": "sql__sortirovka-gruppirovka-agregaty__q5",
+    "category": "Сортировка, группировка и агрегатные функции (ORDER BY, GROUP BY, HAVING)",
+    "question": "Как получить максимальную и минимальную зарплату по каждому отделу?",
+    "options": [
+      "SELECT department, MAX(salary), MIN(salary) FROM Employees GROUP BY department",
+      "SELECT department, MAX(salary), MIN(salary) FROM Employees ORDER BY department",
+      "SELECT MAX(salary), MIN(salary) FROM Employees",
+      "SELECT department, MAX(salary), MIN(salary) FROM Employees GROUP BY salary",
+      "SELECT department, MAX(salary), MIN(salary) FROM Employees WHERE department GROUP BY department"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/sql/sortirovka-gruppirovka-agregaty/tablica-employees-s-kolonkami-department-salary-poschitat-ma"
+  },
+  {
+    "id": "sql__sortirovka-gruppirovka-agregaty__q6",
+    "category": "Сортировка, группировка и агрегатные функции (ORDER BY, GROUP BY, HAVING)",
+    "question": "Какое ключевое слово используется для фильтрации групп после агрегации (например, средняя зарплата > 6000), в отличие от фильтрации отдельных строк?",
+    "options": [
+      "WHERE",
+      "HAVING",
+      "GROUP BY",
+      "FILTER",
+      "ORDER BY"
+    ],
+    "correct": [
+      1
+    ],
+    "topicUrl": "/docs/sql/sortirovka-gruppirovka-agregaty/tablica-employees-nayti-otdely-v-kotoryh-srednyaya-zarplata"
+  },
+  {
+    "id": "sql__sortirovka-gruppirovka-agregaty__q7",
+    "category": "Сортировка, группировка и агрегатные функции (ORDER BY, GROUP BY, HAVING)",
+    "question": "Верные утверждения о порядке выполнения и назначении HAVING в SQL-запросе:",
+    "options": [
+      "HAVING применяется к результатам после группировки и агрегации",
+      "HAVING может ссылаться на результат агрегатной функции, например SUM(order_amount)",
+      "HAVING всегда выполняется раньше WHERE",
+      "HAVING заменяет собой GROUP BY",
+      "HAVING можно использовать без GROUP BY для фильтрации по агрегату всей таблицы"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "topicUrl": "/docs/sql/sortirovka-gruppirovka-agregaty/tablica-orders-s-kolonkami-customer-id-order-amount"
+  },
+  {
+    "id": "sql__sortirovka-gruppirovka-agregaty__q8",
+    "category": "Сортировка, группировка и агрегатные функции (ORDER BY, GROUP BY, HAVING)",
+    "question": "Как вывести customer_id и общую сумму заказов только для клиентов с суммой заказов больше 1000 (таблица Orders(customer_id, order_amount))?",
+    "options": [
+      "SELECT customer_id, SUM(order_amount) FROM Orders GROUP BY customer_id HAVING SUM(order_amount) > 1000",
+      "SELECT customer_id, SUM(order_amount) FROM Orders WHERE order_amount > 1000 GROUP BY customer_id",
+      "SELECT customer_id, SUM(order_amount) FROM Orders GROUP BY customer_id WHERE SUM(order_amount) > 1000",
+      "SELECT customer_id, order_amount FROM Orders HAVING order_amount > 1000",
+      "SELECT customer_id, SUM(order_amount) AS total FROM Orders GROUP BY customer_id HAVING total > 1000"
+    ],
+    "correct": [
+      0,
+      4
+    ],
+    "topicUrl": "/docs/sql/sortirovka-gruppirovka-agregaty/tablica-orders-s-kolonkami-customer-id-order-amount"
+  }
+]

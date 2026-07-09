@@ -1,0 +1,1695 @@
+[
+  {
+    "id": "automation-qa__api-testirovanie__q1",
+    "category": "API-тестирование",
+    "question": "Зачем нужно тестировать API, а не только UI приложения?",
+    "options": [
+      "API-тесты быстрее и стабильнее UI-тестов, позволяют проверить логику раньше отрисовки интерфейса",
+      "API-тесты полностью заменяют необходимость в UI-тестировании",
+      "Тестирование API помогает находить ошибки на уровне бизнес-логики и интеграций до появления UI",
+      "API-тестирование нужно только для мобильных приложений",
+      "API-тесты позволяют проверять контракты между сервисами независимо от фронтенда"
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ],
+    "topicUrl": "/docs/automation-qa/api-testirovanie/dlya-chego-nuzhno-testirovat-api"
+  },
+  {
+    "id": "automation-qa__api-testirovanie__q2",
+    "category": "API-тестирование",
+    "question": "Какие утверждения о REST и SOAP верны?",
+    "options": [
+      "SOAP использует строгий XML-формат сообщений и протокол на основе стандартов (WS-*)",
+      "REST — это протокол, а SOAP — архитектурный стиль",
+      "REST обычно использует стандартные HTTP-методы (GET, POST, PUT, DELETE) и часто работает с JSON",
+      "SOAP не может работать поверх HTTP",
+      "REST является более легковесным и гибким по сравнению с SOAP"
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ],
+    "topicUrl": "/docs/automation-qa/api-testirovanie/chto-takoe-rest-i-soap-v-chem-ih"
+  },
+  {
+    "id": "automation-qa__api-testirovanie__q3",
+    "category": "API-тестирование",
+    "question": "Что такое сериализация и десериализация данных в контексте Java API-тестирования?",
+    "options": [
+      "Сериализация — преобразование объекта в формат для передачи/хранения (например, JSON), десериализация — обратный процесс",
+      "Это процесс шифрования данных перед отправкой по сети",
+      "Jackson и Gson — популярные библиотеки для сериализации/десериализации JSON в Java",
+      "Сериализация возможна только для примитивных типов данных",
+      "Десериализация — это преобразование XML в SOAP-запрос"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/api-testirovanie/chto-takoe-serializaciya-i-deserializaciya-dannyh-kakie-bibl"
+  },
+  {
+    "id": "automation-qa__api-testirovanie__q4",
+    "category": "API-тестирование",
+    "question": "Какие аннотации Jackson и особенности сравнения Jackson и Gson верны?",
+    "options": [
+      "@JsonProperty позволяет задать имя поля в JSON, отличное от имени поля в Java-классе",
+      "@JsonIgnore используется, чтобы исключить поле из сериализации/десериализации",
+      "Gson изначально разработан Google и по умолчанию не требует аннотаций для базовой работы",
+      "Jackson не поддерживает работу с датами и временем",
+      "Gson всегда быстрее Jackson в любых сценариях использования"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/api-testirovanie/sravnite-jackson-i-gson-kakie-annotacii-iz-jackson"
+  },
+  {
+    "id": "automation-qa__api-testirovanie__q5",
+    "category": "API-тестирование",
+    "question": "Что из перечисленного лучше всего описывает назначение Retrofit?",
+    "options": [
+      "Типобезопасный HTTP-клиент для Java/Android, упрощающий работу с REST API через интерфейсы с аннотациями",
+      "Библиотека для запуска UI-тестов в браузере",
+      "Инструмент для нагрузочного тестирования API",
+      "Средство для генерации отчетов о покрытии тестами",
+      "СУБД для хранения тестовых данных"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/automation-qa/api-testirovanie/chto-takoe-retrofit-dlya-chego-on-ispolzuetsya"
+  },
+  {
+    "id": "automation-qa__api-testirovanie__q6",
+    "category": "API-тестирование",
+    "question": "Что верно про BDD-стиль RestAssured и проверку статус-кода/извлечение JSON?",
+    "options": [
+      "given(), when() и then() — ключевые методы BDD-стиля построения запросов",
+      "Статус-код можно проверить методом statusCode(200) в блоке then()",
+      "Значение из JSON можно извлечь через extract().path(\"поле\") или jsonPath().get(\"поле\")",
+      "RestAssured не поддерживает работу с JSON-путями",
+      "Статус-код всегда проверяется только вручную через сравнение строк"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/api-testirovanie/chto-takoe-restassured-kakie-klyuchevye-bdd-metody-on"
+  },
+  {
+    "id": "automation-qa__api-testirovanie__q7",
+    "category": "API-тестирование",
+    "question": "В чем преимущество AssertJ перед стандартными assert-методами JUnit?",
+    "options": [
+      "AssertJ предоставляет более читаемый fluent-синтаксис (assertThat(...).isEqualTo(...))",
+      "AssertJ поддерживает богатый набор методов для проверки коллекций (hasSize, contains, extracting)",
+      "AssertJ работает только с примитивными типами",
+      "AssertJ полностью заменяет необходимость в JUnit как тестовом фреймворке",
+      "AssertJ дает более информативные сообщения об ошибках сравнения"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "topicUrl": "/docs/automation-qa/api-testirovanie/chto-takoe-assertj-v-chem-ego-preimuschestvo-pered"
+  },
+  {
+    "id": "automation-qa__api-testirovanie__q8",
+    "category": "API-тестирование",
+    "question": "Что такое Awaitility и как он используется при тестировании асинхронных операций?",
+    "options": [
+      "Awaitility — библиотека для ожидания выполнения асинхронных условий без использования жестких Thread.sleep()",
+      "Awaitility позволяет задавать таймаут и интервал опроса условия через await().atMost(...).until(...)",
+      "Awaitility заменяет собой HTTP-клиент для отправки запросов",
+      "Awaitility используется исключительно для тестирования баз данных",
+      "Awaitility помогает избежать флаки-тестов при проверке отложенных результатов API"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "topicUrl": "/docs/automation-qa/api-testirovanie/chto-takoe-awaitility-i-dlya-kakih-celey-ego"
+  },
+  {
+    "id": "automation-qa__arhitektura-freymvorka__q1",
+    "category": "Архитектура фреймворка",
+    "question": "Какие проблемы решает паттерн Page Object в автоматизации тестирования?",
+    "options": [
+      "Инкапсулирует локаторы и действия со страницей в одном классе, снижая дублирование кода",
+      "Упрощает поддержку тестов при изменении вёрстки — правки нужно вносить только в одном месте",
+      "Ускоряет выполнение тестов за счёт параллельного запуска браузеров",
+      "Отделяет логику работы со страницей от логики самих тестовых сценариев",
+      "Автоматически генерирует отчёты о покрытии кода тестами"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "topicUrl": "/docs/automation-qa/arhitektura-freymvorka/chto-takoe-pattern-page-object-kakie-problemy-on"
+  },
+  {
+    "id": "automation-qa__arhitektura-freymvorka__q2",
+    "category": "Архитектура фреймворка",
+    "question": "Какие уровни (layers) обычно выделяют в хорошо структурированном фреймворке автоматизации?",
+    "options": [
+      "Уровень тестов (test layer)",
+      "Уровень бизнес-логики / шагов (business/step layer)",
+      "Core-уровень (базовые утилиты, драйверы, конфигурация)",
+      "Уровень базы данных с прямыми SQL-запросами из тестов",
+      "Уровень CI/CD пайплайна как обязательная часть кода фреймворка"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/arhitektura-freymvorka/kakie-urovni-layers-mozhno-vydelit-v-horosho-strukturirovann"
+  },
+  {
+    "id": "automation-qa__arhitektura-freymvorka__q3",
+    "category": "Архитектура фреймворка",
+    "question": "Из каких компонентов состоит классический паттерн MVC (Model-View-Controller)?",
+    "options": [
+      "Model — данные и бизнес-логика приложения",
+      "View — представление, отображаемое пользователю",
+      "Controller — обрабатывает ввод и связывает Model и View",
+      "Repository — слой доступа к внешним API",
+      "Service — слой генерации отчётов о тестировании"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/arhitektura-freymvorka/chto-takoe-mvc-iz-kakih-komponentov-sostoit"
+  },
+  {
+    "id": "automation-qa__arhitektura-freymvorka__q4",
+    "category": "Архитектура фреймворка",
+    "question": "Что такое BDD (Behavior Driven Development) и для чего нужны файлы `.feature`?",
+    "options": [
+      "BDD — подход к разработке через описание поведения системы в терминах, понятных бизнесу",
+      "Файлы `.feature` содержат сценарии на языке Gherkin с ключевыми словами Given/When/Then",
+      "BDD — это инструмент для автоматической генерации локаторов элементов страницы",
+      "Файлы `.feature` компилируются напрямую в байт-код без промежуточного парсинга",
+      "Gherkin-сценарии служат единым источником требований, тестов и документации"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "topicUrl": "/docs/automation-qa/arhitektura-freymvorka/chto-takoe-bdd-i-gherkin-dlya-chego-nuzhny"
+  },
+  {
+    "id": "automation-qa__arhitektura-freymvorka__q5",
+    "category": "Архитектура фреймворка",
+    "question": "Какие инструменты применяются для BDD-тестирования?",
+    "options": [
+      "Cucumber",
+      "SpecFlow",
+      "Behave",
+      "JUnit без каких-либо дополнительных библиотек",
+      "Postman коллекции"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/arhitektura-freymvorka/kakie-instrumenty-ispolzuyutsya-dlya-bdd-testirovaniya-cucum"
+  },
+  {
+    "id": "automation-qa__arhitektura-freymvorka__q6",
+    "category": "Архитектура фреймворка",
+    "question": "Что такое Akita и какие компоненты входят в его состав?",
+    "options": [
+      "Akita — Java-фреймворк для UI-автоматизации на базе BDD",
+      "AkitaScenario управляет жизненным циклом сценариев и хранит контекст выполнения",
+      "AkitaPage используется для описания страниц с элементами",
+      "AkitaStepDefinitions содержит шаги, связывающие Gherkin-сценарии с кодом",
+      "Akita — это инструмент для нагрузочного тестирования API"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "topicUrl": "/docs/automation-qa/arhitektura-freymvorka/chto-takoe-akita-kakie-osnovnye-komponenty-v-nego"
+  },
+  {
+    "id": "automation-qa__arhitektura-freymvorka__q7",
+    "category": "Архитектура фреймворка",
+    "question": "Как в Akita организована работа со страницами и элементами через аннотации?",
+    "options": [
+      "Аннотация @Name задаёт человекочитаемое имя элемента для использования в шагах",
+      "Аннотация @FindBy указывает локатор для поиска элемента на странице",
+      "Поля страницы аннотируются напрямую в классе, унаследованном от AkitaPage",
+      "Аннотации @Name и @FindBy заменяют собой необходимость писать сами Gherkin-сценарии",
+      "Локаторы в Akita можно описывать декларативно, без ручного поиска элементов в коде теста"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "topicUrl": "/docs/automation-qa/arhitektura-freymvorka/kak-v-akita-organizovana-rabota-so-stranicami-i"
+  },
+  {
+    "id": "automation-qa__avtomatizatsiya-mobilnyh__q1",
+    "category": "Автоматизация мобильных приложений",
+    "question": "Что из перечисленного верно про Appium?",
+    "options": [
+      "Это кроссплатформенный инструмент для автоматизации Android и iOS приложений",
+      "Он требует внесения изменений в исходный код тестируемого приложения",
+      "Он основан на протоколе WebDriver",
+      "Он работает только с нативными Android-приложениями",
+      "Appium не поддерживает автоматизацию гибридных приложений"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/avtomatizatsiya-mobilnyh/chto-takoe-appium-dlya-kakih-platform-on-ispolzuetsya"
+  },
+  {
+    "id": "automation-qa__avtomatizatsiya-mobilnyh__q2",
+    "category": "Автоматизация мобильных приложений",
+    "question": "Каковы основные принципы работы Appium?",
+    "options": [
+      "Использует протокол WebDriver для взаимодействия с приложением",
+      "Не требует изменения кода тестируемого приложения",
+      "Обязательно требует установки Appium прямо на тестируемое устройство",
+      "Работает как сервер, принимающий команды от клиента и выполняющий их на устройстве",
+      "Может быть написан только на Java"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "topicUrl": "/docs/automation-qa/avtomatizatsiya-mobilnyh/kakovy-osnovnye-principy-raboty-appium-ispolzovanie-webdrive"
+  },
+  {
+    "id": "automation-qa__avtomatizatsiya-mobilnyh__q3",
+    "category": "Автоматизация мобильных приложений",
+    "question": "Для чего используется Appium Inspector?",
+    "options": [
+      "Для инспекции и просмотра иерархии элементов интерфейса приложения",
+      "Для получения атрибутов и локаторов элементов с целью написания тестов",
+      "Для компиляции мобильного приложения в APK или IPA",
+      "Для автоматического генерирования тестовых сценариев без участия разработчика",
+      "Для мониторинга производительности сервера CI/CD"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/automation-qa/avtomatizatsiya-mobilnyh/chto-takoe-appium-inspector-i-dlya-chego-on"
+  },
+  {
+    "id": "automation-qa__avtomatizatsiya-mobilnyh__q4",
+    "category": "Автоматизация мобильных приложений",
+    "question": "Какие стратегии поиска элементов поддерживаются в Appium?",
+    "options": [
+      "Accessibility ID",
+      "XPath",
+      "Android UIAutomator",
+      "iOS Predicate String",
+      "SQL-запросы к базе данных приложения"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "topicUrl": "/docs/automation-qa/avtomatizatsiya-mobilnyh/kakie-suschestvuyut-strategii-poiska-elementov-v-appium-acce"
+  },
+  {
+    "id": "automation-qa__avtomatizatsiya-mobilnyh__q5",
+    "category": "Автоматизация мобильных приложений",
+    "question": "В чем разница между MobileElement, AndroidElement и IOSElement?",
+    "options": [
+      "MobileElement — общий (базовый) тип элемента, платформонезависимый",
+      "AndroidElement и IOSElement — платформоспецифичные типы, расширяющие MobileElement",
+      "AndroidElement используется только для веб-элементов в браузере",
+      "IOSElement предоставляет доступ к специфичным для iOS методам и атрибутам",
+      "Все три типа полностью идентичны и взаимозаменяемы"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "topicUrl": "/docs/automation-qa/avtomatizatsiya-mobilnyh/v-chem-raznica-mezhdu-mobileelement-androidelement-i-ioselem"
+  },
+  {
+    "id": "automation-qa__avtomatizatsiya-mobilnyh__q6",
+    "category": "Автоматизация мобильных приложений",
+    "question": "Какие нативные инструменты автоматизации соответствуют платформам Android и iOS?",
+    "options": [
+      "Espresso и UI Automator — для Android",
+      "XCUITest — для iOS",
+      "Selenium WebDriver — нативный инструмент для Android",
+      "Kaspresso — надстройка над Espresso/UI Automator для Android",
+      "XCUITest используется только для тестирования веб-страниц"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "topicUrl": "/docs/automation-qa/avtomatizatsiya-mobilnyh/kakie-instrumenty-dlya-avtomatizacii-android-vy-znaete-espre"
+  },
+  {
+    "id": "automation-qa__avtomatizatsiya-mobilnyh__q7",
+    "category": "Автоматизация мобильных приложений",
+    "question": "Какие преимущества дает использование Kaspresso при написании тестов для Android?",
+    "options": [
+      "Более читаемый и структурированный синтаксис тестов",
+      "Встроенные механизмы стабильности (retry, интерцепторы) для борьбы с флаки-тестами",
+      "Поддержка Page Object паттерна",
+      "Возможность автоматизировать iOS-приложения без изменений",
+      "Полная замена необходимости в Espresso"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/avtomatizatsiya-mobilnyh/chto-takoe-kaspresso-kakie-preimuschestva-on-daet-pri"
+  },
+  {
+    "id": "automation-qa__avtomatizatsiya-mobilnyh__q8",
+    "category": "Автоматизация мобильных приложений",
+    "question": "Что из перечисленного верно про WebdriverIO?",
+    "options": [
+      "Это JavaScript/Node.js фреймворк для автоматизации браузеров и мобильных приложений",
+      "Может использоваться совместно с Appium для тестирования Android и iOS",
+      "Работает исключительно с веб-приложениями и не поддерживает мобильные платформы",
+      "Поддерживает написание тестов на синтаксисе, похожем на Mocha/Jasmine",
+      "Является частью операционной системы Android"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "topicUrl": "/docs/automation-qa/avtomatizatsiya-mobilnyh/chto-takoe-webdriverio-i-dlya-kakih-platform-on"
+  },
+  {
+    "id": "automation-qa__avtomatizatsiya-mobilnyh__q9",
+    "category": "Автоматизация мобильных приложений",
+    "question": "Какие компоненты обычно входят в набор (скоуп) для запуска мобильных автотестов?",
+    "options": [
+      "Appium Server",
+      "Эмуляторы или симуляторы устройств",
+      "Реальные физические устройства",
+      "Только облачный CI/CD без каких-либо устройств",
+      "Драйверы платформ (UiAutomator2, XCUITest)"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "topicUrl": "/docs/automation-qa/avtomatizatsiya-mobilnyh/kakie-programmy-i-instrumenty-vhodyat-v-skoup-nabor"
+  },
+  {
+    "id": "automation-qa__ci-cd__q1",
+    "category": "CI/CD",
+    "question": "Что означают аббревиатуры CI и CD в контексте DevOps-практик?",
+    "options": [
+      "CI — Continuous Integration, CD — Continuous Delivery/Deployment",
+      "CI — Code Inspection, CD — Code Deployment",
+      "CI — Continuous Integration, CD — Continuous Debugging",
+      "CI — Central Infrastructure, CD — Continuous Deployment",
+      "CI — Code Integration, CD — Code Distribution"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/automation-qa/ci-cd/chto-takoe-ci-cd-rasshifruyte-abbreviatury-i-obyasnite"
+  },
+  {
+    "id": "automation-qa__ci-cd__q2",
+    "category": "CI/CD",
+    "question": "В чем разница между Continuous Delivery и Continuous Deployment?",
+    "options": [
+      "Continuous Delivery требует ручного подтверждения перед релизом в продакшн",
+      "Continuous Deployment автоматически выкатывает изменения в продакшн без ручного вмешательства",
+      "Это два одинаковых термина без различий",
+      "Continuous Delivery применяется только к мобильным приложениям",
+      "Continuous Deployment исключает этап тестирования из пайплайна"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/automation-qa/ci-cd/v-chem-raznica-mezhdu-continuous-delivery-i-continuous"
+  },
+  {
+    "id": "automation-qa__ci-cd__q3",
+    "category": "CI/CD",
+    "question": "Какие этапы обычно входят в типовую структуру пайплайна CI/CD?",
+    "options": [
+      "Source",
+      "Build",
+      "Test",
+      "Deploy",
+      "Маркетинговая рассылка"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "topicUrl": "/docs/automation-qa/ci-cd/chto-takoe-payplayn-pipeline-v-ci-cd-opishite"
+  },
+  {
+    "id": "automation-qa__ci-cd__q4",
+    "category": "CI/CD",
+    "question": "Какие из перечисленных инструментов являются системами CI/CD?",
+    "options": [
+      "Jenkins",
+      "GitLab CI",
+      "GitHub Actions",
+      "TeamCity",
+      "Photoshop"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "topicUrl": "/docs/automation-qa/ci-cd/kakie-instrumenty-ci-cd-vy-znaete-jenkins-gitlab"
+  },
+  {
+    "id": "automation-qa__ci-cd__q5",
+    "category": "CI/CD",
+    "question": "Какие преимущества дает внедрение CI/CD для команды тестирования?",
+    "options": [
+      "Раннее обнаружение дефектов за счет частых прогонов тестов",
+      "Быстрая обратная связь по качеству кода",
+      "Автоматизация рутинных операций сборки и деплоя",
+      "Полное исключение необходимости в тестировании",
+      "Гарантированное отсутствие багов в продакшне"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/ci-cd/kakie-preimuschestva-daet-vnedrenie-ci-cd-dlya-komandy"
+  },
+  {
+    "id": "automation-qa__ci-cd__q6",
+    "category": "CI/CD",
+    "question": "Какие ключевые разделы обычно присутствуют в YAML-конфигурации GitHub Actions или GitLab CI?",
+    "options": [
+      "name",
+      "on (триггеры запуска)",
+      "jobs",
+      "steps",
+      "database (обязательный раздел подключения к БД)"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "topicUrl": "/docs/automation-qa/ci-cd/kak-vyglyadit-tipichnyy-yaml-fayl-konfiguracii-dlya-github"
+  },
+  {
+    "id": "automation-qa__ci-cd__q7",
+    "category": "CI/CD",
+    "question": "Что такое артефакты (artifacts) в контексте CI/CD?",
+    "options": [
+      "Файлы-результаты сборки или тестов (отчеты, бинарники, логи), сохраняемые между этапами пайплайна",
+      "Ошибки, возникающие при сбое пайплайна",
+      "Учетные записи пользователей в системе CI",
+      "Скрипты для отправки уведомлений в Slack",
+      "Временные ветки в системе контроля версий"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/automation-qa/ci-cd/chto-takoe-artefakty-artifacts-v-kontekste-ci-cd"
+  },
+  {
+    "id": "automation-qa__ci-cd__q8",
+    "category": "CI/CD",
+    "question": "В чем принципиальное отличие контейнеризации от виртуализации, и какие плюсы дает Docker для запуска автотестов?",
+    "options": [
+      "Контейнеры используют общее ядро ОС хоста, в отличие от полноценных виртуальных машин",
+      "Docker обеспечивает изолированное и воспроизводимое окружение для тестов",
+      "Виртуализация всегда быстрее контейнеризации при запуске тестов",
+      "Docker-образы позволяют легко переносить окружение между CI-агентами и локальной машиной",
+      "Контейнеризация полностью заменяет необходимость в виртуальных машинах во всех сценариях"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "topicUrl": "/docs/automation-qa/ci-cd/chto-takoe-virtualizaciya-i-konteynerizaciya-v-chem-ih"
+  },
+  {
+    "id": "automation-qa__git__q1",
+    "category": "Git",
+    "question": "Чем децентрализованная система контроля версий (Git) принципиально отличается от централизованной (SVN)?",
+    "options": [
+      "В Git каждый разработчик имеет полную копию репозитория с историей, работа возможна офлайн",
+      "В Git история хранится только на центральном сервере, без сервера работать нельзя",
+      "В SVN каждый клиент хранит полную копию репозитория, а Git требует постоянного подключения к серверу",
+      "Git и SVN устроены одинаково, разница только в синтаксисе команд",
+      "В Git отсутствует понятие коммита, изменения фиксируются автоматически"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/automation-qa/git/v-chem-raznica-mezhdu-centralizovannymi-svn-i-decentralizova"
+  },
+  {
+    "id": "automation-qa__git__q2",
+    "category": "Git",
+    "question": "Какие базовые команды Git используются для клонирования репозитория, добавления файлов в индекс и фиксации изменений?",
+    "options": [
+      "git clone",
+      "git add",
+      "git commit",
+      "git bisect",
+      "git blame"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/git/nazovite-i-obyasnite-naznachenie-bazovyh-komand-git-clone"
+  },
+  {
+    "id": "automation-qa__git__q3",
+    "category": "Git",
+    "question": "Что является особенностью команды git rebase по сравнению с git merge?",
+    "options": [
+      "git rebase переносит коммиты текущей ветки на новую базу, формируя линейную историю",
+      "git merge создаёт коммит слияния, объединяя истории двух веток",
+      "git rebase никогда не изменяет хэши существующих коммитов",
+      "git merge всегда переписывает историю коммитов",
+      "git rebase безопасно использовать в публичной (общей) ветке без предупреждений"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/automation-qa/git/v-chem-raznica-mezhdu-komandami-git-merge-i"
+  },
+  {
+    "id": "automation-qa__git__q4",
+    "category": "Git",
+    "question": "Для чего используется команда git cherry-pick?",
+    "options": [
+      "Чтобы применить отдельный коммит из другой ветки к текущей ветке",
+      "Чтобы удалить все незакоммиченные изменения в рабочей директории",
+      "Чтобы перенести один конкретный багфикс из develop в release без слияния всей ветки",
+      "Чтобы посмотреть автора изменений построчно",
+      "Чтобы объединить несколько коммитов в один"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/git/chto-delaet-komanda-git-cherry-pick-v-kakih"
+  },
+  {
+    "id": "automation-qa__git__q5",
+    "category": "Git",
+    "question": "Какая команда позволяет временно отложить незакоммиченные изменения, не создавая коммит, и вернуться к ним позже?",
+    "options": [
+      "git stash",
+      "git commit --amend",
+      "git reset --hard",
+      "git revert",
+      "git fetch"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/automation-qa/git/kak-vremenno-sohranit-nezakommichennye-izmeneniya-ne-sozdava"
+  },
+  {
+    "id": "automation-qa__git__q6",
+    "category": "Git",
+    "question": "В чем разница между git fetch и git pull?",
+    "options": [
+      "git fetch только скачивает изменения из удаленного репозитория без слияния с локальной веткой",
+      "git pull эквивалентен git fetch + git merge (или rebase)",
+      "git fetch автоматически сливает изменения в текущую рабочую ветку",
+      "git pull только скачивает данные, но не изменяет рабочую директорию",
+      "Обе команды идентичны и взаимозаменяемы"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/automation-qa/git/obyasnite-raznicu-mezhdu-git-fetch-i-git-pull"
+  },
+  {
+    "id": "automation-qa__git__q7",
+    "category": "Git",
+    "question": "Чем git revert отличается от git reset и почему revert считается безопаснее для общей (публичной) ветки?",
+    "options": [
+      "git revert создает новый коммит, отменяющий изменения, не переписывая историю",
+      "git reset может переписывать историю и удалять коммиты, что опасно при работе в команде",
+      "git revert удаляет коммит из истории безвозвратно",
+      "git reset всегда создает новый коммит вместо изменения указателя ветки",
+      "git revert и git reset выполняют абсолютно одинаковое действие"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/automation-qa/git/v-chem-otlichie-git-revert-ot-git-reset"
+  },
+  {
+    "id": "automation-qa__git__q8",
+    "category": "Git",
+    "question": "Для чего применяются команды git blame и git bisect?",
+    "options": [
+      "git blame показывает, кто и в каком коммите последний раз изменил каждую строку файла",
+      "git bisect помогает найти коммит, внесший баг, с помощью бинарного поиска по истории",
+      "git blame используется для слияния веток",
+      "git bisect автоматически исправляет найденную ошибку",
+      "Обе команды предназначены только для настройки имени пользователя и email"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/automation-qa/git/kak-s-pomoschyu-git-nayti-kommit-kotoryy-vnes"
+  },
+  {
+    "id": "automation-qa__loggery-i-reportery__q1",
+    "category": "Логгеры и репортеры",
+    "question": "Зачем нужно логирование в автотестах?",
+    "options": [
+      "Чтобы фиксировать шаги выполнения теста и упрощать диагностику падений",
+      "Чтобы автоматически исправлять упавшие тесты",
+      "Чтобы ускорить выполнение тестов за счёт кэширования",
+      "Чтобы заменить систему контроля версий",
+      "Чтобы генерировать тестовые данные"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/automation-qa/loggery-i-reportery/chto-takoe-logirovanie-i-zachem-ono-nuzhno-v"
+  },
+  {
+    "id": "automation-qa__loggery-i-reportery__q2",
+    "category": "Логгеры и репортеры",
+    "question": "Какие библиотеки логирования применяются в Java-проектах?",
+    "options": [
+      "Log4j",
+      "SLF4J",
+      "Selenium WebDriver",
+      "Mockito",
+      "JUnit Jupiter"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/automation-qa/loggery-i-reportery/chto-takoe-logirovanie-i-zachem-ono-nuzhno-v"
+  },
+  {
+    "id": "automation-qa__loggery-i-reportery__q3",
+    "category": "Логгеры и репортеры",
+    "question": "Что такое репортер в контексте автотестов и зачем он нужен?",
+    "options": [
+      "Инструмент, формирующий наглядный отчёт о результатах прогона тестов",
+      "Инструмент, компилирующий исходный код тестов",
+      "Инструмент, ускоряющий работу браузера",
+      "Инструмент, генерирующий случайные тестовые данные",
+      "Инструмент для управления версиями зависимостей"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/automation-qa/loggery-i-reportery/chto-takoe-reporter-i-dlya-chego-on-nuzhen"
+  },
+  {
+    "id": "automation-qa__loggery-i-reportery__q4",
+    "category": "Логгеры и репортеры",
+    "question": "Какие инструменты являются популярными репортерами в автоматизации тестирования?",
+    "options": [
+      "Allure",
+      "ExtentReports",
+      "Log4j",
+      "Selenide",
+      "Maven"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/automation-qa/loggery-i-reportery/chto-takoe-reporter-i-dlya-chego-on-nuzhen"
+  },
+  {
+    "id": "automation-qa__loggery-i-reportery__q5",
+    "category": "Логгеры и репортеры",
+    "question": "Какие аннотации Allure используются для улучшения структуры и наглядности отчёта?",
+    "options": [
+      "@Epic",
+      "@Feature",
+      "@Story",
+      "@Step",
+      "@BeforeEach"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "topicUrl": "/docs/automation-qa/loggery-i-reportery/kakie-annotacii-allure-ispolzuyutsya-dlya-uluchsheniya-otche"
+  },
+  {
+    "id": "automation-qa__loggery-i-reportery__q6",
+    "category": "Логгеры и репортеры",
+    "question": "Как в Allure можно прикрепить скриншот к отчёту при падении теста?",
+    "options": [
+      "Использовать метод с аннотацией @Attachment, возвращающий байты скриншота",
+      "Добавить скриншот вручную в исходный код теста после его выполнения",
+      "Использовать аннотацию @Severity для передачи изображения",
+      "Указать путь к скриншоту в pom.xml",
+      "Скриншоты в Allure прикрепить невозможно"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/automation-qa/loggery-i-reportery/kak-s-pomoschyu-allure-prikrepit-skrinshot-k-otchetu"
+  },
+  {
+    "id": "automation-qa__loggery-i-reportery__q7",
+    "category": "Логгеры и репортеры",
+    "question": "Какие метрики используются для оценки эффективности автоматизации тестирования?",
+    "options": [
+      "Покрытие тестами",
+      "Процент прохождения тестов",
+      "Flakiness (нестабильность тестов)",
+      "Время выполнения тестов",
+      "Количество коммитов разработчиков"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "topicUrl": "/docs/automation-qa/loggery-i-reportery/kakie-metriki-avtomatizacii-vy-znaete-pokrytie-testami-proce"
+  },
+  {
+    "id": "automation-qa__loggery-i-reportery__q8",
+    "category": "Логгеры и репортеры",
+    "question": "Что характерно для flaky-тестов и как с ними бороться?",
+    "options": [
+      "Это тесты, дающие разный результат (pass/fail) при неизменном коде и окружении",
+      "Причиной часто являются гонки состояний, ожидания и зависимость от внешних сервисов",
+      "Для борьбы с ними используют явные ожидания и изоляцию тестовых данных",
+      "Это тесты, которые всегда падают из-за синтаксической ошибки",
+      "Flaky-тесты нужно немедленно удалять без анализа причин"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/loggery-i-reportery/chto-takoe-flaky-testy-i-kak-s-nimi"
+  },
+  {
+    "id": "automation-qa__lokatory__q1",
+    "category": "Локаторы",
+    "question": "Что такое локатор в UI-автоматизации и зачем он нужен?",
+    "options": [
+      "Способ найти и идентифицировать элемент на странице для взаимодействия с ним",
+      "Инструмент для генерации отчетов о прохождении тестов",
+      "Механизм ожидания загрузки страницы",
+      "Способ сравнения скриншотов между собой",
+      "Метод логирования действий пользователя в браузере"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/automation-qa/lokatory/chto-takoe-lokatory-i-zachem-oni-nuzhny-v"
+  },
+  {
+    "id": "automation-qa__lokatory__q2",
+    "category": "Локаторы",
+    "question": "Какие типы локаторов поддерживает Selenium WebDriver?",
+    "options": [
+      "id",
+      "name",
+      "className",
+      "cssSelector",
+      "xpath"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "topicUrl": "/docs/automation-qa/lokatory/kakie-osnovnye-tipy-lokatorov-suschestvuyut-v-selenium-webdr"
+  },
+  {
+    "id": "automation-qa__lokatory__q3",
+    "category": "Локаторы",
+    "question": "Какой локатор считается самым быстрым и надежным?",
+    "options": [
+      "Поиск по id",
+      "Поиск по абсолютному XPath",
+      "Поиск по тексту ссылки (linkText)",
+      "Поиск по className",
+      "Поиск по тегу (tagName)"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/automation-qa/lokatory/kakoy-lokator-schitaetsya-samym-bystrym-i-nadezhnym-pochemu"
+  },
+  {
+    "id": "automation-qa__lokatory__q4",
+    "category": "Локаторы",
+    "question": "Какие из приведенных строк являются корректными CSS-селекторами?",
+    "options": [
+      "#login-button",
+      ".btn.btn-primary",
+      "input[type='text']",
+      "//div[@class='container']",
+      "div > span"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "topicUrl": "/docs/automation-qa/lokatory/chto-takoe-css-selektor-privedite-primery"
+  },
+  {
+    "id": "automation-qa__lokatory__q5",
+    "category": "Локаторы",
+    "question": "Какие утверждения про XPath верны?",
+    "options": [
+      "Абсолютный XPath начинается с одного слэша и описывает полный путь от корня документа",
+      "Относительный XPath начинается с двойного слэша (//) и ищет элемент в любом месте документа",
+      "XPath можно использовать только для HTML-документов",
+      "Относительный XPath более устойчив к изменениям структуры страницы, чем абсолютный",
+      "XPath не поддерживает поиск по атрибутам элемента"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "topicUrl": "/docs/automation-qa/lokatory/chto-takoe-xpath-kakie-byvayut-tipy-xpath-absolyutnyy"
+  },
+  {
+    "id": "automation-qa__lokatory__q6",
+    "category": "Локаторы",
+    "question": "Для чего используются оси (axes) в XPath?",
+    "options": [
+      "Для навигации по документу относительно контекстного узла (родители, потомки, соседи)",
+      "Для стилизации найденных элементов",
+      "Для указания порядка выполнения тестов",
+      "Для поиска элементов по CSS-классу",
+      "Для сравнения двух скриншотов"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/automation-qa/lokatory/chto-takoe-osi-xpath-dlya-chego-oni-ispolzuyutsya"
+  },
+  {
+    "id": "automation-qa__lokatory__q7",
+    "category": "Локаторы",
+    "question": "Какие функции XPath используются для поиска по тексту и позиции элемента?",
+    "options": [
+      "contains()",
+      "text()",
+      "starts-with()",
+      "last()",
+      "querySelector()"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "topicUrl": "/docs/automation-qa/lokatory/nazovite-neskolko-poleznyh-funkciy-xpath-contains-text-start"
+  },
+  {
+    "id": "automation-qa__lokatory__q8",
+    "category": "Локаторы",
+    "question": "Какие утверждения при сравнении CSS-селекторов и XPath верны?",
+    "options": [
+      "CSS-селекторы обычно работают быстрее XPath в большинстве браузеров",
+      "XPath умеет искать элементы по тексту содержимого, а CSS-селекторы (в базовом виде) — нет",
+      "XPath позволяет перемещаться вверх по дереву документа (к родителям), а CSS-селекторы — нет",
+      "CSS-селекторы поддерживаются только в Internet Explorer",
+      "XPath никогда не используется в автоматизации, только для XML-парсинга"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/lokatory/sravnite-css-selektory-i-xpath-kogda-chto-luchshe"
+  },
+  {
+    "id": "automation-qa__osnovy-avtomatizatsii__q1",
+    "category": "Основы автоматизации",
+    "question": "Какие цели преследует автоматизированное тестирование?",
+    "options": [
+      "Ускорение выполнения повторяющихся проверок",
+      "Полная замена ручного тестирования во всех случаях",
+      "Повышение стабильности и повторяемости результатов проверок",
+      "Снижение затрат на регрессионное тестирование в долгосрочной перспективе",
+      "Гарантированное обнаружение 100% всех дефектов"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "topicUrl": "/docs/automation-qa/osnovy-avtomatizatsii/chto-takoe-avtomatizirovannoe-testirovanie-i-kakovy-ego-osno"
+  },
+  {
+    "id": "automation-qa__osnovy-avtomatizatsii__q2",
+    "category": "Основы автоматизации",
+    "question": "Какие тесты целесообразно автоматизировать?",
+    "options": [
+      "Регрессионные тесты, выполняемые многократно",
+      "Тесты, требующие субъективной визуальной оценки дизайна",
+      "Стабильные и часто повторяющиеся сценарии",
+      "Одноразовые исследовательские (exploratory) проверки",
+      "Проверки, выполняемые в каждом релизе на разных окружениях"
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ],
+    "topicUrl": "/docs/automation-qa/osnovy-avtomatizatsii/kakie-testy-celesoobrazno-avtomatizirovat-a-kakie-net-prived"
+  },
+  {
+    "id": "automation-qa__osnovy-avtomatizatsii__q3",
+    "category": "Основы автоматизации",
+    "question": "Какие из перечисленного являются реальными недостатками автоматизации по сравнению с ручным тестированием?",
+    "options": [
+      "Высокие первоначальные затраты на разработку тестов",
+      "Необходимость поддержки и актуализации тестового кода",
+      "Полная неспособность находить новые дефекты",
+      "Ограниченная способность оценивать удобство использования (usability)",
+      "Требует навыков программирования от исполнителей"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "topicUrl": "/docs/automation-qa/osnovy-avtomatizatsii/kakovy-preimuschestva-i-nedostatki-avtomatizacii-po-sravneni"
+  },
+  {
+    "id": "automation-qa__osnovy-avtomatizatsii__q4",
+    "category": "Основы автоматизации",
+    "question": "Какое из преимуществ автоматизации тестирования является корректным?",
+    "options": [
+      "Возможность быстрого повторного запуска тестов при каждом изменении кода",
+      "Автоматизация полностью исключает необходимость в тест-дизайне",
+      "Снижение вероятности человеческой ошибки при выполнении рутинных проверок",
+      "Автоматизация всегда дешевле ручного тестирования уже на первом прогоне",
+      "Автоматические тесты не требуют написания и поддержки скриптов"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/osnovy-avtomatizatsii/kakovy-preimuschestva-i-nedostatki-avtomatizacii-po-sravneni"
+  },
+  {
+    "id": "automation-qa__osnovy-avtomatizatsii__q5",
+    "category": "Основы автоматизации",
+    "question": "Какие факторы влияют на выбор сценариев для автоматизации?",
+    "options": [
+      "Частота выполнения сценария",
+      "Стабильность функциональности (редкие изменения UI/логики)",
+      "Критичность сценария для бизнеса",
+      "Личные предпочтения дизайнера интерфейса",
+      "Сложность и трудоёмкость ручного выполнения теста"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "topicUrl": "/docs/automation-qa/osnovy-avtomatizatsii/kakie-faktory-vliyayut-na-vybor-scenariev-dlya-avtomatizacii"
+  },
+  {
+    "id": "automation-qa__osnovy-avtomatizatsii__q6",
+    "category": "Основы автоматизации",
+    "question": "Установите соответствие: что из перечисленного описывает АУТЕНТИФИКАЦИЮ?",
+    "options": [
+      "Проверка подлинности предоставленных учётных данных (например, пароля)",
+      "Предоставление пользователем идентификатора (логина)",
+      "Определение прав доступа пользователя к ресурсам",
+      "Процесс, который логически идёт после идентификации",
+      "Окончательное решение о том, какие действия разрешены пользователю"
+    ],
+    "correct": [
+      0,
+      3
+    ],
+    "topicUrl": "/docs/automation-qa/osnovy-avtomatizatsii/dayte-opredeleniya-ponyatiyam-identifikaciya-autentifikaciya"
+  },
+  {
+    "id": "automation-qa__osnovy-avtomatizatsii__q7",
+    "category": "Основы автоматизации",
+    "question": "Какова корректная последовательность процессов идентификации, аутентификации и авторизации?",
+    "options": [
+      "Идентификация → Аутентификация → Авторизация",
+      "Авторизация → Идентификация → Аутентификация",
+      "Аутентификация → Авторизация → Идентификация",
+      "Идентификация → Авторизация → Аутентификация",
+      "Авторизация → Аутентификация → Идентификация"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/automation-qa/osnovy-avtomatizatsii/dayte-opredeleniya-ponyatiyam-identifikaciya-autentifikaciya"
+  },
+  {
+    "id": "automation-qa__osnovy-avtomatizatsii__q8",
+    "category": "Основы автоматизации",
+    "question": "Какие типы тестов чаще всего являются хорошими кандидатами для автоматизации?",
+    "options": [
+      "Smoke-тесты",
+      "Тесты критического пути (critical path)",
+      "Регрессионные тесты",
+      "Однократные ad-hoc тесты",
+      "Тесты юзабилити, требующие субъективной оценки"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/osnovy-avtomatizatsii/kakie-suschestvuyut-tipy-testov-podhodyaschie-dlya-avtomatiz"
+  },
+  {
+    "id": "automation-qa__playwright__q1",
+    "category": "Playwright",
+    "question": "Какие ключевые архитектурные отличия Playwright от Selenium?",
+    "options": [
+      "Playwright общается с браузером через WebSocket-протокол, а Selenium — через HTTP (WebDriver protocol)",
+      "Playwright поставляется с собственными встроенными драйверами браузеров, не требующими отдельной установки",
+      "Playwright работает только с Chromium и не умеет запускать Firefox или WebKit",
+      "Playwright требует запуска отдельного сервера-посредника (аналог Selenium Grid) для каждого запуска теста",
+      "Playwright изначально спроектирован с поддержкой изоляции тестов через BrowserContext"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "topicUrl": "/docs/automation-qa/playwright/kakovy-osnovnye-arhitekturnye-otlichiya-playwright-ot-seleni"
+  },
+  {
+    "id": "automation-qa__playwright__q2",
+    "category": "Playwright",
+    "question": "Как соотносятся между собой сущности Browser, BrowserContext и Page в Playwright?",
+    "options": [
+      "Browser — это запущенный экземпляр браузера, из которого можно создавать несколько независимых BrowserContext",
+      "BrowserContext — это изолированная сессия (аналог инкогнито-профиля) со своими cookies и storage",
+      "Page — это конкретная вкладка внутри BrowserContext, через которую выполняются действия и локаторы",
+      "Один BrowserContext может принадлежать только одному Browser, а Page нельзя открыть больше одной на контекст",
+      "Page является родительской сущностью для BrowserContext и управляет несколькими браузерами одновременно"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/playwright/v-chem-raznica-mezhdu-browser-browsercontext-i-page"
+  },
+  {
+    "id": "automation-qa__playwright__q3",
+    "category": "Playwright",
+    "question": "Для чего используется BrowserContext и почему он важен для изоляции тестов?",
+    "options": [
+      "Он создаёт независимую сессию с отдельными cookies, localStorage и кешем, не пересекающуюся с другими тестами",
+      "Он позволяет запускать параллельные тесты без перезапуска браузера, экономя время на старте",
+      "Он автоматически удаляет все элементы DOM после завершения каждого теста",
+      "Он позволяет задавать настройки окружения (viewport, геолокацию, разрешения) отдельно для группы тестов",
+      "Он заменяет собой Page и выполняет все действия с элементами напрямую"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "topicUrl": "/docs/automation-qa/playwright/dlya-chego-nuzhen-browsercontext-kak-on-pomogaet-v"
+  },
+  {
+    "id": "automation-qa__playwright__q4",
+    "category": "Playwright",
+    "question": "Чем поведение Locator в Playwright отличается от WebElement в Selenium?",
+    "options": [
+      "Locator ленивый — он не ищет элемент в момент создания, а только при выполнении действия",
+      "Locator автоматически повторяет поиск элемента перед каждым действием, что делает его устойчивым к перерисовке DOM",
+      "WebElement сразу ссылается на конкретный найденный элемент в момент вызова findElement",
+      "Locator требует явного вызова ожидания (explicit wait) перед каждым действием, как и WebElement",
+      "Locator, в отличие от WebElement, встроенно дожидается видимости и стабильности элемента (auto-waiting)"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "topicUrl": "/docs/automation-qa/playwright/chto-takoe-lokator-locator-v-playwright-chem-ego"
+  },
+  {
+    "id": "automation-qa__playwright__q5",
+    "category": "Playwright",
+    "question": "Почему рекомендуется использовать getByRole вместо селекторов на основе XPath/CSS?",
+    "options": [
+      "getByRole ищет элементы по ARIA-роли и доступному имени, что ближе к тому, как пользователь и скринридер воспринимают страницу",
+      "getByRole менее хрупок к изменениям верстки (классов, структуры DOM), чем CSS/XPath-локаторы",
+      "getByRole работает быстрее, чем любой CSS-селектор, за счёт использования индексов браузера",
+      "Использование getByRole одновременно улучшает покрытие тестами accessibility-атрибутов приложения",
+      "getByRole — единственный локатор в Playwright, поддерживающий auto-waiting"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "topicUrl": "/docs/automation-qa/playwright/pochemu-rekomenduetsya-ispolzovat-getbyrole-vmesto-xpath-css"
+  },
+  {
+    "id": "automation-qa__playwright__q6",
+    "category": "Playwright",
+    "question": "Как работает auto-waiting в Playwright?",
+    "options": [
+      "Перед выполнением действия (клик, ввод текста) Playwright автоматически дожидается, пока элемент станет видимым и стабильным",
+      "Auto-waiting применяется к действиям над элементами (click, fill, check), но не заменяет ожидание сетевых ответов или навигации",
+      "Auto-waiting полностью устраняет необходимость в явных waitFor-методах для любых сценариев, включая ожидание URL",
+      "Playwright проверяет, что элемент прикреплён к DOM, доступен для взаимодействия (enabled) и не перекрыт другим элементом",
+      "Auto-waiting отключено по умолчанию и должно явно включаться в конфигурации теста"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "topicUrl": "/docs/automation-qa/playwright/kak-rabotaet-auto-waiting-v-playwright-dlya-kakih"
+  },
+  {
+    "id": "automation-qa__playwright__q7",
+    "category": "Playwright",
+    "question": "Как в Playwright перехватывать и модифицировать сетевые запросы?",
+    "options": [
+      "С помощью метода page.route() можно перехватывать запросы по маске URL и подменять или блокировать ответ",
+      "Перехваченный запрос можно продолжить как есть через route.continue() или завершить кастомным ответом через route.fulfill()",
+      "page.route() позволяет замокать ответ API, не обращаясь к реальному backend-серверу",
+      "Перехват сетевых запросов в Playwright возможен только для GET-запросов",
+      "Для перехвата запросов обязательно требуется запускать отдельный прокси-сервер вне процесса Playwright"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/playwright/kak-v-playwright-perehvatyvat-i-modificirovat-setevye-zapros"
+  },
+  {
+    "id": "automation-qa__playwright__q8",
+    "category": "Playwright",
+    "question": "Что такое Trace Viewer в Playwright и для чего он нужен?",
+    "options": [
+      "Trace Viewer — это инструмент для визуального анализа записанной трассировки выполнения теста (скриншоты, DOM, сеть, консоль)",
+      "Трассировка включается через настройку trace (например, on-first-retry) в конфигурации тестов",
+      "Trace Viewer позволяет пошагово просматривать состояние страницы на каждом действии теста, что упрощает отладку падений",
+      "Trace Viewer автоматически исправляет упавшие локаторы, подбирая новый селектор",
+      "Trace Viewer заменяет собой запись видео и делает её включение ненужным"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/playwright/chto-takoe-trace-viewer-i-kak-on-pomogaet"
+  },
+  {
+    "id": "automation-qa__selenium__q1",
+    "category": "Инициализация браузера и Selenium",
+    "question": "Что такое WebDriverManager и какие проблемы он решает?",
+    "options": [
+      "Библиотека, которая автоматически скачивает и настраивает нужную версию драйвера браузера",
+      "Класс для явных ожиданий элементов на странице",
+      "Инструмент для параллельного запуска тестов в нескольких потоках",
+      "Менеджер паролей для хранения учетных данных тестовых пользователей",
+      "Утилита для генерации отчетов по результатам тестирования"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/automation-qa/selenium/chto-takoe-webdrivermanager-i-zachem-on-nuzhen-kakie"
+  },
+  {
+    "id": "automation-qa__selenium__q2",
+    "category": "Инициализация браузера и Selenium",
+    "question": "Какие виды ожиданий (waits) существуют в Selenium?",
+    "options": [
+      "Implicit Wait (неявное ожидание)",
+      "Explicit Wait (явное ожидание) с WebDriverWait",
+      "Fluent Wait (гибкое ожидание с настройкой polling-интервала)",
+      "Static Wait (статическое ожидание уровня драйвера)",
+      "Global Wait (глобальное ожидание для всей сессии)"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/selenium/chto-takoe-yavnye-ozhidaniya-explicit-wait-i-klass"
+  },
+  {
+    "id": "automation-qa__selenium__q3",
+    "category": "Инициализация браузера и Selenium",
+    "question": "Почему использование Thread.sleep() в автотестах считается плохой практикой?",
+    "options": [
+      "Задает фиксированную задержку независимо от реального состояния страницы, замедляя или дестабилизируя тесты",
+      "Не работает с браузером Chrome",
+      "Является более надежным способом ожидания, чем WebDriverWait",
+      "Автоматически ускоряет выполнение тестов",
+      "Требует обязательного использования Page Object Model"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/automation-qa/selenium/pochemu-ispolzovanie-thread-sleep-schitaetsya-plohoy-praktik"
+  },
+  {
+    "id": "automation-qa__selenium__q4",
+    "category": "Инициализация браузера и Selenium",
+    "question": "Когда возникает StaleElementReferenceException и как с ним бороться?",
+    "options": [
+      "Когда элемент был удален из DOM или страница перерисована после того, как ссылка на элемент была получена",
+      "Когда элемент не найден на странице вообще",
+      "Повторным поиском элемента (re-locate) перед взаимодействием с ним",
+      "Увеличением таймаута неявного ожидания до бесконечности",
+      "Использованием try/catch с повторным получением элемента"
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ],
+    "topicUrl": "/docs/automation-qa/selenium/kogda-voznikaet-staleelementreferenceexception-i-kak-s-nim-b"
+  },
+  {
+    "id": "automation-qa__selenium__q5",
+    "category": "Инициализация браузера и Selenium",
+    "question": "Для чего используется класс Actions в Selenium?",
+    "options": [
+      "Для выполнения сложных пользовательских действий: drag-and-drop, hover, двойной клик, зажатие клавиш",
+      "Для инициализации WebDriver",
+      "Для скачивания драйверов браузеров",
+      "Для генерации отчетов о выполнении тестов",
+      "Для последовательности действий, недоступных через обычный клик/ввод текста"
+    ],
+    "correct": [
+      0,
+      4
+    ],
+    "topicUrl": "/docs/automation-qa/selenium/dlya-chego-nuzhen-klass-actions-v-selenium-kakie"
+  },
+  {
+    "id": "automation-qa__selenium__q6",
+    "category": "Инициализация браузера и Selenium",
+    "question": "Как в Selenium выполнить JavaScript-код через JavascriptExecutor?",
+    "options": [
+      "Привести WebDriver к интерфейсу JavascriptExecutor и вызвать executeScript()",
+      "Это используется для выполнения скриптов напрямую в браузере, например для скролла или клика через JS",
+      "Только через специальный отдельный драйвер JsDriver",
+      "JavaScript в Selenium выполнить невозможно",
+      "Через метод driver.runScript(), встроенный по умолчанию в WebDriver"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/automation-qa/selenium/kak-vypolnit-javascript-kod-cherez-selenium-javascriptexecut"
+  },
+  {
+    "id": "automation-qa__selenium__q7",
+    "category": "Инициализация браузера и Selenium",
+    "question": "Что такое Page Object Model (POM) и какие у него преимущества?",
+    "options": [
+      "Паттерн, при котором каждая страница приложения описывается отдельным классом с локаторами и методами",
+      "Снижает дублирование кода и упрощает поддержку тестов при изменении UI",
+      "Способ хранения паролей для тестовых аккаунтов",
+      "Обязательная часть протокола JSON Wire Protocol",
+      "Отделяет логику тестов от деталей реализации страницы"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "topicUrl": "/docs/automation-qa/selenium/chto-takoe-page-object-model-opishite-ego-strukturu"
+  },
+  {
+    "id": "automation-qa__selenium__q8",
+    "category": "Инициализация браузера и Selenium",
+    "question": "Что такое Selenoid и какую проблему он решает?",
+    "options": [
+      "Инфраструктурное решение для запуска браузеров в Docker-контейнерах и масштабирования Selenium Grid",
+      "Библиотека для упрощения работы с локаторами элементов",
+      "Решает проблему управления множеством версий браузеров и изоляции окружений при параллельном запуске тестов",
+      "Инструмент для генерации Page Object классов",
+      "Замена для JavascriptExecutor при работе с iframe"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/selenium/chto-takoe-selenoid-kakuyu-infrastrukturnuyu-problemu-on-res"
+  },
+  {
+    "id": "automation-qa__sistemy-sborki__q1",
+    "category": "Системы сборки",
+    "question": "Какие задачи решают системы сборки, такие как Maven и Gradle, в проектах автоматизации тестирования?",
+    "options": [
+      "Управление зависимостями проекта",
+      "Компиляция исходного кода и запуск тестов",
+      "Упаковка проекта в артефакт (jar, war) и его установка/публикация",
+      "Хранение результатов тест-ранов в базе данных",
+      "Автоматическая генерация тестовой документации в PDF"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/sistemy-sborki/dlya-chego-nuzhny-sistemy-sborki-maven-gradle-v"
+  },
+  {
+    "id": "automation-qa__sistemy-sborki__q2",
+    "category": "Системы сборки",
+    "question": "Какие элементы обязательно присутствуют в секции координат проекта (GAV) файла pom.xml в Maven?",
+    "options": [
+      "groupId",
+      "artifactId",
+      "version",
+      "buildscript",
+      "sourceCompatibility"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/sistemy-sborki/chto-takoe-fayl-pom-xml-v-maven-opishite"
+  },
+  {
+    "id": "automation-qa__sistemy-sborki__q3",
+    "category": "Системы сборки",
+    "question": "Что из перечисленного является фазами (phases) жизненного цикла Maven?",
+    "options": [
+      "compile",
+      "test",
+      "package",
+      "assemble",
+      "bundle"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/sistemy-sborki/chto-takoe-zhiznennyy-cikl-maven-nazovite-osnovnye-fazy"
+  },
+  {
+    "id": "automation-qa__sistemy-sborki__q4",
+    "category": "Системы сборки",
+    "question": "Что описывает элемент <dependency> в pom.xml?",
+    "options": [
+      "Внешнюю библиотеку, необходимую проекту для компиляции или выполнения",
+      "Расширение функциональности сборки (например, компилятор или упаковщик)",
+      "Путь к исходным файлам проекта",
+      "Версию Java Development Kit",
+      "Список тестовых сценариев для запуска"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/automation-qa/sistemy-sborki/chto-takoe-dependency-i-plugin-v-maven"
+  },
+  {
+    "id": "automation-qa__sistemy-sborki__q5",
+    "category": "Системы сборки",
+    "question": "В чем разница между фазой (phase) и целью (goal) в Maven?",
+    "options": [
+      "Фаза — это этап жизненного цикла сборки, а цель — конкретное действие, привязанное к плагину",
+      "Одной фазе может быть привязано несколько целей",
+      "Goal может выполняться независимо от фазы напрямую, например через plugin:goal",
+      "Фаза — это синоним цели, различий нет",
+      "Цель всегда выполняется только внутри Gradle, а не Maven"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/sistemy-sborki/v-chem-raznica-mezhdu-fazami-phase-i-celyami"
+  },
+  {
+    "id": "automation-qa__sistemy-sborki__q6",
+    "category": "Системы сборки",
+    "question": "На каком языке (языках) может быть написан файл build.gradle?",
+    "options": [
+      "Groovy",
+      "Kotlin (Kotlin DSL)",
+      "XML",
+      "YAML",
+      "JSON"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/automation-qa/sistemy-sborki/chto-takoe-build-gradle-fayl-v-gradle-na"
+  },
+  {
+    "id": "automation-qa__sistemy-sborki__q7",
+    "category": "Системы сборки",
+    "question": "Что представляет собой задача (task) в Gradle?",
+    "options": [
+      "Единицу работы, выполняющую конкретное действие в процессе сборки (компиляция, тестирование и т.д.)",
+      "Файл конфигурации зависимостей проекта",
+      "Элемент, который можно связать с другими задачами через зависимости (dependsOn)",
+      "Аналог тега <plugin> в Maven, отвечающий только за упаковку",
+      "Формат хранения версии проекта"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/sistemy-sborki/chto-takoe-zadacha-task-v-gradle"
+  },
+  {
+    "id": "automation-qa__sistemy-sborki__q8",
+    "category": "Системы сборки",
+    "question": "Чем Gradle отличается от Maven с точки зрения производительности и гибкости?",
+    "options": [
+      "Gradle использует инкрементальную сборку и кэширование задач, что ускоряет повторные сборки",
+      "Gradle предоставляет более гибкий DSL (Groovy/Kotlin) вместо строгого XML",
+      "Maven строго придерживается фиксированного жизненного цикла, что упрощает стандартизацию, но снижает гибкость",
+      "Maven всегда быстрее Gradle за счет отсутствия демона сборки",
+      "Gradle не поддерживает управление зависимостями, в отличие от Maven"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/sistemy-sborki/chem-gradle-otlichaetsya-ot-maven-s-tochki-zreniya"
+  },
+  {
+    "id": "automation-qa__test-ranery__q1",
+    "category": "Тест-раннеры",
+    "question": "Для чего нужны тест-раннеры, такие как JUnit и TestNG, в автоматизации тестирования?",
+    "options": [
+      "Для обнаружения, запуска тестов и формирования отчётов о результатах",
+      "Для генерации тестовых данных из production-базы",
+      "Для управления версионированием кода в Git",
+      "Для развёртывания приложения на продакшн-сервере",
+      "Для компиляции исходного кода Java в байт-код"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/automation-qa/test-ranery/dlya-chego-nuzhny-test-rannery-junit-testng-v"
+  },
+  {
+    "id": "automation-qa__test-ranery__q2",
+    "category": "Тест-раннеры",
+    "question": "Какие из перечисленных аннотаций относятся к JUnit 5 и используются для управления жизненным циклом теста?",
+    "options": [
+      "@BeforeEach",
+      "@AfterAll",
+      "@Disabled",
+      "@DataProvider",
+      "@BeforeSuite"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/test-ranery/nazovite-osnovnye-annotacii-junit-5-test-beforeeach-afterall"
+  },
+  {
+    "id": "automation-qa__test-ranery__q3",
+    "category": "Тест-раннеры",
+    "question": "Какие аннотации JUnit 5 используются для организации параметризованных тестов?",
+    "options": [
+      "@ParameterizedTest",
+      "@ValueSource",
+      "@CsvSource",
+      "@DataProvider",
+      "@Priority"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/test-ranery/kak-v-junit-5-organizovat-parametrizovannye-testy-kakie"
+  },
+  {
+    "id": "automation-qa__test-ranery__q4",
+    "category": "Тест-раннеры",
+    "question": "Какие методы являются assert-методами JUnit 5?",
+    "options": [
+      "assertEquals",
+      "assertTrue",
+      "assertThrows",
+      "assumeTrue",
+      "dependsOnMethods"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/test-ranery/chto-takoe-assert-v-testah-kakie-osnovnye-assert"
+  },
+  {
+    "id": "automation-qa__test-ranery__q5",
+    "category": "Тест-раннеры",
+    "question": "Чем Assumptions отличаются от Assertions в JUnit 5?",
+    "options": [
+      "Если предположение (assumption) не выполняется, тест пропускается, а не падает",
+      "Assumptions используются для пропуска теста при невыполнении условий среды выполнения",
+      "Assertions при провале завершают тест с ошибкой (failure)",
+      "Assumptions всегда завершают тест с ошибкой, как и Assertions",
+      "Assumptions полностью заменяют собой Assertions и не могут использоваться вместе"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/test-ranery/chem-assertions-otlichayutsya-ot-assumptions-v-junit-5"
+  },
+  {
+    "id": "automation-qa__test-ranery__q6",
+    "category": "Тест-раннеры",
+    "question": "Что позволяет сделать метод assertAll в JUnit 5?",
+    "options": [
+      "Сгруппировать несколько проверок так, чтобы тест выполнил все из них и сообщил обо всех упавших сразу",
+      "Прекратить выполнение теста при первой же неудачной проверке",
+      "Собрать все ошибки в единый отчёт вместо остановки на первом assert",
+      "Автоматически повторно запустить упавшие тесты",
+      "Задать приоритет выполнения тестов в тестовом классе"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/test-ranery/kak-v-junit-5-mozhno-sgruppirovat-neskolko-proverok"
+  },
+  {
+    "id": "automation-qa__test-ranery__q7",
+    "category": "Тест-раннеры",
+    "question": "Какие возможности предоставляет TestNG, но отсутствуют в базовом JUnit 5?",
+    "options": [
+      "Задание приоритета выполнения тестов через параметр priority",
+      "Настройка зависимостей между тестами через dependsOnMethods",
+      "Параметризация тестов через @DataProvider",
+      "Параметризация тестов через @CsvSource",
+      "Аннотация @BeforeEach для подготовки перед каждым тестом"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/test-ranery/kakie-osnovnye-annotacii-est-v-testng-test-beforemethod"
+  },
+  {
+    "id": "automation-qa__test-ranery__q8",
+    "category": "Тест-раннеры",
+    "question": "Как можно организовать повторный запуск упавших тестов в JUnit 5 и TestNG?",
+    "options": [
+      "В TestNG использовать интерфейс IRetryAnalyzer и настроить retry в конфигурации",
+      "В JUnit 5 использовать сторонние расширения (extensions) для повторного запуска, так как встроенного функционала нет",
+      "Использовать поддержку повторного запуска на уровне CI/CD инструментов и плагинов сборки",
+      "В обоих фреймворках это делается только через @Disabled",
+      "Повторный запуск упавших тестов невозможен ни в одном из фреймворков"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/test-ranery/kakie-suschestvuyut-sposoby-povtornogo-zapuska-upavshih-test"
+  }
+]

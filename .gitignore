@@ -20,3 +20,5 @@ yarn-error.log*
 
 # Generation scaffolding (regenerable via scripts/prep-generation.mjs)
 data/inventory/chunks/
+data/quiz/blocks/
+data/inventory/quiz-src/

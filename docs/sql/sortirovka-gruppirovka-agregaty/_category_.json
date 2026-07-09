@@ -1,0 +1,7 @@
+{
+  "label": "Сортировка, группировка и агрегатные функции (ORDER BY, GROUP BY, HAVING)",
+  "position": 2,
+  "link": {
+    "type": "generated-index"
+  }
+}

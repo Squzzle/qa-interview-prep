@@ -1,0 +1,8 @@
+node_modules
+build
+.docusaurus
+.git
+docs/superpowers
+helm
+scripts
+*.md

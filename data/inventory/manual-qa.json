@@ -1,0 +1,3018 @@
+[
+  {
+    "section": "manual-qa",
+    "block": "osnovy-testirovaniya",
+    "blockLabel": "Основы тестирования",
+    "position": 1,
+    "slug": "chto-takoe-testirovanie-programmnogo-obespecheniya-dayte-opr",
+    "question": "Что такое тестирование программного обеспечения? Дайте определение."
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovy-testirovaniya",
+    "blockLabel": "Основы тестирования",
+    "position": 1,
+    "slug": "perechislite-osnovnye-celi-testirovaniya",
+    "question": "Перечислите основные цели тестирования."
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovy-testirovaniya",
+    "blockLabel": "Основы тестирования",
+    "position": 1,
+    "slug": "v-chem-raznica-mezhdu-staticheskim-i-dinamicheskim-testirova",
+    "question": "В чем разница между статическим и динамическим тестированием?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovy-testirovaniya",
+    "blockLabel": "Основы тестирования",
+    "position": 1,
+    "slug": "kakie-vy-znaete-vidy-testirovaniya-po-tipu-vypolneniya",
+    "question": "Какие вы знаете виды тестирования по типу выполнения (ручное/автоматизированное)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovy-testirovaniya",
+    "blockLabel": "Основы тестирования",
+    "position": 1,
+    "slug": "kto-mozhet-vystupat-v-roli-ispolnitelya-testirovaniya-razrab",
+    "question": "Кто может выступать в роли исполнителя тестирования (разработчик, тестировщик, пользователь)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovy-testirovaniya",
+    "blockLabel": "Основы тестирования",
+    "position": 1,
+    "slug": "nazovite-osnovnye-urovni-testirovaniya",
+    "question": "Назовите основные уровни тестирования."
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovy-testirovaniya",
+    "blockLabel": "Основы тестирования",
+    "position": 1,
+    "slug": "chto-takoe-modulnoe-unit-testirovanie-i-kto-ego",
+    "question": "Что такое модульное (unit) тестирование и кто его обычно выполняет?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovy-testirovaniya",
+    "blockLabel": "Основы тестирования",
+    "position": 1,
+    "slug": "dlya-chego-nuzhno-integracionnoe-testirovanie",
+    "question": "Для чего нужно интеграционное тестирование?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovy-testirovaniya",
+    "blockLabel": "Основы тестирования",
+    "position": 1,
+    "slug": "chto-proveryaetsya-na-urovne-sistemnogo-testirovaniya",
+    "question": "Что проверяется на уровне системного тестирования?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovy-testirovaniya",
+    "blockLabel": "Основы тестирования",
+    "position": 1,
+    "slug": "chem-priemochnoe-testirovanie-otlichaetsya-ot-sistemnogo",
+    "question": "Чем приемочное тестирование отличается от системного?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovy-testirovaniya",
+    "blockLabel": "Основы тестирования",
+    "position": 1,
+    "slug": "chto-takoe-definition-of-ready-dor-i-zachem",
+    "question": "Что такое Definition of Ready (DoR) и зачем он нужен команде?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovy-testirovaniya",
+    "blockLabel": "Основы тестирования",
+    "position": 1,
+    "slug": "kakie-kriterii-vklyuchaet-v-sebya-definition-of-done",
+    "question": "Какие критерии включает в себя Definition of Done (DoD)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovy-testirovaniya",
+    "blockLabel": "Основы тестирования",
+    "position": 1,
+    "slug": "chem-dor-otlichaetsya-ot-dod-privedite-primery",
+    "question": "Чем DoR отличается от DoD? Приведите примеры."
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovy-testirovaniya",
+    "blockLabel": "Основы тестирования",
+    "position": 1,
+    "slug": "chto-takoe-acceptance-criteria-ac-i-gde-oni",
+    "question": "Что такое Acceptance Criteria (AC) и где они используются?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovy-testirovaniya",
+    "blockLabel": "Основы тестирования",
+    "position": 1,
+    "slug": "chto-takoe-exit-criteria-v-kontekste-zaversheniya-testirovan",
+    "question": "Что такое Exit Criteria в контексте завершения тестирования?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovy-testirovaniya",
+    "blockLabel": "Основы тестирования",
+    "position": 1,
+    "slug": "gde-testirovschik-mozhet-nayti-trebovaniya-i-ozhidaemyy-rezu",
+    "question": "Где тестировщик может найти требования и ожидаемый результат?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovy-testirovaniya",
+    "blockLabel": "Основы тестирования",
+    "position": 1,
+    "slug": "perechislite-osnovnye-aktivnosti-v-testirovanii-ot-planirova",
+    "question": "Перечислите основные активности в тестировании (от планирования до завершения)."
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovy-testirovaniya",
+    "blockLabel": "Основы тестирования",
+    "position": 1,
+    "slug": "chto-proishodit-na-etape-analiza-testirovaniya",
+    "question": "Что происходит на этапе анализа тестирования?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovy-testirovaniya",
+    "blockLabel": "Основы тестирования",
+    "position": 1,
+    "slug": "v-chem-zaklyuchaetsya-proektirovanie-testov",
+    "question": "В чем заключается проектирование тестов?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovy-testirovaniya",
+    "blockLabel": "Основы тестирования",
+    "position": 1,
+    "slug": "chto-vklyuchaet-v-sebya-realizaciya-testov",
+    "question": "Что включает в себя реализация тестов?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "dokumenty-i-otchetnost",
+    "blockLabel": "Документы и отчёты",
+    "position": 2,
+    "slug": "chto-takoe-trebovaniya-k-po-kakie-tipy-trebovaniy",
+    "question": "Что такое **требования** к ПО? Какие типы требований вы знаете?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "dokumenty-i-otchetnost",
+    "blockLabel": "Документы и отчёты",
+    "position": 2,
+    "slug": "chem-funkcionalnye-trebovaniya-otlichayutsya-ot-nefunkcional",
+    "question": "Чем **функциональные** требования отличаются от **нефункциональных**? Приведите примеры."
+  },
+  {
+    "section": "manual-qa",
+    "block": "dokumenty-i-otchetnost",
+    "blockLabel": "Документы и отчёты",
+    "position": 2,
+    "slug": "perechislite-svoystva-kachestvennyh-trebovaniy-akronim-napri",
+    "question": "Перечислите **свойства качественных требований** (акроним: например, \"ПолПоПроОд\")."
+  },
+  {
+    "section": "manual-qa",
+    "block": "dokumenty-i-otchetnost",
+    "blockLabel": "Документы и отчёты",
+    "position": 2,
+    "slug": "chto-znachit-chto-trebovanie-dolzhno-byt-testiruemym",
+    "question": "Что значит, что требование должно быть **тестируемым**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "dokumenty-i-otchetnost",
+    "blockLabel": "Документы и отчёты",
+    "position": 2,
+    "slug": "kak-testirovschik-mozhet-uchastvovat-v-testirovanii-trebovan",
+    "question": "Как тестировщик может участвовать в **тестировании требований**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "dokumenty-i-otchetnost",
+    "blockLabel": "Документы и отчёты",
+    "position": 2,
+    "slug": "kakie-metody-analiza-trebovaniy-vy-znaete-revyu-prototipirov",
+    "question": "Какие методы анализа требований вы знаете (ревью, прототипирование)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "dokumenty-i-otchetnost",
+    "blockLabel": "Документы и отчёты",
+    "position": 2,
+    "slug": "chto-takoe-recenzirovanie-review-trebovaniy",
+    "question": "Что такое **рецензирование (review)** требований?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "dokumenty-i-otchetnost",
+    "blockLabel": "Документы и отчёты",
+    "position": 2,
+    "slug": "perechislite-osnovnye-vidy-testovoy-dokumentacii",
+    "question": "Перечислите основные **виды тестовой документации**."
+  },
+  {
+    "section": "manual-qa",
+    "block": "dokumenty-i-otchetnost",
+    "blockLabel": "Документы и отчёты",
+    "position": 2,
+    "slug": "chto-takoe-test-keys-iz-kakih-osnovnyh-atributov",
+    "question": "Что такое **тест-кейс**? Из каких основных атрибутов он состоит?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "dokumenty-i-otchetnost",
+    "blockLabel": "Документы и отчёты",
+    "position": 2,
+    "slug": "chto-takoe-chek-list-i-v-kakih-sluchayah",
+    "question": "Что такое **чек-лист** и в каких случаях его удобно использовать?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "dokumenty-i-otchetnost",
+    "blockLabel": "Документы и отчёты",
+    "position": 2,
+    "slug": "v-chem-plyusy-i-minusy-chek-listov-po",
+    "question": "В чем **плюсы и минусы** чек-листов по сравнению с тест-кейсами?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "dokumenty-i-otchetnost",
+    "blockLabel": "Документы и отчёты",
+    "position": 2,
+    "slug": "dlya-chego-nuzhen-test-plan-kakie-razdely-on",
+    "question": "Для чего нужен **тест-план**? Какие разделы он содержит?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "dokumenty-i-otchetnost",
+    "blockLabel": "Документы и отчёты",
+    "position": 2,
+    "slug": "chem-master-test-plan-otlichaetsya-ot-test-plana",
+    "question": "Чем **мастер-тест-план** отличается от тест-плана релиза?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "dokumenty-i-otchetnost",
+    "blockLabel": "Документы и отчёты",
+    "position": 2,
+    "slug": "chto-takoe-otchet-o-testirovanii-i-kakuyu-informaciyu",
+    "question": "Что такое **отчет о тестировании** и какую информацию он должен содержать?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "dokumenty-i-otchetnost",
+    "blockLabel": "Документы и отчёты",
+    "position": 2,
+    "slug": "kakie-dannye-obyazatelno-dolzhny-byt-v-bag-reporte",
+    "question": "Какие данные обязательно должны быть в **баг-репорте**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "dokumenty-i-otchetnost",
+    "blockLabel": "Документы и отчёты",
+    "position": 2,
+    "slug": "chto-takoe-testovaya-strategiya-i-chem-ona-otlichaetsya",
+    "question": "Что такое **тестовая стратегия** и чем она отличается от тест-плана?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "dokumenty-i-otchetnost",
+    "blockLabel": "Документы и отчёты",
+    "position": 2,
+    "slug": "dlya-chego-ispolzuetsya-test-syut-nabor-testov",
+    "question": "Для чего используется **тест-сьют (набор тестов)**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "dokumenty-i-otchetnost",
+    "blockLabel": "Документы и отчёты",
+    "position": 2,
+    "slug": "chto-takoe-test-ran-progon-testov",
+    "question": "Что такое **тест-ран (прогон тестов)**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "dokumenty-i-otchetnost",
+    "blockLabel": "Документы и отчёты",
+    "position": 2,
+    "slug": "kakie-dannye-yavlyayutsya-testovymi-dannymi-privedite-primer",
+    "question": "Какие данные являются **тестовыми данными**? Приведите примеры."
+  },
+  {
+    "section": "manual-qa",
+    "block": "dokumenty-i-otchetnost",
+    "blockLabel": "Документы и отчёты",
+    "position": 2,
+    "slug": "chto-takoe-preduslovie-i-postuslovie-v-test-keyse",
+    "question": "Что такое **предусловие** и **постусловие** в тест-кейсе?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "dokumenty-i-otchetnost",
+    "blockLabel": "Документы и отчёты",
+    "position": 2,
+    "slug": "v-kakom-dokumente-opisyvayutsya-use-cases",
+    "question": "В каком документе описываются Use Cases?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "dokumenty-i-otchetnost",
+    "blockLabel": "Документы и отчёты",
+    "position": 2,
+    "slug": "kakaya-dokumentaciya-sluzhit-istochnikom-dlya-napisaniya-pri",
+    "question": "Какая документация служит источником для написания приемочных тестов?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "dokumenty-i-otchetnost",
+    "blockLabel": "Документы и отчёты",
+    "position": 2,
+    "slug": "chto-takoe-srs-software-requirements-specification",
+    "question": "Что такое **SRS (Software Requirements Specification)**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovnye-ponyatiya",
+    "blockLabel": "Основные понятия",
+    "position": 3,
+    "slug": "v-chem-raznica-mezhdu-qa-quality-assurance-i",
+    "question": "В чем разница между **QA (Quality Assurance)** и **QC (Quality Control)**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovnye-ponyatiya",
+    "blockLabel": "Основные понятия",
+    "position": 3,
+    "slug": "chto-takoe-verifikaciya-na-kakoy-vopros-ona-otvechaet",
+    "question": "Что такое **верификация**? На какой вопрос она отвечает?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovnye-ponyatiya",
+    "blockLabel": "Основные понятия",
+    "position": 3,
+    "slug": "chto-takoe-validaciya-na-kakoy-vopros-ona-otvechaet",
+    "question": "Что такое **валидация**? На какой вопрос она отвечает?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovnye-ponyatiya",
+    "blockLabel": "Основные понятия",
+    "position": 3,
+    "slug": "privedite-primery-metodov-verifikacii-i-validacii",
+    "question": "Приведите примеры методов верификации и валидации."
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovnye-ponyatiya",
+    "blockLabel": "Основные понятия",
+    "position": 3,
+    "slug": "kakie-vidy-validacii-na-forme-vy-znaete-mgnovennaya",
+    "question": "Какие **виды валидации на форме** вы знаете (мгновенная, ограничивающая, отложенная)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovnye-ponyatiya",
+    "blockLabel": "Основные понятия",
+    "position": 3,
+    "slug": "chto-takoe-psv-process-and-software-validation-gde",
+    "question": "Что такое **PSV (Process and Software Validation)**? Где применяется?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovnye-ponyatiya",
+    "blockLabel": "Основные понятия",
+    "position": 3,
+    "slug": "nazovite-i-obyasnite-7-principov-testirovaniya",
+    "question": "Назовите и объясните **7 принципов тестирования**."
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovnye-ponyatiya",
+    "blockLabel": "Основные понятия",
+    "position": 3,
+    "slug": "obyasnite-princip-testirovanie-demonstriruet-nalichie-defekt",
+    "question": "Объясните принцип: **\"Тестирование демонстрирует наличие дефектов\"**."
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovnye-ponyatiya",
+    "blockLabel": "Основные понятия",
+    "position": 3,
+    "slug": "chto-oznachaet-ischerpyvayuschee-testirovanie-nevozmozhno",
+    "question": "Что означает **\"Исчерпывающее тестирование невозможно\"**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovnye-ponyatiya",
+    "blockLabel": "Основные понятия",
+    "position": 3,
+    "slug": "pochemu-rannee-testirovanie-pomogaet-ekonomit-resursy",
+    "question": "Почему **раннее тестирование** помогает экономить ресурсы?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovnye-ponyatiya",
+    "blockLabel": "Основные понятия",
+    "position": 3,
+    "slug": "v-chem-zaklyuchaetsya-paradoks-pesticida",
+    "question": "В чем заключается **\"Парадокс пестицида\"**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovnye-ponyatiya",
+    "blockLabel": "Основные понятия",
+    "position": 3,
+    "slug": "chto-takoe-testovaya-sreda-test-environment-iz-kakih",
+    "question": "Что такое **тестовая среда (Test Environment)**? Из каких компонентов она состоит?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovnye-ponyatiya",
+    "blockLabel": "Основные понятия",
+    "position": 3,
+    "slug": "kakie-vidy-testovyh-sred-vy-znaete-dev-qa",
+    "question": "Какие виды тестовых сред вы знаете (DEV, QA, STAGING, PROD)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovnye-ponyatiya",
+    "blockLabel": "Основные понятия",
+    "position": 3,
+    "slug": "dlya-chego-nuzhna-sreda-staging",
+    "question": "Для чего нужна среда **STAGING**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovnye-ponyatiya",
+    "blockLabel": "Основные понятия",
+    "position": 3,
+    "slug": "chem-testovaya-sreda-otlichaetsya-ot-prodakshn-sredy",
+    "question": "Чем тестовая среда отличается от продакшн-среды?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovnye-ponyatiya",
+    "blockLabel": "Основные понятия",
+    "position": 3,
+    "slug": "dayte-opredeleniya-ponyatiyam-oshibka-error-defekt-defect-ot",
+    "question": "Дайте определения понятиям: **ошибка (error)**, **дефект (defect)**, **отказ (failure)**."
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovnye-ponyatiya",
+    "blockLabel": "Основные понятия",
+    "position": 3,
+    "slug": "pokazhite-cepochku-vozniknoveniya-problemy-ot-deystviya-chel",
+    "question": "Покажите цепочку возникновения проблемы: от действия человека до проявления в системе."
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovnye-ponyatiya",
+    "blockLabel": "Основные понятия",
+    "position": 3,
+    "slug": "chto-takoe-sboy-fault-i-kak-on-sootnositsya",
+    "question": "Что такое **сбой (fault)** и как он соотносится с отказом?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovnye-ponyatiya",
+    "blockLabel": "Основные понятия",
+    "position": 3,
+    "slug": "perechislite-etapy-zhiznennogo-cikla-testirovaniya-stlc",
+    "question": "Перечислите этапы **жизненного цикла тестирования (STLC)**."
+  },
+  {
+    "section": "manual-qa",
+    "block": "osnovnye-ponyatiya",
+    "blockLabel": "Основные понятия",
+    "position": 3,
+    "slug": "chto-proishodit-na-etape-test-closure-zavershenie-testirovan",
+    "question": "Что происходит на этапе **Test Closure** (завершение тестирования)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "modeli-razrabotki",
+    "blockLabel": "Модели разработки",
+    "position": 4,
+    "slug": "perechislite-osnovnye-stadii-razrabotki-produkta-sdlc",
+    "question": "Перечислите основные стадии разработки продукта (SDLC)."
+  },
+  {
+    "section": "manual-qa",
+    "block": "modeli-razrabotki",
+    "blockLabel": "Модели разработки",
+    "position": 4,
+    "slug": "kakie-modeli-razrabotki-po-vy-znaete",
+    "question": "Какие модели разработки ПО вы знаете?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "modeli-razrabotki",
+    "blockLabel": "Модели разработки",
+    "position": 4,
+    "slug": "v-chem-sut-vodopadnoy-modeli-waterfall-kakie-u",
+    "question": "В чем суть водопадной модели (Waterfall)? Какие у нее плюсы и минусы?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "modeli-razrabotki",
+    "blockLabel": "Модели разработки",
+    "position": 4,
+    "slug": "chem-iterativnaya-model-otlichaetsya-ot-vodopadnoy",
+    "question": "Чем итеративная модель отличается от водопадной?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "modeli-razrabotki",
+    "blockLabel": "Модели разработки",
+    "position": 4,
+    "slug": "chto-takoe-spiralnaya-model-i-dlya-kakih-proektov",
+    "question": "Что такое спиральная модель и для каких проектов она подходит?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "modeli-razrabotki",
+    "blockLabel": "Модели разработки",
+    "position": 4,
+    "slug": "v-chem-osobennost-v-modeli-kak-v-ney",
+    "question": "В чем особенность V-модели? Как в ней отражено тестирование?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "modeli-razrabotki",
+    "blockLabel": "Модели разработки",
+    "position": 4,
+    "slug": "chto-takoe-devops-i-kak-eta-kultura-vliyaet",
+    "question": "Что такое DevOps и как эта культура влияет на процессы разработки и тестирования?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "agile-i-scrum",
+    "blockLabel": "Agile и Scrum",
+    "position": 5,
+    "slug": "nazovite-4-principa-agile-manifesta",
+    "question": "Назовите 4 принципа Agile-манифеста."
+  },
+  {
+    "section": "manual-qa",
+    "block": "agile-i-scrum",
+    "blockLabel": "Agile и Scrum",
+    "position": 5,
+    "slug": "v-chem-raznica-mezhdu-metodologiyami-scrum-i-kanban",
+    "question": "В чем разница между методологиями Scrum и Kanban?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "agile-i-scrum",
+    "blockLabel": "Agile и Scrum",
+    "position": 5,
+    "slug": "chto-takoe-sprint-sprint-v-scrum",
+    "question": "Что такое спринт (Sprint) в Scrum?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "agile-i-scrum",
+    "blockLabel": "Agile и Scrum",
+    "position": 5,
+    "slug": "kakie-roli-opredeleny-v-scrum",
+    "question": "Какие роли определены в Scrum?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "agile-i-scrum",
+    "blockLabel": "Agile и Scrum",
+    "position": 5,
+    "slug": "za-chto-otvechaet-product-owner",
+    "question": "За что отвечает Product Owner?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "agile-i-scrum",
+    "blockLabel": "Agile и Scrum",
+    "position": 5,
+    "slug": "kakova-rol-scrum-master-a",
+    "question": "Какова роль Scrum Master'а?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "agile-i-scrum",
+    "blockLabel": "Agile и Scrum",
+    "position": 5,
+    "slug": "kto-vhodit-v-development-team",
+    "question": "Кто входит в Development Team?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "agile-i-scrum",
+    "blockLabel": "Agile и Scrum",
+    "position": 5,
+    "slug": "nazovite-osnovnye-artefakty-scrum",
+    "question": "Назовите основные артефакты Scrum."
+  },
+  {
+    "section": "manual-qa",
+    "block": "agile-i-scrum",
+    "blockLabel": "Agile и Scrum",
+    "position": 5,
+    "slug": "chto-takoe-product-backlog-i-kto-ego-vedet",
+    "question": "Что такое Product Backlog и кто его ведет?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "agile-i-scrum",
+    "blockLabel": "Agile и Scrum",
+    "position": 5,
+    "slug": "chto-takoe-sprint-backlog",
+    "question": "Что такое Sprint Backlog?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "agile-i-scrum",
+    "blockLabel": "Agile и Scrum",
+    "position": 5,
+    "slug": "chto-takoe-increment-inkrement",
+    "question": "Что такое Increment (инкремент)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "agile-i-scrum",
+    "blockLabel": "Agile и Scrum",
+    "position": 5,
+    "slug": "kakie-ceremonii-mitingi-provodyatsya-v-scrum",
+    "question": "Какие церемонии (митинги) проводятся в Scrum?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "agile-i-scrum",
+    "blockLabel": "Agile и Scrum",
+    "position": 5,
+    "slug": "dlya-chego-provoditsya-sprint-planning",
+    "question": "Для чего проводится Sprint Planning?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "agile-i-scrum",
+    "blockLabel": "Agile и Scrum",
+    "position": 5,
+    "slug": "v-chem-cel-ezhednevnogo-daily-scrum",
+    "question": "В чем цель ежедневного Daily Scrum?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "agile-i-scrum",
+    "blockLabel": "Agile и Scrum",
+    "position": 5,
+    "slug": "chto-proishodit-na-sprint-review-demo",
+    "question": "Что происходит на Sprint Review (демо)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "agile-i-scrum",
+    "blockLabel": "Agile и Scrum",
+    "position": 5,
+    "slug": "dlya-chego-nuzhna-retrospektiva-sprinta-retrospective",
+    "question": "Для чего нужна ретроспектива спринта (Retrospective)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "agile-i-scrum",
+    "blockLabel": "Agile и Scrum",
+    "position": 5,
+    "slug": "chto-takoe-velocity-komandy-i-kak-on-rasschityvaetsya",
+    "question": "Что такое Velocity команды и как он рассчитывается?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "agile-i-scrum",
+    "blockLabel": "Agile и Scrum",
+    "position": 5,
+    "slug": "chto-takoe-capacity-komandy",
+    "question": "Что такое Capacity команды?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "agile-i-scrum",
+    "blockLabel": "Agile и Scrum",
+    "position": 5,
+    "slug": "chto-takoe-reliznaya-politika-kakie-tipy-relizov-byvayut",
+    "question": "Что такое релизная политика? Какие типы релизов бывают?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "agile-i-scrum",
+    "blockLabel": "Agile и Scrum",
+    "position": 5,
+    "slug": "chto-takoe-semantic-versioning-major-minor-patch",
+    "question": "Что такое Semantic Versioning (MAJOR.MINOR.PATCH)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "agile-i-scrum",
+    "blockLabel": "Agile и Scrum",
+    "position": 5,
+    "slug": "kakie-metriki-dora-ispolzuyutsya-dlya-ocenki-effektivnosti-r",
+    "question": "Какие метрики DORA используются для оценки эффективности релизов?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "perechislite-4-osnovnyh-urovnya-testirovaniya-ierarhiya",
+    "question": "Перечислите **4 основных уровня тестирования** (иерархия)."
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "kto-obychno-pishet-modulnye-testy",
+    "question": "Кто обычно пишет **модульные тесты**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "chto-proveryaetsya-na-integracionnom-testirovanii",
+    "question": "Что проверяется на **интеграционном тестировании**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "kakie-metody-integracii-vy-znaete-big-bang-top",
+    "question": "Какие **методы интеграции** вы знаете (Big Bang, Top-Down, Bottom-Up)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "chto-takoe-sistemnoe-testirovanie",
+    "question": "Что такое **системное тестирование**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "chto-takoe-priemochnoe-testirovanie-kakie-u-nego-podvidy",
+    "question": "Что такое **приемочное тестирование**? Какие у него подвиды (альфа, бета, UAT)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "nazovite-4-bolshie-gruppy-testirovaniya-po-celyam",
+    "question": "Назовите **4 большие группы тестирования** (по целям)."
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "chto-takoe-funkcionalnoe-testirovanie-privedite-primery",
+    "question": "Что такое **функциональное тестирование**? Приведите примеры."
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "chto-takoe-nefunkcionalnoe-testirovanie-privedite-primery",
+    "question": "Что такое **нефункциональное тестирование**? Приведите примеры."
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "chto-takoe-testirovanie-svyazannoe-s-izmeneniyami",
+    "question": "Что такое **тестирование, связанное с изменениями**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "chto-takoe-strukturnoe-testirovanie-white-box",
+    "question": "Что такое **структурное тестирование (white-box)**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "rasskazhite-o-testirovanii-bezopasnosti-security-testing-kak",
+    "question": "Расскажите о **тестировании безопасности (Security testing)**. Какие виды угроз ищут?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "chto-takoe-sql-inekciya",
+    "question": "Что такое **SQL-инъекция**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "chto-takoe-xss-cross-site-scripting",
+    "question": "Что такое **XSS (Cross-Site Scripting)**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "dlya-chego-provoditsya-yuzabiliti-testirovanie-usability-tes",
+    "question": "Для чего проводится **юзабилити-тестирование (Usability testing)**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "nazovite-5-kriteriev-yuzabiliti-po-nilsenu",
+    "question": "Назовите 5 критериев юзабилити по Нильсену."
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "chem-ui-testirovanie-otlichaetsya-ot-ux-testirovaniya",
+    "question": "Чем **UI-тестирование** отличается от **UX-тестирования**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "chto-takoe-testirovanie-dostupnosti-accessibility-testing",
+    "question": "Что такое **тестирование доступности (Accessibility testing)**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "chto-takoe-gaydlayny-wcag",
+    "question": "Что такое гайдлайны **WCAG**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "chto-proveryaet-testirovanie-sovmestimosti-compatibility-tes",
+    "question": "Что проверяет **тестирование совместимости (Compatibility testing)**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "chem-kross-brauzernoe-testirovanie-otlichaetsya-ot-kross-pla",
+    "question": "Чем **кросс-браузерное** тестирование отличается от **кросс-платформенного**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "chto-takoe-testirovanie-lokalizacii-localization-testing",
+    "question": "Что такое **тестирование локализации (Localization testing)**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "chto-proveryaet-testirovanie-internacionalizacii-internation",
+    "question": "Что проверяет **тестирование интернационализации (Internationalization testing)**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "kakie-vidy-testirovaniya-proizvoditelnosti-vy-znaete",
+    "question": "Какие виды **тестирования производительности** вы знаете?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "v-chem-raznica-mezhdu-nagruzochnym-load-i-stressovym",
+    "question": "В чем разница между **нагрузочным (Load) и стрессовым (Stress) тестированием**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "chto-takoe-obemnoe-testirovanie-volume-testing",
+    "question": "Что такое **объемное тестирование (Volume testing)**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "dlya-chego-nuzhno-testirovanie-stabilnosti-stability-soak-te",
+    "question": "Для чего нужно **тестирование стабильности (Stability/Soak testing)**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "chto-takoe-smoke-testirovanie-kogda-ego-provodyat",
+    "question": "Что такое **Smoke-тестирование**? Когда его проводят?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "chto-takoe-sanity-testirovanie-chem-ono-otlichaetsya-ot",
+    "question": "Что такое **Sanity-тестирование**? Чем оно отличается от Smoke?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "chto-takoe-regressionnoe-testirovanie-regression-testing",
+    "question": "Что такое **регрессионное тестирование (Regression testing)**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "chem-regressionnoe-testirovanie-otlichaetsya-ot-retesta-re-t",
+    "question": "Чем **регрессионное тестирование** отличается от **ретеста (Re-testing)**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "chto-takoe-build-verification-testing-bvt",
+    "question": "Что такое **Build Verification Testing (BVT)**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "obyasnite-koncepciyu-piramidy-testirovaniya",
+    "question": "Объясните концепцию **пирамиды тестирования**."
+  },
+  {
+    "section": "manual-qa",
+    "block": "urovni-i-vidy-testirovaniya",
+    "blockLabel": "Уровни и виды тестирования",
+    "position": 6,
+    "slug": "chto-takoe-antipattern-morozhenoe-ice-cream-cone",
+    "question": "Что такое антипаттерн **\"Мороженое\" (Ice Cream Cone)**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bagi-i-defekty",
+    "blockLabel": "Баги и дефекты",
+    "position": 7,
+    "slug": "dayte-opredelenie-defekta-baga",
+    "question": "Дайте определение **дефекта (бага)**."
+  },
+  {
+    "section": "manual-qa",
+    "block": "bagi-i-defekty",
+    "blockLabel": "Баги и дефекты",
+    "position": 7,
+    "slug": "opishite-zhiznennyy-cikl-baga-osnovnye-statusy",
+    "question": "Опишите **жизненный цикл бага** (основные статусы)."
+  },
+  {
+    "section": "manual-qa",
+    "block": "bagi-i-defekty",
+    "blockLabel": "Баги и дефекты",
+    "position": 7,
+    "slug": "chto-oznachayut-statusy-assigned-fixed-verified",
+    "question": "Что означают статусы **\"Assigned\"**, **\"Fixed\"**, **\"Verified\"**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bagi-i-defekty",
+    "blockLabel": "Баги и дефекты",
+    "position": 7,
+    "slug": "v-kakih-sluchayah-bag-poluchaet-status-reopened",
+    "question": "В каких случаях баг получает статус **\"Reopened\"**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bagi-i-defekty",
+    "blockLabel": "Баги и дефекты",
+    "position": 7,
+    "slug": "chem-duplicate-otlichaetsya-ot-not-a-bug",
+    "question": "Чем **\"Duplicate\"** отличается от **\"Not a Bug\"**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bagi-i-defekty",
+    "blockLabel": "Баги и дефекты",
+    "position": 7,
+    "slug": "chto-takoe-klassifikaciya-defektov-po-kakim-parametram-klass",
+    "question": "Что такое **классификация дефектов**? По каким параметрам классифицируют?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bagi-i-defekty",
+    "blockLabel": "Баги и дефекты",
+    "position": 7,
+    "slug": "chto-takoe-severity-sereznost-defekta-kto-ego-opredelyaet",
+    "question": "Что такое **Severity** (серьезность) дефекта? Кто его определяет?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bagi-i-defekty",
+    "blockLabel": "Баги и дефекты",
+    "position": 7,
+    "slug": "perechislite-gradacii-severity-ot-blocker-do-trivial",
+    "question": "Перечислите градации **Severity** (от Blocker до Trivial)."
+  },
+  {
+    "section": "manual-qa",
+    "block": "bagi-i-defekty",
+    "blockLabel": "Баги и дефекты",
+    "position": 7,
+    "slug": "chto-takoe-priority-prioritet-defekta-kto-ego-naznachaet",
+    "question": "Что такое **Priority** (приоритет) дефекта? Кто его назначает?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bagi-i-defekty",
+    "blockLabel": "Баги и дефекты",
+    "position": 7,
+    "slug": "mozhet-li-bag-s-high-severity-imet-low",
+    "question": "Может ли баг с High Severity иметь Low Priority? Приведите пример."
+  },
+  {
+    "section": "manual-qa",
+    "block": "bagi-i-defekty",
+    "blockLabel": "Баги и дефекты",
+    "position": 7,
+    "slug": "a-mozhet-li-bag-s-low-severity-imet",
+    "question": "А может ли баг с Low Severity иметь High Priority? Приведите пример."
+  },
+  {
+    "section": "manual-qa",
+    "block": "bagi-i-defekty",
+    "blockLabel": "Баги и дефекты",
+    "position": 7,
+    "slug": "kakuyu-sereznost-obychno-imeet-opechatka-v-interfeyse",
+    "question": "Какую серьезность обычно имеет **опечатка** в интерфейсе?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bagi-i-defekty",
+    "blockLabel": "Баги и дефекты",
+    "position": 7,
+    "slug": "chto-takoe-rca-root-cause-analysis-i-dlya",
+    "question": "Что такое **RCA (Root Cause Analysis)** и для чего он нужен?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bagi-i-defekty",
+    "blockLabel": "Баги и дефекты",
+    "position": 7,
+    "slug": "rasskazhite-o-metodike-5-pochemu-5-whys",
+    "question": "Расскажите о методике **\"5 почему\" (5 Whys)**."
+  },
+  {
+    "section": "manual-qa",
+    "block": "bagi-i-defekty",
+    "blockLabel": "Баги и дефекты",
+    "position": 7,
+    "slug": "dlya-chego-ispolzuetsya-diagramma-isikavy-fishbone",
+    "question": "Для чего используется **диаграмма Исикавы (Fishbone)**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bagi-i-defekty",
+    "blockLabel": "Баги и дефекты",
+    "position": 7,
+    "slug": "kakie-metriki-kachestva-bagov-vy-znaete",
+    "question": "Какие **метрики качества багов** вы знаете?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bagi-i-defekty",
+    "blockLabel": "Баги и дефекты",
+    "position": 7,
+    "slug": "chto-takoe-defect-density",
+    "question": "Что такое **Defect Density**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bagi-i-defekty",
+    "blockLabel": "Баги и дефекты",
+    "position": 7,
+    "slug": "chto-pokazyvaet-defect-leakage-pochemu-eto-vazhnaya-metrika",
+    "question": "Что показывает **Defect Leakage**? Почему это важная метрика для QA?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bagi-i-defekty",
+    "blockLabel": "Баги и дефекты",
+    "position": 7,
+    "slug": "chto-takoe-defect-removal-efficiency-dre",
+    "question": "Что такое **Defect Removal Efficiency (DRE)**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bagi-i-defekty",
+    "blockLabel": "Баги и дефекты",
+    "position": 7,
+    "slug": "kakie-osnovnye-atributy-dolzhny-byt-v-bag-reporte",
+    "question": "Какие основные **атрибуты** должны быть в баг-репорте?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bagi-i-defekty",
+    "blockLabel": "Баги и дефекты",
+    "position": 7,
+    "slug": "chto-dolzhno-byt-v-pole-shagi-k-vosproizvedeniyu",
+    "question": "Что должно быть в поле **\"Шаги к воспроизведению\"**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bagi-i-defekty",
+    "blockLabel": "Баги и дефекты",
+    "position": 7,
+    "slug": "zachem-v-bag-reporte-ukazyvat-okruzhenie-environment",
+    "question": "Зачем в баг-репорте указывать **окружение (Environment)**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "test-dizayn",
+    "blockLabel": "Тест-дизайн",
+    "position": 8,
+    "slug": "chto-takoe-test-dizayn",
+    "question": "Что такое **тест-дизайн**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "test-dizayn",
+    "blockLabel": "Тест-дизайн",
+    "position": 8,
+    "slug": "kakie-tehniki-test-dizayna-vy-znaete",
+    "question": "Какие **техники тест-дизайна** вы знаете?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "test-dizayn",
+    "blockLabel": "Тест-дизайн",
+    "position": 8,
+    "slug": "obyasnite-tehniku-ekvivalentnogo-razdeleniya-equivalence-par",
+    "question": "Объясните технику **эквивалентного разделения (Equivalence Partitioning)**. Приведите пример."
+  },
+  {
+    "section": "manual-qa",
+    "block": "test-dizayn",
+    "blockLabel": "Тест-дизайн",
+    "position": 8,
+    "slug": "obyasnite-tehniku-analiza-granichnyh-znacheniy-boundary-valu",
+    "question": "Объясните технику **анализа граничных значений (Boundary Value Analysis)**. Приведите пример."
+  },
+  {
+    "section": "manual-qa",
+    "block": "test-dizayn",
+    "blockLabel": "Тест-дизайн",
+    "position": 8,
+    "slug": "v-chem-raznica-mezhdu-etimi-dvumya-tehnikami",
+    "question": "В чем разница между этими двумя техниками?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "test-dizayn",
+    "blockLabel": "Тест-дизайн",
+    "position": 8,
+    "slug": "dlya-chego-ispolzuyutsya-tablicy-prinyatiya-resheniy-decisio",
+    "question": "Для чего используются **таблицы принятия решений (Decision Tables)**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "test-dizayn",
+    "blockLabel": "Тест-дизайн",
+    "position": 8,
+    "slug": "chto-takoe-poparnoe-testirovanie-pairwise-testing-i-kogda",
+    "question": "Что такое **попарное тестирование (Pairwise Testing)** и когда оно эффективно?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "test-dizayn",
+    "blockLabel": "Тест-дизайн",
+    "position": 8,
+    "slug": "opishite-tehniku-testirovaniya-perehodov-sostoyaniy-state-tr",
+    "question": "Опишите технику **тестирования переходов состояний (State Transition Testing)**."
+  },
+  {
+    "section": "manual-qa",
+    "block": "test-dizayn",
+    "blockLabel": "Тест-дизайн",
+    "position": 8,
+    "slug": "chto-takoe-issledovatelskoe-testirovanie-exploratory-testing",
+    "question": "Что такое **исследовательское тестирование (Exploratory Testing)**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "test-dizayn",
+    "blockLabel": "Тест-дизайн",
+    "position": 8,
+    "slug": "chto-takoe-testirovanie-na-osnove-opyta-error-guessing",
+    "question": "Что такое **тестирование на основе опыта (Error Guessing)**? Приведите пример."
+  },
+  {
+    "section": "manual-qa",
+    "block": "test-dizayn",
+    "blockLabel": "Тест-дизайн",
+    "position": 8,
+    "slug": "chto-takoe-fazzing-fuzz-testing",
+    "question": "Что такое **фаззинг (Fuzz Testing)**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "test-dizayn",
+    "blockLabel": "Тест-дизайн",
+    "position": 8,
+    "slug": "v-chem-raznica-mezhdu-testirovaniem-chernogo-yaschika-i",
+    "question": "В чем разница между тестированием **\"черного ящика\"** и **\"белого ящика\"**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "test-dizayn",
+    "blockLabel": "Тест-дизайн",
+    "position": 8,
+    "slug": "kakie-tehniki-otnosyat-k-testirovaniyu-serogo-yaschika",
+    "question": "Какие техники относят к тестированию **\"серого ящика\"**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "test-dizayn",
+    "blockLabel": "Тест-дизайн",
+    "position": 8,
+    "slug": "chto-takoe-testirovanie-na-osnove-riskov-risk-based",
+    "question": "Что такое **тестирование на основе рисков (Risk-Based Testing)**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "test-dizayn",
+    "blockLabel": "Тест-дизайн",
+    "position": 8,
+    "slug": "kakie-tipy-testovyh-stendov-vy-znaete",
+    "question": "Какие типы **тестовых стендов** вы знаете?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "test-dizayn",
+    "blockLabel": "Тест-дизайн",
+    "position": 8,
+    "slug": "chem-stend-ift-otlichaetsya-ot-stenda-psi-v",
+    "question": "Чем стенд **ИФТ** отличается от стенда **ПСИ** (в контексте финтеха)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "test-dizayn",
+    "blockLabel": "Тест-дизайн",
+    "position": 8,
+    "slug": "dlya-chego-nuzhen-stend-so-stabami-stab",
+    "question": "Для чего нужен стенд со **стабами (Stab)**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "test-dizayn",
+    "blockLabel": "Тест-дизайн",
+    "position": 8,
+    "slug": "iz-chego-sostoit-konfiguraciya-testovogo-stenda-apparatnaya",
+    "question": "Из чего состоит **конфигурация тестового стенда** (аппаратная/программная часть)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "estimatsiya-i-metriki",
+    "blockLabel": "Эстимация и метрики",
+    "position": 9,
+    "slug": "chto-takoe-estimaciya-v-testirovanii",
+    "question": "Что такое эстимация в тестировании?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "estimatsiya-i-metriki",
+    "blockLabel": "Эстимация и метрики",
+    "position": 9,
+    "slug": "kakie-metody-ocenki-trudozatrat-vy-znaete",
+    "question": "Какие методы оценки трудозатрат вы знаете?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "estimatsiya-i-metriki",
+    "blockLabel": "Эстимация и метрики",
+    "position": 9,
+    "slug": "kak-rabotaet-metod-planning-poker",
+    "question": "Как работает метод \"Planning Poker\"?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "estimatsiya-i-metriki",
+    "blockLabel": "Эстимация и метрики",
+    "position": 9,
+    "slug": "chto-takoe-metod-analogiy",
+    "question": "Что такое метод аналогий?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "estimatsiya-i-metriki",
+    "blockLabel": "Эстимация и метрики",
+    "position": 9,
+    "slug": "obyasnite-metod-ocenki-po-trem-tochkam-pert-privedite",
+    "question": "Объясните метод оценки по трем точкам (PERT). Приведите формулу."
+  },
+  {
+    "section": "manual-qa",
+    "block": "estimatsiya-i-metriki",
+    "blockLabel": "Эстимация и метрики",
+    "position": 9,
+    "slug": "kakie-faktory-vliyayut-na-tochnost-estimacii",
+    "question": "Какие факторы влияют на точность эстимации?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "estimatsiya-i-metriki",
+    "blockLabel": "Эстимация и метрики",
+    "position": 9,
+    "slug": "kakie-metriki-testirovaniya-ispolzuyutsya-dlya-otslezhivaniy",
+    "question": "Какие метрики тестирования используются для отслеживания прогресса?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "estimatsiya-i-metriki",
+    "blockLabel": "Эстимация и метрики",
+    "position": 9,
+    "slug": "chto-takoe-pokrytie-koda-testami",
+    "question": "Что такое покрытие кода тестами?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "estimatsiya-i-metriki",
+    "blockLabel": "Эстимация и метрики",
+    "position": 9,
+    "slug": "chto-takoe-plotnost-defektov-defect-density",
+    "question": "Что такое плотность дефектов (Defect Density)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "estimatsiya-i-metriki",
+    "blockLabel": "Эстимация и метрики",
+    "position": 9,
+    "slug": "chto-takoe-srednee-vremya-na-ispravlenie-defekta",
+    "question": "Что такое среднее время на исправление дефекта?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "api",
+    "blockLabel": "API",
+    "position": 10,
+    "slug": "chto-takoe-api-application-programming-interface",
+    "question": "Что такое API (Application Programming Interface)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "api",
+    "blockLabel": "API",
+    "position": 10,
+    "slug": "kakie-vidy-api-vy-znaete-po-arhitekture-protokolu",
+    "question": "Какие виды API вы знаете (по архитектуре/протоколу)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "api",
+    "blockLabel": "API",
+    "position": 10,
+    "slug": "chto-takoe-rest-api-kakie-principy-lezhat-v",
+    "question": "Что такое REST API? Какие принципы лежат в его основе (RESTful)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "api",
+    "blockLabel": "API",
+    "position": 10,
+    "slug": "chto-takoe-soap-api-v-kakom-formate-peredayutsya",
+    "question": "Что такое SOAP API? В каком формате передаются данные?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "api",
+    "blockLabel": "API",
+    "position": 10,
+    "slug": "chem-rest-otlichaetsya-ot-soap",
+    "question": "Чем REST отличается от SOAP?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "api",
+    "blockLabel": "API",
+    "position": 10,
+    "slug": "chto-takoe-graphql-v-chem-ego-preimuschestvo-pered",
+    "question": "Что такое GraphQL? В чем его преимущество перед REST?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "api",
+    "blockLabel": "API",
+    "position": 10,
+    "slug": "dlya-chego-ispolzuetsya-dokumentaciya-v-api-kakie-formaty",
+    "question": "Для чего используется документация в API? Какие форматы документации знаете (OpenAPI, WSDL)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "api",
+    "blockLabel": "API",
+    "position": 10,
+    "slug": "chto-takoe-wsdl",
+    "question": "Что такое WSDL?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "api",
+    "blockLabel": "API",
+    "position": 10,
+    "slug": "chto-takoe-openapi-swagger",
+    "question": "Что такое OpenAPI (Swagger)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "api",
+    "blockLabel": "API",
+    "position": 10,
+    "slug": "kakie-suschestvuyut-tokeny-dlya-avtorizacii-v-api-bearer",
+    "question": "Какие существуют токены для авторизации в API (Bearer, JWT, OAuth)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "api",
+    "blockLabel": "API",
+    "position": 10,
+    "slug": "chto-takoe-jwt-json-web-token-i-iz",
+    "question": "Что такое JWT (JSON Web Token) и из каких частей он состоит?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "api",
+    "blockLabel": "API",
+    "position": 10,
+    "slug": "dlya-chego-nuzhen-refresh-token",
+    "question": "Для чего нужен Refresh Token?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "api",
+    "blockLabel": "API",
+    "position": 10,
+    "slug": "chto-takoe-paginaciya-v-api-i-zachem-ona",
+    "question": "Что такое пагинация в API и зачем она нужна?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "api",
+    "blockLabel": "API",
+    "position": 10,
+    "slug": "kakie-parametry-obychno-ispolzuyutsya-dlya-paginacii-limit-o",
+    "question": "Какие параметры обычно используются для пагинации (limit, offset, page)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "api",
+    "blockLabel": "API",
+    "position": 10,
+    "slug": "chem-sinhronnoe-vzaimodeystvie-s-api-otlichaetsya-ot-asinhro",
+    "question": "Чем синхронное взаимодействие с API отличается от асинхронного?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "api",
+    "blockLabel": "API",
+    "position": 10,
+    "slug": "kakie-metody-asinhronnogo-vzaimodeystviya-vy-znaete-polling",
+    "question": "Какие методы асинхронного взаимодействия вы знаете (Polling, WebSocket, WebHooks)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "api",
+    "blockLabel": "API",
+    "position": 10,
+    "slug": "chto-takoe-webhook",
+    "question": "Что такое WebHook?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "api",
+    "blockLabel": "API",
+    "position": 10,
+    "slug": "dlya-chego-nuzhna-validaciya-openapi-specifikacii-v-ci",
+    "question": "Для чего нужна валидация OpenAPI спецификации в CI/CD?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "api",
+    "blockLabel": "API",
+    "position": 10,
+    "slug": "kakie-instrumenty-dlya-validacii-api-vy-znaete-dredd",
+    "question": "Какие инструменты для валидации API вы знаете (Dredd, Spectral)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "api",
+    "blockLabel": "API",
+    "position": 10,
+    "slug": "chto-takoe-curl-i-dlya-chego-on-ispolzuetsya",
+    "question": "Что такое cURL и для чего он используется?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "api",
+    "blockLabel": "API",
+    "position": 10,
+    "slug": "napishite-curl-zapros-dlya-otpravki-post-dannyh-v",
+    "question": "Напишите cURL-запрос для отправки POST-данных в формате JSON."
+  },
+  {
+    "section": "manual-qa",
+    "block": "api",
+    "blockLabel": "API",
+    "position": 10,
+    "slug": "chto-takoe-postman-dlya-chego-on-ispolzuetsya-v",
+    "question": "Что такое Postman? Для чего он используется в тестировании API?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "api",
+    "blockLabel": "API",
+    "position": 10,
+    "slug": "kakova-ierarhiya-prioritet-peremennyh-v-postman",
+    "question": "Какова иерархия (приоритет) переменных в Postman?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "api",
+    "blockLabel": "API",
+    "position": 10,
+    "slug": "chto-takoe-kollekciya-collection-v-postman-i-zachem",
+    "question": "Что такое коллекция (Collection) в Postman и зачем она нужна?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "api",
+    "blockLabel": "API",
+    "position": 10,
+    "slug": "chto-takoe-soapui",
+    "question": "Что такое SoapUI?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "api",
+    "blockLabel": "API",
+    "position": 10,
+    "slug": "chto-takoe-restful-sistemy",
+    "question": "Что такое RESTful-системы?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "api",
+    "blockLabel": "API",
+    "position": 10,
+    "slug": "chto-takoe-xsd-xml-schema-definition-v-kontekste",
+    "question": "Что такое XSD (XML Schema Definition) в контексте SOAP?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "api",
+    "blockLabel": "API",
+    "position": 10,
+    "slug": "chto-takoe-wadl",
+    "question": "Что такое WADL?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "api",
+    "blockLabel": "API",
+    "position": 10,
+    "slug": "chto-takoe-ws-security",
+    "question": "Что такое WS-Security?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "seti-i-protokoly",
+    "blockLabel": "Сети и протоколы",
+    "position": 11,
+    "slug": "chto-takoe-setevoy-protokol",
+    "question": "Что такое сетевой протокол?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "seti-i-protokoly",
+    "blockLabel": "Сети и протоколы",
+    "position": 11,
+    "slug": "nazovite-osnovnye-protokoly-prikladnogo-urovnya-i-ih-porty",
+    "question": "Назовите основные протоколы прикладного уровня и их порты (HTTP, HTTPS, FTP, SSH, DNS)."
+  },
+  {
+    "section": "manual-qa",
+    "block": "seti-i-protokoly",
+    "blockLabel": "Сети и протоколы",
+    "position": 11,
+    "slug": "dlya-chego-ispolzuetsya-protokol-smtp",
+    "question": "Для чего используется протокол SMTP?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "seti-i-protokoly",
+    "blockLabel": "Сети и протоколы",
+    "position": 11,
+    "slug": "chto-takoe-protokol-tcp-kakie-u-nego-osobennosti",
+    "question": "Что такое протокол TCP? Какие у него особенности (надежность, соединение)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "seti-i-protokoly",
+    "blockLabel": "Сети и протоколы",
+    "position": 11,
+    "slug": "chem-tcp-otlichaetsya-ot-udp",
+    "question": "Чем TCP отличается от UDP?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "seti-i-protokoly",
+    "blockLabel": "Сети и протоколы",
+    "position": 11,
+    "slug": "chto-takoe-model-osi-perechislite-ee-7-urovney",
+    "question": "Что такое модель OSI? Перечислите ее 7 уровней."
+  },
+  {
+    "section": "manual-qa",
+    "block": "seti-i-protokoly",
+    "blockLabel": "Сети и протоколы",
+    "position": 11,
+    "slug": "chto-takoe-model-tcp-ip-skolko-v-ney",
+    "question": "Что такое модель TCP/IP? Сколько в ней уровней?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "seti-i-protokoly",
+    "blockLabel": "Сети и протоколы",
+    "position": 11,
+    "slug": "kak-sootnosyatsya-urovni-modeli-osi-i-tcp-ip",
+    "question": "Как соотносятся уровни модели OSI и TCP/IP?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "seti-i-protokoly",
+    "blockLabel": "Сети и протоколы",
+    "position": 11,
+    "slug": "chto-takoe-proksi-server-kakie-vidy-proksi-byvayut",
+    "question": "Что такое прокси-сервер? Какие виды прокси бывают (прямой, обратный)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "seti-i-protokoly",
+    "blockLabel": "Сети и протоколы",
+    "position": 11,
+    "slug": "dlya-chego-nuzhen-obratnyy-proksi-reverse-proxy",
+    "question": "Для чего нужен обратный прокси (Reverse Proxy)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "seti-i-protokoly",
+    "blockLabel": "Сети и протоколы",
+    "position": 11,
+    "slug": "chto-takoe-vpn-virtual-private-network-i-kak",
+    "question": "Что такое VPN (Virtual Private Network) и как он работает?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "seti-i-protokoly",
+    "blockLabel": "Сети и протоколы",
+    "position": 11,
+    "slug": "kakie-protokoly-vpn-vy-znaete-openvpn-wireguard",
+    "question": "Какие протоколы VPN вы знаете (OpenVPN, WireGuard)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "seti-i-protokoly",
+    "blockLabel": "Сети и протоколы",
+    "position": 11,
+    "slug": "v-chem-raznica-mezhdu-mac-adresom-i-ip",
+    "question": "В чем разница между MAC-адресом и IP-адресом?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "seti-i-protokoly",
+    "blockLabel": "Сети и протоколы",
+    "position": 11,
+    "slug": "na-kakom-urovne-modeli-osi-rabotaet-mac-adres",
+    "question": "На каком уровне модели OSI работает MAC-адрес? А IP-адрес?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "seti-i-protokoly",
+    "blockLabel": "Сети и протоколы",
+    "position": 11,
+    "slug": "chto-takoe-sniffer-analizator-trafika-privedite-primery-wire",
+    "question": "Что такое сниффер (анализатор трафика)? Приведите примеры (Wireshark, Fiddler)."
+  },
+  {
+    "section": "manual-qa",
+    "block": "seti-i-protokoly",
+    "blockLabel": "Сети и протоколы",
+    "position": 11,
+    "slug": "dlya-chego-ispolzuyutsya-sniffery-v-testirovanii",
+    "question": "Для чего используются снифферы в тестировании?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "seti-i-protokoly",
+    "blockLabel": "Сети и протоколы",
+    "position": 11,
+    "slug": "chto-takoe-brandmauer-fayrvol",
+    "question": "Что такое брандмауэр (файрвол)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "seti-i-protokoly",
+    "blockLabel": "Сети и протоколы",
+    "position": 11,
+    "slug": "chto-takoe-cms-content-management-system-privedite-primery",
+    "question": "Что такое CMS (Content Management System)? Приведите примеры."
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "chto-takoe-http-kakoy-port-ispolzuetsya-po-umolchaniyu",
+    "question": "Что такое **HTTP**? Какой порт используется по умолчанию?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "chem-https-otlichaetsya-ot-http-chto-takoe-ssl",
+    "question": "Чем **HTTPS** отличается от HTTP? Что такое SSL/TLS?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "opishite-process-ssl-tls-handshake",
+    "question": "Опишите процесс **SSL/TLS Handshake**."
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "chto-takoe-publichnyy-privatnyy-i-sessionnyy-klyuchi",
+    "question": "Что такое **публичный**, **приватный** и **сессионный** ключи?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "kakova-struktura-http-zaprosa",
+    "question": "Какова **структура HTTP-запроса**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "kakova-struktura-http-otveta",
+    "question": "Какова **структура HTTP-ответа**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "chto-takoe-metody-http-perechislite-osnovnye",
+    "question": "Что такое **методы HTTP**? Перечислите основные."
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "chto-takoe-crud-i-kak-on-sootnositsya-s",
+    "question": "Что такое **CRUD** и как он соотносится с HTTP-методами?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "dlya-chego-ispolzuetsya-metod-get-kakovy-ego-osobennosti",
+    "question": "Для чего используется метод **GET**? Каковы его особенности?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "dlya-chego-ispolzuetsya-metod-post-chem-on-otlichaetsya",
+    "question": "Для чего используется метод **POST**? Чем он отличается от GET?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "chto-oznachaet-idempotentnost-metoda-http-kakie-metody-idemp",
+    "question": "Что означает **идемпотентность** метода HTTP? Какие методы идемпотентны?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "kakie-metody-http-schitayutsya-bezopasnymi",
+    "question": "Какие методы HTTP считаются **безопасными**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "kakie-kody-otvetov-http-vy-znaete-nazovite-osnovnye",
+    "question": "Какие **коды ответов HTTP** вы знаете? Назовите основные группы (1xx, 2xx, 3xx, 4xx, 5xx)."
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "chto-oznachaet-kod-otveta-200-ok",
+    "question": "Что означает код ответа **200 OK**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "chto-oznachaet-kod-otveta-201-created",
+    "question": "Что означает код ответа **201 Created**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "chto-oznachaet-kod-otveta-301-moved-permanently",
+    "question": "Что означает код ответа **301 Moved Permanently**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "chto-oznachaet-kod-otveta-400-bad-request",
+    "question": "Что означает код ответа **400 Bad Request**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "chto-oznachaet-kod-otveta-401-unauthorized",
+    "question": "Что означает код ответа **401 Unauthorized**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "chto-oznachaet-kod-otveta-403-forbidden-chem-on",
+    "question": "Что означает код ответа **403 Forbidden**? Чем он отличается от 401?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "chto-oznachaet-kod-otveta-404-not-found",
+    "question": "Что означает код ответа **404 Not Found**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "chto-oznachaet-kod-otveta-500-internal-server-error",
+    "question": "Что означает код ответа **500 Internal Server Error**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "chto-takoe-http-zagolovki-headers-dlya-chego-oni",
+    "question": "Что такое **HTTP-заголовки (Headers)**? Для чего они нужны?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "kakie-zagolovki-zaprosa-vy-znaete-host-user-agent",
+    "question": "Какие заголовки запроса вы знаете (`Host`, `User-Agent`, `Authorization`)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "kakie-zagolovki-otveta-vy-znaete-content-type-set",
+    "question": "Какие заголовки ответа вы знаете (`Content-Type`, `Set-Cookie`, `Cache-Control`)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "chto-takoe-cors-cross-origin-resource-sharing-kakie",
+    "question": "Что такое **CORS (Cross-Origin Resource Sharing)**? Какие проблемы он решает?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "kakie-zagolovki-svyazany-s-cors",
+    "question": "Какие заголовки связаны с CORS?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "chto-takoe-localstorage-i-sessionstorage-v-chem-raznica",
+    "question": "Что такое **LocalStorage** и **SessionStorage**? В чем разница?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "chto-takoe-kuki-cookies-i-dlya-chego-oni",
+    "question": "Что такое **куки (Cookies)** и для чего они используются?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "kakie-vidy-kuki-vy-znaete",
+    "question": "Какие виды куки вы знаете?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "chem-kuki-otlichayutsya-ot-kesha-brauzera",
+    "question": "Чем куки отличаются от **кэша** браузера?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "chto-takoe-uri-url-i-urn-v-chem",
+    "question": "Что такое **URI**, **URL** и **URN**? В чем разница?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "chto-takoe-ajax-i-dlya-chego-on-ispolzuetsya",
+    "question": "Что такое **AJAX** и для чего он используется?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "kakie-instrumenty-devtools-vy-ispolzuete-chasche-vsego",
+    "question": "Какие инструменты **DevTools** вы используете чаще всего?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "chto-mozhno-uvidet-na-vkladke-network-v-devtools",
+    "question": "Что можно увидеть на вкладке **Network** в DevTools?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "http",
+    "blockLabel": "HTTP",
+    "position": 12,
+    "slug": "kak-s-pomoschyu-devtools-emulirovat-medlennoe-soedinenie",
+    "question": "Как с помощью DevTools эмулировать медленное соединение?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "arhitektura-po",
+    "blockLabel": "Архитектура ПО",
+    "position": 13,
+    "slug": "chto-takoe-monolitnaya-arhitektura-kakovy-ee-plyusy-i",
+    "question": "Что такое **монолитная архитектура**? Каковы ее плюсы и минусы?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "arhitektura-po",
+    "blockLabel": "Архитектура ПО",
+    "position": 13,
+    "slug": "chto-takoe-mikroservisnaya-arhitektura",
+    "question": "Что такое **микросервисная архитектура**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "arhitektura-po",
+    "blockLabel": "Архитектура ПО",
+    "position": 13,
+    "slug": "v-chem-preimuschestva-mikroservisov-pered-monolitom",
+    "question": "В чем преимущества микросервисов перед монолитом?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "arhitektura-po",
+    "blockLabel": "Архитектура ПО",
+    "position": 13,
+    "slug": "kakie-slozhnosti-voznikayut-pri-rabote-s-mikroservisami",
+    "question": "Какие сложности возникают при работе с микросервисами?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "arhitektura-po",
+    "blockLabel": "Архитектура ПО",
+    "position": 13,
+    "slug": "chto-takoe-klient-servernaya-arhitektura",
+    "question": "Что такое **клиент-серверная архитектура**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "arhitektura-po",
+    "blockLabel": "Архитектура ПО",
+    "position": 13,
+    "slug": "kakie-vidy-klient-servernoy-arhitektury-vy-znaete-2",
+    "question": "Какие виды клиент-серверной архитектуры вы знаете (2-уровневая, 3-уровневая)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "arhitektura-po",
+    "blockLabel": "Архитектура ПО",
+    "position": 13,
+    "slug": "chto-takoe-tolstyy-klient-i-tonkiy-klient-privedite",
+    "question": "Что такое **\"толстый клиент\"** и **\"тонкий клиент\"**? Приведите примеры."
+  },
+  {
+    "section": "manual-qa",
+    "block": "arhitektura-po",
+    "blockLabel": "Архитектура ПО",
+    "position": 13,
+    "slug": "dlya-chego-nuzhen-balansirovschik-nagruzki-load-balancer",
+    "question": "Для чего нужен **балансировщик нагрузки (Load Balancer)**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "arhitektura-po",
+    "blockLabel": "Архитектура ПО",
+    "position": 13,
+    "slug": "kakie-algoritmy-balansirovki-vy-znaete-round-robin-least",
+    "question": "Какие алгоритмы балансировки вы знаете (Round Robin, Least Connections)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "arhitektura-po",
+    "blockLabel": "Архитектура ПО",
+    "position": 13,
+    "slug": "chem-otlichaetsya-l4-balansirovka-ot-l7",
+    "question": "Чем отличается L4 балансировка от L7?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "arhitektura-po",
+    "blockLabel": "Архитектура ПО",
+    "position": 13,
+    "slug": "dayte-opredeleniya-identifikaciya-autentifikaciya-avtorizaci",
+    "question": "Дайте определения: **идентификация, аутентификация, авторизация**."
+  },
+  {
+    "section": "manual-qa",
+    "block": "arhitektura-po",
+    "blockLabel": "Архитектура ПО",
+    "position": 13,
+    "slug": "chem-orkestraciya-mikroservisov-otlichaetsya-ot-horeografii",
+    "question": "Чем **оркестрация** микросервисов отличается от **хореографии**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "arhitektura-po",
+    "blockLabel": "Архитектура ПО",
+    "position": 13,
+    "slug": "chto-takoe-sinhronnoe-i-asinhronnoe-vzaimodeystvie-v-arhitek",
+    "question": "Что такое **синхронное** и **асинхронное** взаимодействие в архитектуре?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "arhitektura-po",
+    "blockLabel": "Архитектура ПО",
+    "position": 13,
+    "slug": "chto-takoe-mok-mock-i-stab-stub-v",
+    "question": "Что такое **мок (Mock)** и **стаб (Stub)** в тестировании? Для чего они нужны?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "arhitektura-po",
+    "blockLabel": "Архитектура ПО",
+    "position": 13,
+    "slug": "chem-wiremock-otlichaetsya-ot-mockito",
+    "question": "Чем WireMock отличается от Mockito?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "arhitektura-po",
+    "blockLabel": "Архитектура ПО",
+    "position": 13,
+    "slug": "chto-takoe-broker-soobscheniy-message-broker",
+    "question": "Что такое **брокер сообщений (Message Broker)**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "arhitektura-po",
+    "blockLabel": "Архитектура ПО",
+    "position": 13,
+    "slug": "dlya-chego-ispolzuyutsya-brokery-soobscheniy-kafka-rabbitmq",
+    "question": "Для чего используются брокеры сообщений (Kafka, RabbitMQ)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "arhitektura-po",
+    "blockLabel": "Архитектура ПО",
+    "position": 13,
+    "slug": "chto-takoe-apache-kafka-kakie-klyuchevye-ponyatiya-v",
+    "question": "Что такое **Apache Kafka**? Какие ключевые понятия в ней есть (топик, партиция, продюсер, консьюмер)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "arhitektura-po",
+    "blockLabel": "Архитектура ПО",
+    "position": 13,
+    "slug": "chem-kafka-otlichaetsya-ot-rabbitmq",
+    "question": "Чем Kafka отличается от RabbitMQ?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "arhitektura-po",
+    "blockLabel": "Архитектура ПО",
+    "position": 13,
+    "slug": "chto-takoe-offset-offset-v-kafka",
+    "question": "Что такое **оффсет (offset)** в Kafka?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "arhitektura-po",
+    "blockLabel": "Архитектура ПО",
+    "position": 13,
+    "slug": "chto-takoe-eda-event-driven-architecture",
+    "question": "Что такое **EDA (Event-Driven Architecture)**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "arhitektura-po",
+    "blockLabel": "Архитектура ПО",
+    "position": 13,
+    "slug": "chto-takoe-integracionnaya-shina-esb",
+    "question": "Что такое **интеграционная шина (ESB)**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "arhitektura-po",
+    "blockLabel": "Архитектура ПО",
+    "position": 13,
+    "slug": "chto-takoe-shlyuz-api-gateway-kakie-funkcii-on",
+    "question": "Что такое **шлюз (API Gateway)**? Какие функции он выполняет?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "arhitektura-po",
+    "blockLabel": "Архитектура ПО",
+    "position": 13,
+    "slug": "v-chem-raznica-mezhdu-shlyuzom-i-shinoy",
+    "question": "В чем разница между **шлюзом** и **шиной**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "arhitektura-po",
+    "blockLabel": "Архитектура ПО",
+    "position": 13,
+    "slug": "chto-takoe-virtualnaya-mashina-vm-i-dlya-chego",
+    "question": "Что такое **виртуальная машина (VM)** и для чего она используется в тестировании?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "arhitektura-po",
+    "blockLabel": "Архитектура ПО",
+    "position": 13,
+    "slug": "chto-takoe-konteynerizaciya-docker-i-chem-konteyner-otlichae",
+    "question": "Что такое **контейнеризация (Docker)** и чем контейнер отличается от виртуальной машины?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bazy-dannyh-i-sql",
+    "blockLabel": "Базы данных и SQL",
+    "position": 14,
+    "slug": "chto-takoe-baza-dannyh",
+    "question": "Что такое база данных?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bazy-dannyh-i-sql",
+    "blockLabel": "Базы данных и SQL",
+    "position": 14,
+    "slug": "chto-takoe-subd-privedite-primery",
+    "question": "Что такое СУБД? Приведите примеры."
+  },
+  {
+    "section": "manual-qa",
+    "block": "bazy-dannyh-i-sql",
+    "blockLabel": "Базы данных и SQL",
+    "position": 14,
+    "slug": "kakie-modeli-baz-dannyh-vy-znaete",
+    "question": "Какие модели баз данных вы знаете?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bazy-dannyh-i-sql",
+    "blockLabel": "Базы данных и SQL",
+    "position": 14,
+    "slug": "chto-takoe-relyacionnaya-baza-dannyh",
+    "question": "Что такое реляционная база данных?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bazy-dannyh-i-sql",
+    "blockLabel": "Базы данных и SQL",
+    "position": 14,
+    "slug": "chto-takoe-nosql-bazy-dannyh-kakie-tipy-nosql",
+    "question": "Что такое NoSQL базы данных? Какие типы NoSQL БД бывают?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bazy-dannyh-i-sql",
+    "blockLabel": "Базы данных и SQL",
+    "position": 14,
+    "slug": "nazovite-osnovnye-vidy-svyazey-mezhdu-tablicami-v-bd",
+    "question": "Назовите основные виды связей между таблицами в БД (1:1, 1:N, N:M)."
+  },
+  {
+    "section": "manual-qa",
+    "block": "bazy-dannyh-i-sql",
+    "blockLabel": "Базы данных и SQL",
+    "position": 14,
+    "slug": "privedite-primer-svyazi-odin-ko-mnogim",
+    "question": "Приведите пример связи \"один ко многим\"."
+  },
+  {
+    "section": "manual-qa",
+    "block": "bazy-dannyh-i-sql",
+    "blockLabel": "Базы данных и SQL",
+    "position": 14,
+    "slug": "kak-realizuetsya-svyaz-mnogie-ko-mnogim",
+    "question": "Как реализуется связь \"многие ко многим\"?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bazy-dannyh-i-sql",
+    "blockLabel": "Базы данных и SQL",
+    "position": 14,
+    "slug": "chto-takoe-pervichnyy-klyuch-primary-key",
+    "question": "Что такое первичный ключ (Primary Key)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bazy-dannyh-i-sql",
+    "blockLabel": "Базы данных и SQL",
+    "position": 14,
+    "slug": "chto-takoe-vneshniy-klyuch-foreign-key",
+    "question": "Что такое внешний ключ (Foreign Key)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bazy-dannyh-i-sql",
+    "blockLabel": "Базы данных и SQL",
+    "position": 14,
+    "slug": "chto-takoe-surrogatnyy-klyuch",
+    "question": "Что такое суррогатный ключ?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bazy-dannyh-i-sql",
+    "blockLabel": "Базы данных и SQL",
+    "position": 14,
+    "slug": "chto-takoe-indeks-index-v-bd-i-dlya",
+    "question": "Что такое индекс (Index) в БД и для чего он нужен?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bazy-dannyh-i-sql",
+    "blockLabel": "Базы данных и SQL",
+    "position": 14,
+    "slug": "chto-takoe-tranzakciya-kakimi-svoystvami-acid-ona-obladaet",
+    "question": "Что такое транзакция? Какими свойствами (ACID) она обладает?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bazy-dannyh-i-sql",
+    "blockLabel": "Базы данных и SQL",
+    "position": 14,
+    "slug": "chto-takoe-predstavlenie-view",
+    "question": "Что такое представление (View)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bazy-dannyh-i-sql",
+    "blockLabel": "Базы данных и SQL",
+    "position": 14,
+    "slug": "chto-takoe-replikaciya-dannyh-dlya-chego-ona-nuzhna",
+    "question": "Что такое репликация данных? Для чего она нужна?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bazy-dannyh-i-sql",
+    "blockLabel": "Базы данных и SQL",
+    "position": 14,
+    "slug": "chem-master-slave-replikaciya-otlichaetsya-ot-master-master",
+    "question": "Чем master-slave репликация отличается от master-master?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bazy-dannyh-i-sql",
+    "blockLabel": "Базы данных и SQL",
+    "position": 14,
+    "slug": "chto-takoe-shardirovanie-sharding-kakuyu-problemu-ono-reshae",
+    "question": "Что такое шардирование (Sharding)? Какую проблему оно решает?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bazy-dannyh-i-sql",
+    "blockLabel": "Базы данных и SQL",
+    "position": 14,
+    "slug": "kakie-tipy-dannyh-v-sql-vy-znaete-chislovye",
+    "question": "Какие типы данных в SQL вы знаете (числовые, строковые, дата/время)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bazy-dannyh-i-sql",
+    "blockLabel": "Базы данных и SQL",
+    "position": 14,
+    "slug": "chem-char-otlichaetsya-ot-varchar",
+    "question": "Чем CHAR отличается от VARCHAR?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bazy-dannyh-i-sql",
+    "blockLabel": "Базы данных и SQL",
+    "position": 14,
+    "slug": "chto-takoe-sql-structured-query-language",
+    "question": "Что такое SQL (Structured Query Language)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bazy-dannyh-i-sql",
+    "blockLabel": "Базы данных и SQL",
+    "position": 14,
+    "slug": "kakie-gruppy-operatorov-sql-vy-znaete-ddl-dml",
+    "question": "Какие группы операторов SQL вы знаете (DDL, DML, DCL, TCL)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bazy-dannyh-i-sql",
+    "blockLabel": "Базы данных и SQL",
+    "position": 14,
+    "slug": "chto-otnositsya-k-operatoram-ddl-create-alter-drop",
+    "question": "Что относится к операторам DDL (CREATE, ALTER, DROP)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "bazy-dannyh-i-sql",
+    "blockLabel": "Базы данных и SQL",
+    "position": 14,
+    "slug": "chto-otnositsya-k-operatoram-dml-select-insert-update",
+    "question": "Что относится к операторам DML (SELECT, INSERT, UPDATE, DELETE)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "mobilnoe-testirovanie",
+    "blockLabel": "Мобильное тестирование",
+    "position": 15,
+    "slug": "kakie-vidy-mobilnyh-prilozheniy-suschestvuyut",
+    "question": "Какие **виды мобильных приложений** существуют?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "mobilnoe-testirovanie",
+    "blockLabel": "Мобильное тестирование",
+    "position": 15,
+    "slug": "chem-nativnoe-prilozhenie-otlichaetsya-ot-gibridnogo-i-veb",
+    "question": "Чем **нативное** приложение отличается от **гибридного** и **веб-приложения**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "mobilnoe-testirovanie",
+    "blockLabel": "Мобильное тестирование",
+    "position": 15,
+    "slug": "chto-takoe-pwa-progressive-web-app",
+    "question": "Что такое **PWA (Progressive Web App)**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "mobilnoe-testirovanie",
+    "blockLabel": "Мобильное тестирование",
+    "position": 15,
+    "slug": "kakie-elementy-upravleniya-ui-controls-v-mobilnyh-prilozheni",
+    "question": "Какие **элементы управления (UI controls)** в мобильных приложениях вы знаете?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "mobilnoe-testirovanie",
+    "blockLabel": "Мобильное тестирование",
+    "position": 15,
+    "slug": "v-chem-zaklyuchayutsya-osobennosti-testirovaniya-mobilnyh-pr",
+    "question": "В чем заключаются **особенности тестирования мобильных приложений**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "mobilnoe-testirovanie",
+    "blockLabel": "Мобильное тестирование",
+    "position": 15,
+    "slug": "kak-vliyaet-fragmentaciya-ustroystv-na-strategiyu-testirovan",
+    "question": "Как влияет **фрагментация устройств** на стратегию тестирования?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "mobilnoe-testirovanie",
+    "blockLabel": "Мобильное тестирование",
+    "position": 15,
+    "slug": "kak-testirovat-povedenie-prilozheniya-pri-preryvaniyah-zvono",
+    "question": "Как тестировать поведение приложения при **прерываниях** (звонок, смс)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "mobilnoe-testirovanie",
+    "blockLabel": "Мобильное тестирование",
+    "position": 15,
+    "slug": "chto-takoe-zhesty-v-mobilnyh-prilozheniyah-kakie-zhesty",
+    "question": "Что такое **жесты** в мобильных приложениях? Какие жесты нужно проверять?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "mobilnoe-testirovanie",
+    "blockLabel": "Мобильное тестирование",
+    "position": 15,
+    "slug": "kak-testirovat-rabotu-prilozheniya-pri-potere-seti-ili",
+    "question": "Как тестировать работу приложения при **потере сети** или ее переключении?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "mobilnoe-testirovanie",
+    "blockLabel": "Мобильное тестирование",
+    "position": 15,
+    "slug": "chto-takoe-glubokie-ssylki-deep-links-i-kak",
+    "question": "Что такое **глубокие ссылки (Deep Links)** и как их тестировать?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "mobilnoe-testirovanie",
+    "blockLabel": "Мобильное тестирование",
+    "position": 15,
+    "slug": "kak-testirovat-push-uvedomleniya",
+    "question": "Как тестировать **Push-уведомления**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "mobilnoe-testirovanie",
+    "blockLabel": "Мобильное тестирование",
+    "position": 15,
+    "slug": "kakie-byvayut-sostoyaniya-prilozheniya-zhiznennyy-cikl-kak-t",
+    "question": "Какие бывают состояния приложения (жизненный цикл)? Как тестировать переходы?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "mobilnoe-testirovanie",
+    "blockLabel": "Мобильное тестирование",
+    "position": 15,
+    "slug": "chto-takoe-razresheniya-permissions-kak-testirovat-scenarii",
+    "question": "Что такое **разрешения (Permissions)**? Как тестировать сценарии с разрешениями?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "mobilnoe-testirovanie",
+    "blockLabel": "Мобильное тестирование",
+    "position": 15,
+    "slug": "chto-nuzhno-proverit-pri-testirovanii-ustanovki-i-obnovleniy",
+    "question": "Что нужно проверить при тестировании **установки и обновления** приложения?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "mobilnoe-testirovanie",
+    "blockLabel": "Мобильное тестирование",
+    "position": 15,
+    "slug": "kak-testirovat-potreblenie-batarei-prilozheniem",
+    "question": "Как тестировать потребление **батареи** приложением?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "mobilnoe-testirovanie",
+    "blockLabel": "Мобильное тестирование",
+    "position": 15,
+    "slug": "chto-takoe-gaydlayny-i-zachem-ih-znat-testirovschiku",
+    "question": "Что такое **гайдлайны** и зачем их знать тестировщику?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "mobilnoe-testirovanie",
+    "blockLabel": "Мобильное тестирование",
+    "position": 15,
+    "slug": "nazovite-kriterii-vybora-ustroystva-dlya-testirovaniya",
+    "question": "Назовите **критерии выбора устройства для тестирования**."
+  },
+  {
+    "section": "manual-qa",
+    "block": "mobilnoe-testirovanie",
+    "blockLabel": "Мобильное тестирование",
+    "position": 15,
+    "slug": "kakie-sposoby-ustanovki-prilozheniy-na-ustroystvo-vy-znaete",
+    "question": "Какие **способы установки приложений** на устройство вы знаете?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "mobilnoe-testirovanie",
+    "blockLabel": "Мобильное тестирование",
+    "position": 15,
+    "slug": "chto-takoe-fayly-apk-i-ipa",
+    "question": "Что такое файлы **.apk** и **.ipa**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "mobilnoe-testirovanie",
+    "blockLabel": "Мобильное тестирование",
+    "position": 15,
+    "slug": "chto-takoe-kross-platformennaya-razrabotka-kak-eto-vliyaet",
+    "question": "Что такое **кросс-платформенная разработка**? Как это влияет на тестирование?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "mobilnoe-testirovanie",
+    "blockLabel": "Мобильное тестирование",
+    "position": 15,
+    "slug": "chem-emulyator-otlichaetsya-ot-simulyatora",
+    "question": "Чем **эмулятор** отличается от **симулятора**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "mobilnoe-testirovanie",
+    "blockLabel": "Мобильное тестирование",
+    "position": 15,
+    "slug": "kakie-plyusy-i-minusy-testirovaniya-na-realnyh-ustroystvah",
+    "question": "Какие плюсы и минусы тестирования на **реальных устройствах**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "mobilnoe-testirovanie",
+    "blockLabel": "Мобильное тестирование",
+    "position": 15,
+    "slug": "chto-takoe-oblachnye-fermy-ustroystv",
+    "question": "Что такое **облачные фермы устройств**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "mobilnoe-testirovanie",
+    "blockLabel": "Мобильное тестирование",
+    "position": 15,
+    "slug": "chto-takoe-logcat-dlya-chego-on-nuzhen-testirovschiku",
+    "question": "Что такое **LogCat**? Для чего он нужен тестировщику Android?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "mobilnoe-testirovanie",
+    "blockLabel": "Мобильное тестирование",
+    "position": 15,
+    "slug": "chto-oznachayut-urovni-logov-v-logcat",
+    "question": "Что означают уровни логов в LogCat?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "mobilnoe-testirovanie",
+    "blockLabel": "Мобильное тестирование",
+    "position": 15,
+    "slug": "kak-s-pomoschyu-adb-ustanovit-prilozhenie",
+    "question": "Как с помощью **ADB** установить приложение?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "mobilnoe-testirovanie",
+    "blockLabel": "Мобильное тестирование",
+    "position": 15,
+    "slug": "napishite-komandu-adb-dlya-ochistki-dannyh-prilozheniya",
+    "question": "Напишите команду ADB для очистки данных приложения."
+  },
+  {
+    "section": "manual-qa",
+    "block": "mobilnoe-testirovanie",
+    "blockLabel": "Мобильное тестирование",
+    "position": 15,
+    "slug": "kak-s-pomoschyu-adb-emulirovat-nazhatie-na-ekran",
+    "question": "Как с помощью ADB эмулировать нажатие на экран?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "mobilnoe-testirovanie",
+    "blockLabel": "Мобильное тестирование",
+    "position": 15,
+    "slug": "kak-s-pomoschyu-adb-poluchit-logi-ustroystva",
+    "question": "Как с помощью ADB получить логи устройства?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "mobilnoe-testirovanie",
+    "blockLabel": "Мобильное тестирование",
+    "position": 15,
+    "slug": "chto-takoe-zhiznennyy-cikl-activity-v-android",
+    "question": "Что такое **жизненный цикл Activity** в Android?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "mobilnoe-testirovanie",
+    "blockLabel": "Мобильное тестирование",
+    "position": 15,
+    "slug": "kakie-metody-zhiznennogo-cikla-prilozheniya-v-ios-vy",
+    "question": "Какие методы жизненного цикла приложения в iOS вы знаете?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "mobilnoe-testirovanie",
+    "blockLabel": "Мобильное тестирование",
+    "position": 15,
+    "slug": "chto-takoe-bdui-sdui-i-kak-eto-testirovat",
+    "question": "Что такое **BDUI / SDUI** и как это тестировать?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "logirovanie-i-monitoring",
+    "blockLabel": "Логирование и метрики",
+    "position": 16,
+    "slug": "chto-takoe-logi-i-dlya-chego-oni-nuzhny",
+    "question": "Что такое логи и для чего они нужны?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "logirovanie-i-monitoring",
+    "blockLabel": "Логирование и метрики",
+    "position": 16,
+    "slug": "kakie-urovni-logirovaniya-vy-znaete-debug-info-warn",
+    "question": "Какие уровни логирования вы знаете (DEBUG, INFO, WARN, ERROR)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "logirovanie-i-monitoring",
+    "blockLabel": "Логирование и метрики",
+    "position": 16,
+    "slug": "na-kakom-urovne-logirovaniya-stoit-fiksirovat-oshibku-ne",
+    "question": "На каком уровне логирования стоит фиксировать ошибку, не приводящую к падению?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "logirovanie-i-monitoring",
+    "blockLabel": "Логирование и метрики",
+    "position": 16,
+    "slug": "chto-takoe-elk-stack-iz-kakih-komponentov-on",
+    "question": "Что такое ELK Stack? Из каких компонентов он состоит?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "logirovanie-i-monitoring",
+    "blockLabel": "Логирование и метрики",
+    "position": 16,
+    "slug": "kakuyu-rol-v-elk-igraet-elasticsearch",
+    "question": "Какую роль в ELK играет Elasticsearch?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "logirovanie-i-monitoring",
+    "blockLabel": "Логирование и метрики",
+    "position": 16,
+    "slug": "dlya-chego-ispolzuetsya-logstash",
+    "question": "Для чего используется Logstash?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "logirovanie-i-monitoring",
+    "blockLabel": "Логирование и метрики",
+    "position": 16,
+    "slug": "chto-mozhno-delat-v-kibana",
+    "question": "Что можно делать в Kibana?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "logirovanie-i-monitoring",
+    "blockLabel": "Логирование и метрики",
+    "position": 16,
+    "slug": "chto-takoe-kql-kibana-query-language-napishite-primer",
+    "question": "Что такое KQL (Kibana Query Language)? Напишите пример запроса."
+  },
+  {
+    "section": "manual-qa",
+    "block": "logirovanie-i-monitoring",
+    "blockLabel": "Логирование и метрики",
+    "position": 16,
+    "slug": "kak-nayti-v-kibana-vse-logi-s-urovnem",
+    "question": "Как найти в Kibana все логи с уровнем ERROR за последний час?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "logirovanie-i-monitoring",
+    "blockLabel": "Логирование и метрики",
+    "position": 16,
+    "slug": "chem-grafana-otlichaetsya-ot-kibana",
+    "question": "Чем Grafana отличается от Kibana?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "tipy-dannyh-i-formaty",
+    "blockLabel": "Типы данных и форматы",
+    "position": 17,
+    "slug": "chto-takoe-json-opishite-ego-strukturu-i-tipy",
+    "question": "Что такое **JSON**? Опишите его структуру и типы данных."
+  },
+  {
+    "section": "manual-qa",
+    "block": "tipy-dannyh-i-formaty",
+    "blockLabel": "Типы данных и форматы",
+    "position": 17,
+    "slug": "kakie-preimuschestva-i-nedostatki-json",
+    "question": "Какие преимущества и недостатки JSON?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "tipy-dannyh-i-formaty",
+    "blockLabel": "Типы данных и форматы",
+    "position": 17,
+    "slug": "chto-takoe-json-schema-i-dlya-chego-ona",
+    "question": "Что такое **JSON Schema** и для чего она нужна?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "tipy-dannyh-i-formaty",
+    "blockLabel": "Типы данных и форматы",
+    "position": 17,
+    "slug": "chto-takoe-jsonpath-kak-s-ego-pomoschyu-poluchit",
+    "question": "Что такое **JSONPath**? Как с его помощью получить значение поля?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "tipy-dannyh-i-formaty",
+    "blockLabel": "Типы данных и форматы",
+    "position": 17,
+    "slug": "chto-takoe-xml-chem-on-otlichaetsya-ot-json",
+    "question": "Что такое **XML**? Чем он отличается от JSON?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "tipy-dannyh-i-formaty",
+    "blockLabel": "Типы данных и форматы",
+    "position": 17,
+    "slug": "chto-takoe-yaml-gde-on-chasche-vsego-ispolzuetsya",
+    "question": "Что такое **YAML**? Где он чаще всего используется (конфиги, CI/CD)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "tipy-dannyh-i-formaty",
+    "blockLabel": "Типы данных и форматы",
+    "position": 17,
+    "slug": "chto-takoe-csv",
+    "question": "Что такое **CSV**?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "tipy-dannyh-i-formaty",
+    "blockLabel": "Типы данных и форматы",
+    "position": 17,
+    "slug": "chto-takoe-protobuf-protocol-buffers-v-chem-ego",
+    "question": "Что такое **Protobuf (Protocol Buffers)**? В чем его преимущество перед JSON?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "tipy-dannyh-i-formaty",
+    "blockLabel": "Типы данных и форматы",
+    "position": 17,
+    "slug": "chto-takoe-avro-gde-on-primenyaetsya-kafka-hadoop",
+    "question": "Что такое **Avro**? Где он применяется (Kafka, Hadoop)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "komandnaya-stroka",
+    "blockLabel": "Командная строка",
+    "position": 18,
+    "slug": "dlya-chego-nuzhna-komandnaya-stroka-testirovschiku",
+    "question": "Для чего нужна командная строка тестировщику?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "komandnaya-stroka",
+    "blockLabel": "Командная строка",
+    "position": 18,
+    "slug": "kakie-bazovye-komandy-cmd-windows-vy-znaete-dir",
+    "question": "Какие базовые команды **CMD (Windows)** вы знаете (`dir`, `cd`, `copy`, `del`)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "komandnaya-stroka",
+    "blockLabel": "Командная строка",
+    "position": 18,
+    "slug": "chto-delaet-komanda-ipconfig",
+    "question": "Что делает команда `ipconfig`?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "komandnaya-stroka",
+    "blockLabel": "Командная строка",
+    "position": 18,
+    "slug": "chto-delaet-komanda-ping",
+    "question": "Что делает команда `ping`?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "komandnaya-stroka",
+    "blockLabel": "Командная строка",
+    "position": 18,
+    "slug": "chto-takoe-powershell-chem-on-otlichaetsya-ot-cmd",
+    "question": "Что такое **PowerShell**? Чем он отличается от CMD?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "komandnaya-stroka",
+    "blockLabel": "Командная строка",
+    "position": 18,
+    "slug": "chto-takoe-cmdlet-v-powershell",
+    "question": "Что такое **cmdlet** в PowerShell?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "komandnaya-stroka",
+    "blockLabel": "Командная строка",
+    "position": 18,
+    "slug": "kakie-bazovye-komandy-bash-linux-vy-znaete-ls",
+    "question": "Какие базовые команды **Bash (Linux)** вы знаете (`ls`, `cd`, `pwd`, `mkdir`)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "komandnaya-stroka",
+    "blockLabel": "Командная строка",
+    "position": 18,
+    "slug": "chto-delaet-komanda-grep-privedite-primer",
+    "question": "Что делает команда `grep`? Приведите пример."
+  },
+  {
+    "section": "manual-qa",
+    "block": "komandnaya-stroka",
+    "blockLabel": "Командная строка",
+    "position": 18,
+    "slug": "kak-posmotret-soderzhimoe-fayla-v-linux",
+    "question": "Как посмотреть содержимое файла в Linux?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "komandnaya-stroka",
+    "blockLabel": "Командная строка",
+    "position": 18,
+    "slug": "kak-sledit-za-izmeneniyami-v-fayle-loga-v",
+    "question": "Как следить за изменениями в файле лога в реальном времени (`tail -f`)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "komandnaya-stroka",
+    "blockLabel": "Командная строка",
+    "position": 18,
+    "slug": "kak-nayti-vse-processy-zapuschennye-polzovatelem-ps-aux",
+    "question": "Как найти все процессы, запущенные пользователем (`ps aux | grep user`)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "komandnaya-stroka",
+    "blockLabel": "Командная строка",
+    "position": 18,
+    "slug": "kak-zavershit-process-po-ego-pid-kill",
+    "question": "Как завершить процесс по его PID (`kill`)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "komandnaya-stroka",
+    "blockLabel": "Командная строка",
+    "position": 18,
+    "slug": "chto-delayut-operatory-i-v-komandnoy-stroke",
+    "question": "Что делают операторы `>`, `>>` и `|` в командной строке?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "komandnaya-stroka",
+    "blockLabel": "Командная строка",
+    "position": 18,
+    "slug": "chto-takoe-bash-skript-napishite-prostoy-skript-dlya",
+    "question": "Что такое **bash-скрипт**? Напишите простой скрипт для запуска тестов."
+  },
+  {
+    "section": "manual-qa",
+    "block": "komandnaya-stroka",
+    "blockLabel": "Командная строка",
+    "position": 18,
+    "slug": "chto-znachit-v-bash",
+    "question": "Что значит `$?` в bash?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "komandnaya-stroka",
+    "blockLabel": "Командная строка",
+    "position": 18,
+    "slug": "kak-v-bash-skripte-peredat-parametr-i-obratitsya",
+    "question": "Как в bash-скрипте передать параметр и обратиться к нему (`$1`, `$2`)?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "komandnaya-stroka",
+    "blockLabel": "Командная строка",
+    "position": 18,
+    "slug": "chto-takoe-curl-i-kak-s-ego-pomoschyu",
+    "question": "Что такое `curl` и как с его помощью отправить GET-запрос?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "komandnaya-stroka",
+    "blockLabel": "Командная строка",
+    "position": 18,
+    "slug": "kak-s-pomoschyu-curl-otpravit-post-zapros-s",
+    "question": "Как с помощью `curl` отправить POST-запрос с JSON-телом?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "komandnaya-stroka",
+    "blockLabel": "Командная строка",
+    "position": 18,
+    "slug": "kak-peredat-token-avtorizacii-v-curl",
+    "question": "Как передать токен авторизации в `curl`?"
+  },
+  {
+    "section": "manual-qa",
+    "block": "komandnaya-stroka",
+    "blockLabel": "Командная строка",
+    "position": 18,
+    "slug": "dlya-chego-ispolzuetsya-xargs",
+    "question": "Для чего используется `xargs`?"
+  }
+]

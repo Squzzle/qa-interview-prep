@@ -1,0 +1,14 @@
+replicaCount: 1
+image:
+  repository: interview-question
+  tag: local
+  pullPolicy: IfNotPresent
+service:
+  type: ClusterIP
+  port: 80
+resources:
+  requests: {cpu: 50m, memory: 64Mi}
+  limits: {cpu: 250m, memory: 128Mi}
+probes:
+  path: /
+  port: 80

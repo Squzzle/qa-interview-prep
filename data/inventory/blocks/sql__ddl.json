@@ -1,0 +1,13 @@
+{
+  "section": "sql",
+  "block": "ddl",
+  "blockLabel": "Проектирование и модификация структуры (DDL)",
+  "position": 5,
+  "questions": [
+    "Создать таблицу Users с автоинкрементным id, уникальным username, email и created_at по умолчанию.",
+    "Добавить колонку phone_number типа VARCHAR(20) в таблицу Employees.",
+    "Изменить тип колонки salary в таблице Employees с INT на DECIMAL(10,2).",
+    "Добавить ограничение внешнего ключа, чтобы customer_id в Orders ссылался на Customers.",
+    "Удалить таблицу OldLogs."
+  ]
+}

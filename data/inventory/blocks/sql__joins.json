@@ -1,0 +1,12 @@
+{
+  "section": "sql",
+  "block": "joins",
+  "blockLabel": "JOINs (работа с несколькими таблицами)",
+  "position": 3,
+  "questions": [
+    "Таблицы Employees (id, name) и Departments (id, department_name). Написать запрос с INNER JOIN, выводящий имя и отдел.",
+    "Таблицы Customers (id, name) и Orders (id, customer_id, amount). Вывести всех клиентов и их заказы (клиенты без заказов с NULL).",
+    "Таблицы Students, Courses и связка StudentCourses. Вывести имена студентов и названия курсов.",
+    "Таблица Employees (id, name, manager_id). Вывести список сотрудников с именами начальников (SELF JOIN)."
+  ]
+}

@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "manual-qa__agile-i-scrum__q1",
+    "category": "Agile и Scrum",
+    "question": "Какие роли официально определены в Scrum?",
+    "options": [
+      "Product Owner",
+      "Scrum Master",
+      "Development Team",
+      "Project Manager",
+      "Business Analyst"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/agile-i-scrum/kakie-roli-opredeleny-v-scrum"
+  },
+  {
+    "id": "manual-qa__agile-i-scrum__q2",
+    "category": "Agile и Scrum",
+    "question": "За что отвечает Product Owner?",
+    "options": [
+      "Ведение и приоритизация Product Backlog",
+      "Максимизация ценности продукта для бизнеса",
+      "Написание автотестов для команды",
+      "Проведение технического код-ревью",
+      "Устранение препятствий у команды разработки"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/manual-qa/agile-i-scrum/za-chto-otvechaet-product-owner"
+  },
+  {
+    "id": "manual-qa__agile-i-scrum__q3",
+    "category": "Agile и Scrum",
+    "question": "Какие артефакты относятся к основным артефактам Scrum?",
+    "options": [
+      "Product Backlog",
+      "Sprint Backlog",
+      "Increment",
+      "Burndown-диаграмма",
+      "Roadmap продукта"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/agile-i-scrum/nazovite-osnovnye-artefakty-scrum"
+  },
+  {
+    "id": "manual-qa__agile-i-scrum__q4",
+    "category": "Agile и Scrum",
+    "question": "В чем ключевое отличие Kanban от Scrum?",
+    "options": [
+      "В Kanban нет фиксированных временных итераций (спринтов)",
+      "Kanban ограничивает количество задач в работе (WIP-лимиты)",
+      "В Kanban обязательно назначается Scrum Master",
+      "Kanban требует ежедневных стендапов по регламенту Scrum",
+      "Kanban запрещает изменения в backlog во время работы"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/manual-qa/agile-i-scrum/v-chem-raznica-mezhdu-metodologiyami-scrum-i-kanban"
+  },
+  {
+    "id": "manual-qa__agile-i-scrum__q5",
+    "category": "Agile и Scrum",
+    "question": "Какие церемонии (события) проводятся в Scrum?",
+    "options": [
+      "Sprint Planning",
+      "Daily Scrum",
+      "Sprint Review",
+      "Sprint Retrospective",
+      "Code Freeze Meeting"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "topicUrl": "/docs/manual-qa/agile-i-scrum/kakie-ceremonii-mitingi-provodyatsya-v-scrum"
+  },
+  {
+    "id": "manual-qa__agile-i-scrum__q6",
+    "category": "Agile и Scrum",
+    "question": "В чем главная цель ретроспективы спринта (Retrospective)?",
+    "options": [
+      "Обсудить, что прошло хорошо, а что можно улучшить в процессе работы команды",
+      "Продемонстрировать заказчику готовый инкремент продукта",
+      "Спланировать объем работ на следующий спринт",
+      "Синхронизировать статус задач между членами команды",
+      "Оценить работу Product Owner"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/manual-qa/agile-i-scrum/dlya-chego-nuzhna-retrospektiva-sprinta-retrospective"
+  },
+  {
+    "id": "manual-qa__agile-i-scrum__q7",
+    "category": "Agile и Scrum",
+    "question": "Что такое Velocity команды?",
+    "options": [
+      "Средний объем работы (в story points), который команда выполняет за спринт",
+      "Метрика, используемая для прогнозирования будущих спринтов",
+      "Фиксированное количество часов, доступное каждому разработчику",
+      "Показатель качества кода, измеряемый по количеству багов",
+      "Скорость проведения Daily Scrum"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/manual-qa/agile-i-scrum/chto-takoe-velocity-komandy-i-kak-on-rasschityvaetsya"
+  },
+  {
+    "id": "manual-qa__agile-i-scrum__q8",
+    "category": "Agile и Scrum",
+    "question": "Что означают компоненты версии в Semantic Versioning (MAJOR.MINOR.PATCH)?",
+    "options": [
+      "MAJOR — несовместимые изменения API",
+      "MINOR — добавление новой функциональности с обратной совместимостью",
+      "PATCH — обратно совместимые исправления багов",
+      "MAJOR — увеличивается при каждом релизе, независимо от изменений",
+      "PATCH — добавление новых крупных фич"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/agile-i-scrum/chto-takoe-semantic-versioning-major-minor-patch"
+  },
+  {
+    "id": "manual-qa__api__q1",
+    "category": "API",
+    "question": "Что такое API (Application Programming Interface)?",
+    "options": [
+      "Набор правил и интерфейсов для взаимодействия между программами",
+      "Язык программирования для веб-разработки",
+      "База данных для хранения пользовательских данных",
+      "Протокол шифрования трафика",
+      "Инструмент для верстки пользовательского интерфейса"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/manual-qa/api/chto-takoe-api-application-programming-interface"
+  },
+  {
+    "id": "manual-qa__api__q2",
+    "category": "API",
+    "question": "Чем REST отличается от SOAP?",
+    "options": [
+      "REST обычно использует JSON, SOAP — строго XML",
+      "REST легче и быстрее за счет использования HTTP-методов и меньшего объема сообщений",
+      "SOAP имеет встроенные стандарты безопасности (WS-Security), REST полагается на внешние механизмы",
+      "REST — это протокол, а SOAP — архитектурный стиль",
+      "SOAP менее строг к формату сообщений, чем REST"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/api/chem-rest-otlichaetsya-ot-soap"
+  },
+  {
+    "id": "manual-qa__api__q3",
+    "category": "API",
+    "question": "В чем преимущества GraphQL перед REST?",
+    "options": [
+      "Клиент может запросить только нужные поля данных за один запрос",
+      "GraphQL полностью заменяет протокол HTTP",
+      "Снижается количество запросов к серверу за счет агрегации данных",
+      "Единая типизированная схема описывает все доступные данные",
+      "GraphQL всегда работает быстрее REST в любых сценариях"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "topicUrl": "/docs/manual-qa/api/chto-takoe-graphql-v-chem-ego-preimuschestvo-pered"
+  },
+  {
+    "id": "manual-qa__api__q4",
+    "category": "API",
+    "question": "Из каких частей состоит JWT (JSON Web Token)?",
+    "options": [
+      "Header (заголовок)",
+      "Payload (полезная нагрузка)",
+      "Signature (подпись)",
+      "Footer (нижний колонтитул)",
+      "Metadata (метаданные сервера)"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/api/chto-takoe-jwt-json-web-token-i-iz"
+  },
+  {
+    "id": "manual-qa__api__q5",
+    "category": "API",
+    "question": "Для чего нужен Refresh Token?",
+    "options": [
+      "Для получения нового Access Token без повторного ввода логина и пароля",
+      "Для шифрования тела запроса",
+      "Для продления сессии пользователя без необходимости повторной аутентификации",
+      "Для валидации схемы OpenAPI",
+      "Для замены Access Token в качестве основного средства авторизации всех запросов"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/api/dlya-chego-nuzhen-refresh-token"
+  },
+  {
+    "id": "manual-qa__api__q6",
+    "category": "API",
+    "question": "Какие параметры обычно используются для пагинации в API?",
+    "options": [
+      "limit",
+      "offset",
+      "page",
+      "token (JWT)",
+      "schema (OpenAPI)"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/api/kakie-parametry-obychno-ispolzuyutsya-dlya-paginacii-limit-o"
+  },
+  {
+    "id": "manual-qa__api__q7",
+    "category": "API",
+    "question": "Что такое WebHook?",
+    "options": [
+      "Механизм, при котором сервер сам отправляет уведомление клиенту при наступлении события",
+      "HTTP-callback, инициируемый сервером в ответ на событие",
+      "Клиентский способ постоянного опроса сервера на наличие изменений",
+      "Способ асинхронного уведомления без необходимости постоянного polling",
+      "Формат описания SOAP-сервиса"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "topicUrl": "/docs/manual-qa/api/chto-takoe-webhook"
+  },
+  {
+    "id": "manual-qa__api__q8",
+    "category": "API",
+    "question": "Что такое Postman и для чего он используется?",
+    "options": [
+      "Инструмент для отправки, тестирования и документирования API-запросов",
+      "Позволяет создавать коллекции (Collection) запросов и переменные окружения",
+      "Язык разметки для описания XML-схем",
+      "Средство для написания и запуска автоматизированных тестов API",
+      "Единственный существующий инструмент для тестирования SOAP-сервисов"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "topicUrl": "/docs/manual-qa/api/chto-takoe-postman-dlya-chego-on-ispolzuetsya-v"
+  },
+  {
+    "id": "manual-qa__arhitektura-po__q1",
+    "category": "Архитектура ПО",
+    "question": "Какие утверждения про монолитную и микросервисную архитектуру верны?",
+    "options": [
+      "Монолит проще разворачивать как единое целое",
+      "Микросервисы позволяют независимо масштабировать отдельные части системы",
+      "Монолит всегда быстрее в работе, чем микросервисы",
+      "Микросервисная архитектура усложняет распределенную отладку и мониторинг",
+      "В монолите невозможно использовать разные языки программирования для разных модулей"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "topicUrl": "/docs/manual-qa/arhitektura-po/v-chem-preimuschestva-mikroservisov-pered-monolitom"
+  },
+  {
+    "id": "manual-qa__arhitektura-po__q2",
+    "category": "Архитектура ПО",
+    "question": "Что из перечисленного лучше всего описывает 3-уровневую клиент-серверную архитектуру?",
+    "options": [
+      "Клиент, сервер приложений с бизнес-логикой и отдельный сервер базы данных",
+      "Только клиент и база данных, без промежуточного слоя логики",
+      "Тонкий клиент, хранящий всю бизнес-логику локально без обращения к серверу",
+      "Архитектура, в которой не может быть более одного клиента одновременно",
+      "Архитектура, полностью исключающая использование базы данных"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/manual-qa/arhitektura-po/kakie-vidy-klient-servernoy-arhitektury-vy-znaete-2"
+  },
+  {
+    "id": "manual-qa__arhitektura-po__q3",
+    "category": "Архитектура ПО",
+    "question": "Для чего нужен балансировщик нагрузки (Load Balancer)?",
+    "options": [
+      "Для распределения входящих запросов между несколькими серверами",
+      "Для повышения отказоустойчивости системы за счет резервирования серверов",
+      "Для шифрования всего трафика между клиентом и сервером",
+      "Для равномерного распределения нагрузки и предотвращения перегрузки отдельных узлов",
+      "Для хранения состояния сессий пользователей в базе данных"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "topicUrl": "/docs/manual-qa/arhitektura-po/dlya-chego-nuzhen-balansirovschik-nagruzki-load-balancer"
+  },
+  {
+    "id": "manual-qa__arhitektura-po__q4",
+    "category": "Архитектура ПО",
+    "question": "Чем L7-балансировка отличается от L4-балансировки?",
+    "options": [
+      "L7 работает на уровне приложения и может анализировать содержимое HTTP-запроса (URL, заголовки)",
+      "L4 работает на транспортном уровне и балансирует по IP-адресу и порту, не анализируя содержимое",
+      "L4 всегда медленнее, так как требует расшифровки трафика",
+      "L7 позволяет маршрутизировать запросы на основе пути URL или cookie",
+      "L4 и L7 балансировка — это одно и то же, просто разные названия"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "topicUrl": "/docs/manual-qa/arhitektura-po/chem-otlichaetsya-l4-balansirovka-ot-l7"
+  },
+  {
+    "id": "manual-qa__arhitektura-po__q5",
+    "category": "Архитектура ПО",
+    "question": "Что из перечисленного корректно определяет авторизацию?",
+    "options": [
+      "Определение прав доступа пользователя к ресурсам системы",
+      "Предъявление пользователем идентификатора, например логина",
+      "Проверка подлинности пользователя, например по паролю",
+      "Процесс, полностью идентичный аутентификации",
+      "Процесс, который всегда предшествует идентификации"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/manual-qa/arhitektura-po/dayte-opredeleniya-identifikaciya-autentifikaciya-avtorizaci"
+  },
+  {
+    "id": "manual-qa__arhitektura-po__q6",
+    "category": "Архитектура ПО",
+    "question": "Чем оркестрация микросервисов отличается от хореографии?",
+    "options": [
+      "При оркестрации есть центральный управляющий компонент, координирующий взаимодействие сервисов",
+      "При хореографии сервисы взаимодействуют децентрализованно, реагируя на события друг друга",
+      "Хореография предполагает наличие единой точки управления процессом",
+      "Оркестрация обычно проще масштабируется, чем хореография, за счет отсутствия координатора",
+      "Оркестрация и хореография — взаимоисключающие подходы, не имеющие ничего общего с событиями"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/manual-qa/arhitektura-po/chem-orkestraciya-mikroservisov-otlichaetsya-ot-horeografii"
+  },
+  {
+    "id": "manual-qa__arhitektura-po__q7",
+    "category": "Архитектура ПО",
+    "question": "Что верно про Mock и Stub в тестировании?",
+    "options": [
+      "Стаб возвращает заранее заданные ответы на вызовы, не проверяя, как именно его вызывали",
+      "Мок дополнительно проверяет факт и корректность вызовов (например, количество вызовов метода)",
+      "Мок и стаб — это одно и то же, различие только в названии",
+      "И мок, и стаб используются для замены реальных зависимостей в тестах",
+      "Стаб всегда требует реального сетевого взаимодействия с внешним сервисом"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "topicUrl": "/docs/manual-qa/arhitektura-po/chto-takoe-mok-mock-i-stab-stub-v"
+  },
+  {
+    "id": "manual-qa__arhitektura-po__q8",
+    "category": "Архитектура ПО",
+    "question": "Что такое оффсет (offset) в Apache Kafka?",
+    "options": [
+      "Уникальный порядковый номер сообщения внутри партиции топика",
+      "Название топика, в который публикуются сообщения",
+      "Имя группы консьюмеров, читающих сообщения",
+      "Настройка, определяющая количество реплик партиции",
+      "Идентификатор продюсера, отправившего сообщение"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/manual-qa/arhitektura-po/chto-takoe-offset-offset-v-kafka"
+  },
+  {
+    "id": "manual-qa__arhitektura-po__q9",
+    "category": "Архитектура ПО",
+    "question": "Чем отличаются API Gateway и интеграционная шина (ESB)?",
+    "options": [
+      "API Gateway обычно выступает единой точкой входа для внешних клиентов к внутренним сервисам",
+      "ESB чаще используется для интеграции внутренних систем и трансформации данных между ними",
+      "ESB и API Gateway — абсолютно взаимозаменяемые понятия без различий в назначении",
+      "API Gateway никогда не используется во взаимодействии с внешними клиентами",
+      "ESB всегда быстрее API Gateway при любых сценариях нагрузки"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/manual-qa/arhitektura-po/v-chem-raznica-mezhdu-shlyuzom-i-shinoy"
+  },
+  {
+    "id": "manual-qa__arhitektura-po__q10",
+    "category": "Архитектура ПО",
+    "question": "Чем контейнер (Docker) отличается от виртуальной машины (VM)?",
+    "options": [
+      "Контейнеры используют ядро хостовой ОС, а VM включают полноценную гостевую ОС",
+      "Контейнеры обычно легче и запускаются быстрее, чем виртуальные машины",
+      "VM обеспечивает более сильную изоляцию на уровне аппаратной виртуализации",
+      "Контейнеры полностью изолированы от ядра хост-системы, как и VM",
+      "Виртуальные машины всегда занимают меньше дискового пространства, чем контейнеры"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/arhitektura-po/chto-takoe-konteynerizaciya-docker-i-chem-konteyner-otlichae"
+  },
+  {
+    "id": "manual-qa__bagi-i-defekty__q1",
+    "category": "Баги и дефекты",
+    "question": "Что из перечисленного лучше всего определяет понятие «дефект (баг)»?",
+    "options": [
+      "Несоответствие фактического поведения программы ожидаемому поведению или требованиям",
+      "Любая ошибка в коде, заметная только разработчику",
+      "Отклонение от спецификации, но только если оно обнаружено после релиза в продакшн",
+      "Синоним слова «требование» в документации",
+      "Действие тестировщика по написанию тест-кейса"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/manual-qa/bagi-i-defekty/dayte-opredelenie-defekta-baga"
+  },
+  {
+    "id": "manual-qa__bagi-i-defekty__q2",
+    "category": "Баги и дефекты",
+    "question": "Какая последовательность статусов правильно описывает типичный жизненный цикл бага?",
+    "options": [
+      "New → Assigned → Fixed → Verified → Closed",
+      "New → Verified → Assigned → Fixed → Closed",
+      "Assigned → New → Closed → Fixed → Verified",
+      "Closed → New → Assigned → Fixed",
+      "Fixed → New → Assigned → Verified"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/manual-qa/bagi-i-defekty/opishite-zhiznennyy-cikl-baga-osnovnye-statusy"
+  },
+  {
+    "id": "manual-qa__bagi-i-defekty__q3",
+    "category": "Баги и дефекты",
+    "question": "Выберите верные утверждения о статусах «Assigned», «Fixed» и «Verified».",
+    "options": [
+      "Assigned — баг назначен конкретному разработчику для исправления",
+      "Fixed — разработчик исправил баг, и он ожидает проверки тестировщиком",
+      "Verified — тестировщик подтвердил, что баг действительно исправлен",
+      "Assigned означает, что баг закрыт как неисправимый",
+      "Verified означает, что баг ещё не проверялся тестировщиком"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/bagi-i-defekty/chto-oznachayut-statusy-assigned-fixed-verified"
+  },
+  {
+    "id": "manual-qa__bagi-i-defekty__q4",
+    "category": "Баги и дефекты",
+    "question": "В каких случаях баг обычно получает статус «Reopened»?",
+    "options": [
+      "Тестировщик проверил исправление, а баг всё ещё воспроизводится",
+      "Баг был закрыт как «Duplicate»",
+      "Исправление не решило проблему полностью или вызвало регрессию",
+      "Разработчик не согласен с тем, что это баг",
+      "Баг только что заведён и ещё не назначен разработчику"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/bagi-i-defekty/v-kakih-sluchayah-bag-poluchaet-status-reopened"
+  },
+  {
+    "id": "manual-qa__bagi-i-defekty__q5",
+    "category": "Баги и дефекты",
+    "question": "Чем статус «Duplicate» отличается от статуса «Not a Bug»?",
+    "options": [
+      "Duplicate ставится, если такой же баг уже был заведён ранее",
+      "Not a Bug ставится, если фактическое поведение соответствует требованиям, а репортер ошибся",
+      "Duplicate и Not a Bug — это два названия одного и того же статуса",
+      "Duplicate ставится, если баг работает так, как и было задумано",
+      "Not a Bug означает, что баг критичный и требует немедленного исправления"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/manual-qa/bagi-i-defekty/chem-duplicate-otlichaetsya-ot-not-a-bug"
+  },
+  {
+    "id": "manual-qa__bagi-i-defekty__q6",
+    "category": "Баги и дефекты",
+    "question": "Кто обычно определяет Severity (серьёзность) дефекта, а кто — Priority (приоритет)?",
+    "options": [
+      "Severity определяет тестировщик, исходя из влияния дефекта на систему",
+      "Priority определяет менеджер проекта / владелец продукта, исходя из очередности исправления",
+      "Severity и Priority всегда назначает один и тот же человек и они всегда совпадают",
+      "Priority определяет тестировщик, а Severity — разработчик",
+      "Severity показывает срочность исправления, а не влияние на систему"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/manual-qa/bagi-i-defekty/chto-takoe-severity-sereznost-defekta-kto-ego-opredelyaet"
+  },
+  {
+    "id": "manual-qa__bagi-i-defekty__q7",
+    "category": "Баги и дефекты",
+    "question": "Какой порядок градаций Severity от самой серьёзной до самой незначительной является верным?",
+    "options": [
+      "Blocker, Critical, Major, Minor, Trivial",
+      "Trivial, Minor, Major, Critical, Blocker",
+      "Critical, Blocker, Trivial, Minor, Major",
+      "Low, Medium, High, Blocker",
+      "Blocker, Major, Critical, Minor, Trivial"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/manual-qa/bagi-i-defekty/perechislite-gradacii-severity-ot-blocker-do-trivial"
+  },
+  {
+    "id": "manual-qa__bagi-i-defekty__q8",
+    "category": "Баги и дефекты",
+    "question": "Какие утверждения о методах анализа первопричин (RCA) верны?",
+    "options": [
+      "RCA (Root Cause Analysis) помогает найти корневую причину дефекта, а не только симптом",
+      "Методика «5 почему» заключается в последовательном повторении вопроса «почему?» до выявления первопричины",
+      "Диаграмма Исикавы (Fishbone) визуализирует возможные причины проблемы по категориям",
+      "RCA проводится исключительно менеджером проекта без участия QA",
+      "Диаграмма Fishbone используется только для планирования спринтов и не связана с анализом багов"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/bagi-i-defekty/chto-takoe-rca-root-cause-analysis-i-dlya"
+  },
+  {
+    "id": "manual-qa__bazy-dannyh-i-sql__q1",
+    "category": "Базы данных и SQL",
+    "question": "Какие утверждения о реляционной базе данных верны?",
+    "options": [
+      "Данные организованы в виде таблиц (отношений) со строками и столбцами",
+      "Связи между таблицами устанавливаются через ключи (первичный и внешний)",
+      "Реляционная модель не поддерживает язык запросов SQL",
+      "Каждая таблица описывает сущность с фиксированным набором атрибутов",
+      "Реляционная БД может хранить только текстовые данные"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "topicUrl": "/docs/manual-qa/bazy-dannyh-i-sql/chto-takoe-relyacionnaya-baza-dannyh"
+  },
+  {
+    "id": "manual-qa__bazy-dannyh-i-sql__q2",
+    "category": "Базы данных и SQL",
+    "question": "Как чаще всего реализуется связь \"многие ко многим\" в реляционной БД?",
+    "options": [
+      "Через дополнительную промежуточную (связующую) таблицу с двумя внешними ключами",
+      "Добавлением внешнего ключа напрямую в одну из двух таблиц",
+      "Хранением списка идентификаторов в одном текстовом поле",
+      "Созданием представления (VIEW) без изменения структуры таблиц",
+      "Дублированием одной из таблиц"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/manual-qa/bazy-dannyh-i-sql/kak-realizuetsya-svyaz-mnogie-ko-mnogim"
+  },
+  {
+    "id": "manual-qa__bazy-dannyh-i-sql__q3",
+    "category": "Базы данных и SQL",
+    "question": "Что верно про первичный (Primary Key) и внешний (Foreign Key) ключи?",
+    "options": [
+      "Первичный ключ однозначно идентифицирует строку в таблице",
+      "Внешний ключ ссылается на первичный (или уникальный) ключ другой таблицы",
+      "В таблице может быть только один внешний ключ",
+      "Первичный ключ может содержать NULL значения",
+      "Суррогатный ключ — это искусственно созданный идентификатор, не имеющий бизнес-смысла"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "topicUrl": "/docs/manual-qa/bazy-dannyh-i-sql/chto-takoe-pervichnyy-klyuch-primary-key"
+  },
+  {
+    "id": "manual-qa__bazy-dannyh-i-sql__q4",
+    "category": "Базы данных и SQL",
+    "question": "Для чего нужен индекс (Index) в базе данных?",
+    "options": [
+      "Ускоряет поиск и выборку данных по индексируемым столбцам",
+      "Полностью исключает необходимость в первичном ключе",
+      "Замедляет операции вставки и обновления из-за необходимости обновлять сам индекс",
+      "Гарантирует уникальность всех данных в таблице",
+      "Позволяет избежать полного сканирования таблицы при подходящем запросе"
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ],
+    "topicUrl": "/docs/manual-qa/bazy-dannyh-i-sql/chto-takoe-indeks-index-v-bd-i-dlya"
+  },
+  {
+    "id": "manual-qa__bazy-dannyh-i-sql__q5",
+    "category": "Базы данных и SQL",
+    "question": "Что означает свойство ACID применительно к транзакциям?",
+    "options": [
+      "Atomicity (атомарность) — транзакция выполняется целиком или не выполняется совсем",
+      "Consistency (согласованность) — данные переходят из одного корректного состояния в другое",
+      "Isolation (изолированность) — параллельные транзакции не мешают друг другу",
+      "Durability (долговечность) — результаты подтверждённой транзакции сохраняются даже при сбое",
+      "Availability (доступность) — система всегда отвечает на запросы"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "topicUrl": "/docs/manual-qa/bazy-dannyh-i-sql/chto-takoe-tranzakciya-kakimi-svoystvami-acid-ona-obladaet"
+  },
+  {
+    "id": "manual-qa__bazy-dannyh-i-sql__q6",
+    "category": "Базы данных и SQL",
+    "question": "Какие типы NoSQL баз данных существуют?",
+    "options": [
+      "Документоориентированные (document-oriented)",
+      "Ключ-значение (key-value)",
+      "Колоночные (column-family)",
+      "Графовые (graph)",
+      "Строго реляционные с обязательными JOIN-ами"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "topicUrl": "/docs/manual-qa/bazy-dannyh-i-sql/chto-takoe-nosql-bazy-dannyh-kakie-tipy-nosql"
+  },
+  {
+    "id": "manual-qa__bazy-dannyh-i-sql__q7",
+    "category": "Базы данных и SQL",
+    "question": "Чем отличается master-slave репликация от master-master?",
+    "options": [
+      "В master-slave запись идёт только на master, а slave-узлы только читают данные",
+      "В master-master запись возможна на несколько узлов, что требует разрешения конфликтов",
+      "Master-slave репликация полностью исключает возможность отставания (лага) реплик",
+      "Master-master репликация не может использоваться для повышения доступности",
+      "В master-slave slave-узлы могут обслуживать запросы на чтение, снижая нагрузку на master"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "topicUrl": "/docs/manual-qa/bazy-dannyh-i-sql/chem-master-slave-replikaciya-otlichaetsya-ot-master-master"
+  },
+  {
+    "id": "manual-qa__bazy-dannyh-i-sql__q8",
+    "category": "Базы данных и SQL",
+    "question": "Какие операторы SQL относятся к группе DDL (Data Definition Language)?",
+    "options": [
+      "CREATE",
+      "ALTER",
+      "DROP",
+      "SELECT",
+      "INSERT"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/bazy-dannyh-i-sql/chto-otnositsya-k-operatoram-ddl-create-alter-drop"
+  },
+  {
+    "id": "manual-qa__dokumenty-i-otchetnost__q1",
+    "category": "Документы и отчёты",
+    "question": "Какие требования относятся к функциональным, а не к нефункциональным?",
+    "options": [
+      "Требование о том, что вход в систему должен занимать не более 2 секунд",
+      "Требование, описывающее, что пользователь может авторизоваться по логину и паролю",
+      "Требование к поддержке 10000 одновременных пользователей",
+      "Требование, что интерфейс должен быть доступен для людей с ограничениями по зрению",
+      "Требование о шифровании данных при хранении"
+    ],
+    "correct": [
+      1
+    ],
+    "topicUrl": "/docs/manual-qa/dokumenty-i-otchetnost/chem-funkcionalnye-trebovaniya-otlichayutsya-ot-nefunkcional"
+  },
+  {
+    "id": "manual-qa__dokumenty-i-otchetnost__q2",
+    "category": "Документы и отчёты",
+    "question": "Какими свойствами должно обладать качественное требование?",
+    "options": [
+      "Тестируемым (можно проверить, выполнено ли оно)",
+      "Однозначным (без разночтений в трактовке)",
+      "Максимально объёмным и детализированным до мелочей",
+      "Полным и непротиворечивым",
+      "Написанным исключительно техническим языком без пояснений"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "topicUrl": "/docs/manual-qa/dokumenty-i-otchetnost/perechislite-svoystva-kachestvennyh-trebovaniy-akronim-napri"
+  },
+  {
+    "id": "manual-qa__dokumenty-i-otchetnost__q3",
+    "category": "Документы и отчёты",
+    "question": "Что означает, что требование должно быть тестируемым?",
+    "options": [
+      "Для требования можно придумать проверку и определить, выполнено оно или нет",
+      "Требование написано только разработчиком",
+      "Требование можно измерить количественно или качественно и получить объективный результат проверки",
+      "Требование содержит минимум 100 слов",
+      "Требование обязательно должно включать код автотеста"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/dokumenty-i-otchetnost/chto-znachit-chto-trebovanie-dolzhno-byt-testiruemym"
+  },
+  {
+    "id": "manual-qa__dokumenty-i-otchetnost__q4",
+    "category": "Документы и отчёты",
+    "question": "Из каких основных атрибутов обычно состоит тест-кейс?",
+    "options": [
+      "Предусловия",
+      "Шаги воспроизведения",
+      "Ожидаемый результат",
+      "История коммитов в репозитории",
+      "Название и приоритет"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "topicUrl": "/docs/manual-qa/dokumenty-i-otchetnost/chto-takoe-test-keys-iz-kakih-osnovnyh-atributov"
+  },
+  {
+    "id": "manual-qa__dokumenty-i-otchetnost__q5",
+    "category": "Документы и отчёты",
+    "question": "В чём преимущества чек-листов по сравнению с тест-кейсами?",
+    "options": [
+      "Быстрее составляются и требуют меньше времени на поддержку",
+      "Содержат подробные пошаговые инструкции для новичков",
+      "Удобны для быстрого исследовательского тестирования",
+      "Дают более строгую воспроизводимость результатов",
+      "Занимают меньше места и проще читаются"
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ],
+    "topicUrl": "/docs/manual-qa/dokumenty-i-otchetnost/v-chem-plyusy-i-minusy-chek-listov-po"
+  },
+  {
+    "id": "manual-qa__dokumenty-i-otchetnost__q6",
+    "category": "Документы и отчёты",
+    "question": "Какие разделы обычно входят в тест-план?",
+    "options": [
+      "Объём и цели тестирования",
+      "Стратегия и подходы к тестированию",
+      "Ресурсы, сроки и критерии входа/выхода",
+      "Список тестовых данных для всех тест-кейсов",
+      "Риски и их митигация"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "topicUrl": "/docs/manual-qa/dokumenty-i-otchetnost/dlya-chego-nuzhen-test-plan-kakie-razdely-on"
+  },
+  {
+    "id": "manual-qa__dokumenty-i-otchetnost__q7",
+    "category": "Документы и отчёты",
+    "question": "Какие данные обязательно должны присутствовать в баг-репорте?",
+    "options": [
+      "Шаги воспроизведения",
+      "Ожидаемый и фактический результат",
+      "Окружение (версия ПО, ОС, браузер и т.п.)",
+      "Личное мнение тестировщика о причинах бага в коде",
+      "Приоритет/severity"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "topicUrl": "/docs/manual-qa/dokumenty-i-otchetnost/kakie-dannye-obyazatelno-dolzhny-byt-v-bag-reporte"
+  },
+  {
+    "id": "manual-qa__dokumenty-i-otchetnost__q8",
+    "category": "Документы и отчёты",
+    "question": "Чем тестовая стратегия отличается от тест-плана?",
+    "options": [
+      "Стратегия описывает общие принципы и подходы к тестированию на уровне проекта/организации, а план — конкретные действия для конкретного релиза",
+      "Стратегия и тест-план — это два названия одного и того же документа",
+      "Тест-план более долгосрочный и общий, чем стратегия",
+      "Стратегия обычно менее изменчива и служит основой для нескольких тест-планов",
+      "Тест-план всегда пишется раньше стратегии"
+    ],
+    "correct": [
+      0,
+      3
+    ],
+    "topicUrl": "/docs/manual-qa/dokumenty-i-otchetnost/chto-takoe-testovaya-strategiya-i-chem-ona-otlichaetsya"
+  },
+  {
+    "id": "manual-qa__estimatsiya-i-metriki__q1",
+    "category": "Эстимация и метрики",
+    "question": "Что такое эстимация в тестировании?",
+    "options": [
+      "Оценка трудозатрат и времени, необходимых на выполнение задач тестирования",
+      "Автоматический подсчёт количества багов в системе",
+      "Процесс написания тест-кейсов",
+      "Финальный отчёт о результатах тестирования релиза",
+      "Способ приоритизации багов по критичности"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/manual-qa/estimatsiya-i-metriki/chto-takoe-estimaciya-v-testirovanii"
+  },
+  {
+    "id": "manual-qa__estimatsiya-i-metriki__q2",
+    "category": "Эстимация и метрики",
+    "question": "Какие методы оценки трудозатрат применяются в тестировании?",
+    "options": [
+      "Метод аналогий",
+      "Planning Poker",
+      "Оценка по трём точкам (PERT)",
+      "Метод критического пути CPM только для сетевых графиков",
+      "Диаграмма Исикавы"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/estimatsiya-i-metriki/kakie-metody-ocenki-trudozatrat-vy-znaete"
+  },
+  {
+    "id": "manual-qa__estimatsiya-i-metriki__q3",
+    "category": "Эстимация и метрики",
+    "question": "Как устроен метод \"Planning Poker\"?",
+    "options": [
+      "Каждый участник команды тайно выбирает карту с оценкой, затем оценки обсуждаются и согласуются",
+      "Оценку выставляет только тимлид, остальные участники не привлекаются",
+      "Используются числовые карты (часто по Фибоначчи), а расхождения в оценках обсуждаются до консенсуса",
+      "Оценка формируется автоматически на основе истории задач в трекере без участия людей",
+      "Метод применяется только для оценки багов, но не пользовательских историй"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/estimatsiya-i-metriki/kak-rabotaet-metod-planning-poker"
+  },
+  {
+    "id": "manual-qa__estimatsiya-i-metriki__q4",
+    "category": "Эстимация и метрики",
+    "question": "В чём суть метода аналогий при эстимации?",
+    "options": [
+      "Оценка новой задачи производится на основе сравнения с похожими выполненными ранее задачами",
+      "Оценка строится на трёх сценариях: оптимистичном, пессимистичном и наиболее вероятном",
+      "Требует наличия исторических данных о похожих проектах или задачах",
+      "Используется случайное число без опоры на прошлый опыт",
+      "Оценка основана исключительно на мнении одного эксперта без сравнения с прошлым"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/estimatsiya-i-metriki/chto-takoe-metod-analogiy"
+  },
+  {
+    "id": "manual-qa__estimatsiya-i-metriki__q5",
+    "category": "Эстимация и метрики",
+    "question": "Как рассчитывается оценка по методу PERT (трём точкам)?",
+    "options": [
+      "E = (O + 4M + P) / 6, где O — оптимистичная, M — наиболее вероятная, P — пессимистичная оценка",
+      "E = (O + P) / 2",
+      "Учитывает три сценария длительности задачи для более реалистичной оценки",
+      "E = O × M × P",
+      "Используется только пессимистичная оценка как итоговая"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/estimatsiya-i-metriki/obyasnite-metod-ocenki-po-trem-tochkam-pert-privedite"
+  },
+  {
+    "id": "manual-qa__estimatsiya-i-metriki__q6",
+    "category": "Эстимация и метрики",
+    "question": "Какие факторы влияют на точность эстимации?",
+    "options": [
+      "Опыт и квалификация команды",
+      "Полнота и чёткость требований",
+      "Сложность и новизна функциональности",
+      "Цвет корпоративного логотипа компании",
+      "Наличие рисков и внешних зависимостей"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "topicUrl": "/docs/manual-qa/estimatsiya-i-metriki/kakie-faktory-vliyayut-na-tochnost-estimacii"
+  },
+  {
+    "id": "manual-qa__estimatsiya-i-metriki__q7",
+    "category": "Эстимация и метрики",
+    "question": "Какие метрики используются для отслеживания прогресса тестирования?",
+    "options": [
+      "Количество выполненных тест-кейсов от общего плана",
+      "Плотность дефектов (Defect Density)",
+      "Покрытие кода тестами",
+      "Среднее время на исправление дефекта",
+      "Количество строк кода в проекте"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "topicUrl": "/docs/manual-qa/estimatsiya-i-metriki/kakie-metriki-testirovaniya-ispolzuyutsya-dlya-otslezhivaniy"
+  },
+  {
+    "id": "manual-qa__estimatsiya-i-metriki__q8",
+    "category": "Эстимация и метрики",
+    "question": "Что характеризует метрика \"покрытие кода тестами\" (code coverage)?",
+    "options": [
+      "Долю кода, которая выполняется во время прогона тестов",
+      "Абсолютное количество найденных дефектов",
+      "Помогает выявить непротестированные участки кода",
+      "Гарантирует полное отсутствие багов при 100% покрытии",
+      "Измеряется в процентах от общего объёма кода"
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ],
+    "topicUrl": "/docs/manual-qa/estimatsiya-i-metriki/chto-takoe-pokrytie-koda-testami"
+  },
+  {
+    "id": "manual-qa__http__q1",
+    "category": "HTTP",
+    "question": "Что из перечисленного верно про HTTP и HTTPS?",
+    "options": [
+      "HTTP по умолчанию использует порт 80, HTTPS — порт 443",
+      "HTTPS шифрует трафик с помощью SSL/TLS",
+      "HTTP всегда безопаснее HTTPS за счёт меньшего числа заголовков",
+      "HTTPS не требует установления соединения по TCP",
+      "HTTP использует порт 8080, а HTTPS — порт 80"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/manual-qa/http/chem-https-otlichaetsya-ot-http-chto-takoe-ssl"
+  },
+  {
+    "id": "manual-qa__http__q2",
+    "category": "HTTP",
+    "question": "Какие этапы входят в процесс SSL/TLS Handshake?",
+    "options": [
+      "Обмен приветствиями (Client Hello / Server Hello)",
+      "Проверка сертификата сервера клиентом",
+      "Согласование сессионного (симметричного) ключа шифрования",
+      "Передача пароля пользователя в открытом виде",
+      "Генерация общего секрета на основе асимметричного шифрования"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "topicUrl": "/docs/manual-qa/http/opishite-process-ssl-tls-handshake"
+  },
+  {
+    "id": "manual-qa__http__q3",
+    "category": "HTTP",
+    "question": "Какие HTTP-методы являются идемпотентными?",
+    "options": [
+      "GET",
+      "PUT",
+      "DELETE",
+      "POST",
+      "PATCH"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/http/chto-oznachaet-idempotentnost-metoda-http-kakie-metody-idemp"
+  },
+  {
+    "id": "manual-qa__http__q4",
+    "category": "HTTP",
+    "question": "Чем отличается метод POST от GET?",
+    "options": [
+      "POST передаёт данные в теле запроса, GET — обычно в строке запроса (query string)",
+      "GET можно кэшировать, POST — как правило, нет",
+      "POST безопасен и не изменяет состояние сервера, как GET",
+      "GET имеет ограничения на длину URL, POST — нет",
+      "POST всегда идемпотентен, в отличие от GET"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "topicUrl": "/docs/manual-qa/http/dlya-chego-ispolzuetsya-metod-post-chem-on-otlichaetsya"
+  },
+  {
+    "id": "manual-qa__http__q5",
+    "category": "HTTP",
+    "question": "Установите соответствие: что означает каждый код ответа HTTP?",
+    "options": [
+      "200 OK — запрос успешно обработан",
+      "201 Created — ресурс успешно создан",
+      "404 Not Found — запрашиваемый ресурс не найден",
+      "401 Unauthorized — сервер обнаружил внутреннюю ошибку",
+      "301 Moved Permanently — ресурс временно недоступен без изменения адреса"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/http/kakie-kody-otvetov-http-vy-znaete-nazovite-osnovnye"
+  },
+  {
+    "id": "manual-qa__http__q6",
+    "category": "HTTP",
+    "question": "В чём разница между кодами 401 Unauthorized и 403 Forbidden?",
+    "options": [
+      "401 означает, что пользователь не аутентифицирован (нет или неверны учётные данные)",
+      "403 означает, что пользователь аутентифицирован, но у него нет прав доступа",
+      "401 и 403 — это синонимы одной и той же ошибки",
+      "403 всегда указывает на отсутствие сервера",
+      "401 сигнализирует об успешной авторизации"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/manual-qa/http/chto-oznachaet-kod-otveta-403-forbidden-chem-on"
+  },
+  {
+    "id": "manual-qa__http__q7",
+    "category": "HTTP",
+    "question": "Что такое CORS и какие заголовки с ним связаны?",
+    "options": [
+      "CORS — механизм браузера, регулирующий кросс-доменные запросы",
+      "Access-Control-Allow-Origin относится к CORS",
+      "Access-Control-Allow-Methods относится к CORS",
+      "CORS отключает работу cookies полностью",
+      "Content-Length — основной заголовок для настройки CORS"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/http/chto-takoe-cors-cross-origin-resource-sharing-kakie"
+  },
+  {
+    "id": "manual-qa__http__q8",
+    "category": "HTTP",
+    "question": "Чем LocalStorage отличается от SessionStorage и Cookies?",
+    "options": [
+      "LocalStorage хранит данные без ограничения по времени, пока их явно не удалят",
+      "SessionStorage хранит данные только в рамках одной вкладки/сессии браузера",
+      "Cookies автоматически отправляются на сервер с каждым HTTP-запросом",
+      "LocalStorage автоматически отправляется на сервер с каждым запросом, как cookies",
+      "SessionStorage сохраняет данные и после перезапуска браузера"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/http/chto-takoe-localstorage-i-sessionstorage-v-chem-raznica"
+  },
+  {
+    "id": "manual-qa__komandnaya-stroka__q1",
+    "category": "Командная строка",
+    "question": "Для чего тестировщику может понадобиться командная строка?",
+    "options": [
+      "Для запуска тестов, скриптов и анализа логов без GUI",
+      "Только для создания дизайн-макетов",
+      "Для проверки сетевых подключений и диагностики окружения",
+      "Для автоматизации рутинных операций через скрипты",
+      "Для работы с файлами и процессами напрямую"
+    ],
+    "correct": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "topicUrl": "/docs/manual-qa/komandnaya-stroka/dlya-chego-nuzhna-komandnaya-stroka-testirovschiku"
+  },
+  {
+    "id": "manual-qa__komandnaya-stroka__q2",
+    "category": "Командная строка",
+    "question": "Что показывает команда ipconfig и для чего используется ping?",
+    "options": [
+      "ipconfig показывает сетевые настройки (IP-адрес, маску, шлюз)",
+      "ping проверяет доступность узла по сети и измеряет задержку",
+      "ipconfig удаляет файлы из системы",
+      "ping выводит список запущенных процессов",
+      "ipconfig управляет учётными записями пользователей"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/manual-qa/komandnaya-stroka/chto-delaet-komanda-ipconfig"
+  },
+  {
+    "id": "manual-qa__komandnaya-stroka__q3",
+    "category": "Командная строка",
+    "question": "Чем PowerShell отличается от CMD, и что такое cmdlet?",
+    "options": [
+      "PowerShell работает с объектами, а не только с текстом, как CMD",
+      "cmdlet — это встроенная команда PowerShell вида Глагол-Существительное",
+      "PowerShell не поддерживает скрипты и автоматизацию",
+      "CMD и PowerShell — это одно и то же приложение под разными именами",
+      "PowerShell построен на .NET и предоставляет доступ к системным API"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "topicUrl": "/docs/manual-qa/komandnaya-stroka/chto-takoe-powershell-chem-on-otlichaetsya-ot-cmd"
+  },
+  {
+    "id": "manual-qa__komandnaya-stroka__q4",
+    "category": "Командная строка",
+    "question": "Какие команды относятся к базовому набору Bash в Linux?",
+    "options": [
+      "ls — вывод содержимого каталога",
+      "pwd — вывод текущего рабочего каталога",
+      "mkdir — создание директории",
+      "ipconfig — просмотр сетевых настроек Windows",
+      "cd — смена текущего каталога"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "topicUrl": "/docs/manual-qa/komandnaya-stroka/kakie-bazovye-komandy-bash-linux-vy-znaete-ls"
+  },
+  {
+    "id": "manual-qa__komandnaya-stroka__q5",
+    "category": "Командная строка",
+    "question": "Для чего используется команда grep и как в реальном времени следить за изменениями в логе?",
+    "options": [
+      "grep ищет строки, соответствующие шаблону, в тексте или файле",
+      "tail -f выводит новые строки файла по мере их появления",
+      "grep удаляет найденные строки из файла",
+      "tail -f сортирует содержимое файла по алфавиту",
+      "grep можно комбинировать с pipe для фильтрации вывода других команд"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "topicUrl": "/docs/manual-qa/komandnaya-stroka/chto-delaet-komanda-grep-privedite-primer"
+  },
+  {
+    "id": "manual-qa__komandnaya-stroka__q6",
+    "category": "Командная строка",
+    "question": "Что делают операторы >, >> и | в командной строке?",
+    "options": [
+      "> перенаправляет вывод в файл, перезаписывая его содержимое",
+      ">> дописывает вывод в конец файла, не удаляя старое содержимое",
+      "| передаёт вывод одной команды на вход другой (конвейер)",
+      "> объединяет несколько команд в один процесс",
+      "| завершает выполнение команды"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/komandnaya-stroka/chto-delayut-operatory-i-v-komandnoy-stroke"
+  },
+  {
+    "id": "manual-qa__komandnaya-stroka__q7",
+    "category": "Командная строка",
+    "question": "Как с помощью curl отправить GET и POST запросы, а также передать токен авторизации?",
+    "options": [
+      "curl <url> отправляет GET-запрос по умолчанию",
+      "curl -X POST -d '{...}' -H 'Content-Type: application/json' <url> отправляет POST с JSON-телом",
+      "curl -H 'Authorization: Bearer <token>' <url> передаёт токен авторизации",
+      "curl умеет работать только с GET-запросами",
+      "curl -X POST всегда требует установки отдельного сервера прокси"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/komandnaya-stroka/chto-takoe-curl-i-kak-s-ego-pomoschyu"
+  },
+  {
+    "id": "manual-qa__komandnaya-stroka__q8",
+    "category": "Командная строка",
+    "question": "Для чего используется команда xargs?",
+    "options": [
+      "Строит и выполняет команды, используя элементы из стандартного ввода как аргументы",
+      "Позволяет передать список файлов из find в rm, cp и другие команды",
+      "Заменяет собой оператор pipe полностью",
+      "Только выводит справку по другим командам",
+      "Полезен для построения конвейеров обработки списков элементов"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "topicUrl": "/docs/manual-qa/komandnaya-stroka/dlya-chego-ispolzuetsya-xargs"
+  },
+  {
+    "id": "manual-qa__logirovanie-i-monitoring__q1",
+    "category": "Логирование и метрики",
+    "question": "Для чего нужны логи в приложении?",
+    "options": [
+      "Для фиксации событий системы, помогающей в отладке и расследовании инцидентов",
+      "Для хранения пользовательских паролей в открытом виде",
+      "Для замены системы автоматического тестирования",
+      "Для ускорения работы базы данных",
+      "Для генерации UI-компонентов"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/manual-qa/logirovanie-i-monitoring/chto-takoe-logi-i-dlya-chego-oni-nuzhny"
+  },
+  {
+    "id": "manual-qa__logirovanie-i-monitoring__q2",
+    "category": "Логирование и метрики",
+    "question": "Какие уровни логирования относятся к стандартной иерархии уровней?",
+    "options": [
+      "DEBUG",
+      "INFO",
+      "WARN",
+      "ERROR",
+      "COMPILE"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "topicUrl": "/docs/manual-qa/logirovanie-i-monitoring/kakie-urovni-logirovaniya-vy-znaete-debug-info-warn"
+  },
+  {
+    "id": "manual-qa__logirovanie-i-monitoring__q3",
+    "category": "Логирование и метрики",
+    "question": "На каком уровне логирования стоит фиксировать ошибку, которая не приводит к падению приложения?",
+    "options": [
+      "WARN или ERROR, в зависимости от серьёзности проблемы",
+      "DEBUG, потому что это не критично",
+      "INFO, так как ошибка не влияет на работу",
+      "TRACE, чтобы скрыть проблему из логов",
+      "FATAL, так как любое отклонение критично"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/manual-qa/logirovanie-i-monitoring/na-kakom-urovne-logirovaniya-stoit-fiksirovat-oshibku-ne"
+  },
+  {
+    "id": "manual-qa__logirovanie-i-monitoring__q4",
+    "category": "Логирование и метрики",
+    "question": "Из каких основных компонентов состоит ELK Stack?",
+    "options": [
+      "Elasticsearch",
+      "Logstash",
+      "Kibana",
+      "Jenkins",
+      "Postman"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/logirovanie-i-monitoring/chto-takoe-elk-stack-iz-kakih-komponentov-on"
+  },
+  {
+    "id": "manual-qa__logirovanie-i-monitoring__q5",
+    "category": "Логирование и метрики",
+    "question": "Какую роль в ELK Stack играет Elasticsearch?",
+    "options": [
+      "Хранит и индексирует данные, обеспечивая быстрый полнотекстовый поиск",
+      "Собирает и преобразует логи из разных источников",
+      "Визуализирует данные в виде дашбордов",
+      "Отправляет push-уведомления пользователям",
+      "Компилирует исходный код приложения"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/manual-qa/logirovanie-i-monitoring/kakuyu-rol-v-elk-igraet-elasticsearch"
+  },
+  {
+    "id": "manual-qa__logirovanie-i-monitoring__q6",
+    "category": "Логирование и метрики",
+    "question": "Для чего используется Logstash в связке ELK?",
+    "options": [
+      "Для сбора, обработки и преобразования логов перед отправкой в хранилище",
+      "Для визуализации данных на графиках",
+      "Для хранения индексов и выполнения поисковых запросов",
+      "Для написания автотестов",
+      "Для управления версиями кода"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/manual-qa/logirovanie-i-monitoring/dlya-chego-ispolzuetsya-logstash"
+  },
+  {
+    "id": "manual-qa__logirovanie-i-monitoring__q7",
+    "category": "Логирование и метрики",
+    "question": "Что можно делать в Kibana?",
+    "options": [
+      "Строить дашборды и визуализации по данным из Elasticsearch",
+      "Искать и фильтровать логи с помощью запросов",
+      "Настраивать оповещения (alerts) по определённым условиям",
+      "Компилировать код приложения",
+      "Управлять версиями базы данных"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/logirovanie-i-monitoring/chto-mozhno-delat-v-kibana"
+  },
+  {
+    "id": "manual-qa__logirovanie-i-monitoring__q8",
+    "category": "Логирование и метрики",
+    "question": "Чем Grafana отличается от Kibana?",
+    "options": [
+      "Grafana ориентирована на визуализацию метрик и работу с разными источниками данных (Prometheus, InfluxDB и др.), а Kibana тесно интегрирована с Elasticsearch и логами",
+      "Grafana предназначена только для хранения логов текстом",
+      "Kibana не умеет строить графики и дашборды",
+      "Grafana является частью ELK Stack и не может работать отдельно",
+      "Kibana используется только для хранения бинарных файлов"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/manual-qa/logirovanie-i-monitoring/chem-grafana-otlichaetsya-ot-kibana"
+  },
+  {
+    "id": "manual-qa__mobilnoe-testirovanie__q1",
+    "category": "Мобильное тестирование",
+    "question": "Чем нативное приложение отличается от гибридного и веб-приложения?",
+    "options": [
+      "Нативное приложение разрабатывается под конкретную платформу (Android/iOS) и имеет полный доступ к API устройства",
+      "Веб-приложение устанавливается через App Store/Google Play так же, как нативное",
+      "Гибридное приложение работает внутри нативной оболочки (WebView), совмещая веб-код с доступом к части нативных функций",
+      "Нативное приложение не требует установки и открывается в браузере",
+      "Гибридное приложение всегда быстрее нативного за счет отсутствия WebView"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/mobilnoe-testirovanie/chem-nativnoe-prilozhenie-otlichaetsya-ot-gibridnogo-i-veb"
+  },
+  {
+    "id": "manual-qa__mobilnoe-testirovanie__q2",
+    "category": "Мобильное тестирование",
+    "question": "В чем заключаются особенности тестирования мобильных приложений по сравнению с веб-приложениями?",
+    "options": [
+      "Необходимо учитывать фрагментацию устройств и версий ОС",
+      "Нужно проверять поведение при прерываниях (звонки, смс) и переключении сети",
+      "Мобильные приложения тестируются исключительно вручную без автоматизации",
+      "Важно проверять потребление батареи и работу с разрешениями",
+      "Тестирование мобильных приложений не требует учета жестов и UI-контролов"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "topicUrl": "/docs/manual-qa/mobilnoe-testirovanie/v-chem-zaklyuchayutsya-osobennosti-testirovaniya-mobilnyh-pr"
+  },
+  {
+    "id": "manual-qa__mobilnoe-testirovanie__q3",
+    "category": "Мобильное тестирование",
+    "question": "Что такое глубокие ссылки (Deep Links) и как их тестируют?",
+    "options": [
+      "Это ссылки, которые открывают конкретный экран или контент внутри приложения",
+      "Их тестируют, проверяя корректность перехода на нужный экран при клике по ссылке из разных источников",
+      "Deep Link работает только если приложение уже открыто на нужном экране",
+      "Это ссылки для скачивания приложения из магазина приложений",
+      "Тестирование deep link включает проверку поведения, если приложение не установлено (переход в стор)"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "topicUrl": "/docs/manual-qa/mobilnoe-testirovanie/chto-takoe-glubokie-ssylki-deep-links-i-kak"
+  },
+  {
+    "id": "manual-qa__mobilnoe-testirovanie__q4",
+    "category": "Мобильное тестирование",
+    "question": "Чем эмулятор отличается от симулятора?",
+    "options": [
+      "Эмулятор воспроизводит аппаратное и программное окружение устройства (обычно для Android)",
+      "Симулятор имитирует только программное окружение ОС без эмуляции железа (обычно для iOS)",
+      "Симулятор и эмулятор — это два разных названия одного и того же инструмента",
+      "Эмулятор всегда точнее отражает поведение реального устройства, чем реальное устройство",
+      "Симулятор способен эмулировать реальные звонки и датчики так же точно, как эмулятор"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/manual-qa/mobilnoe-testirovanie/chem-emulyator-otlichaetsya-ot-simulyatora"
+  },
+  {
+    "id": "manual-qa__mobilnoe-testirovanie__q5",
+    "category": "Мобильное тестирование",
+    "question": "Какие плюсы дает тестирование на реальных устройствах по сравнению с эмуляторами/симуляторами?",
+    "options": [
+      "Точная проверка реальной производительности и потребления батареи",
+      "Проверка реального поведения при прерываниях: звонки, смс, уведомления",
+      "Реальные устройства всегда дешевле и доступнее эмуляторов",
+      "Проверка датчиков (GPS, акселерометр, камера) в реальных условиях",
+      "Реальное устройство гарантирует отсутствие багов, связанных с фрагментацией"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "topicUrl": "/docs/manual-qa/mobilnoe-testirovanie/kakie-plyusy-i-minusy-testirovaniya-na-realnyh-ustroystvah"
+  },
+  {
+    "id": "manual-qa__mobilnoe-testirovanie__q6",
+    "category": "Мобильное тестирование",
+    "question": "Что такое LogCat и для чего он нужен тестировщику Android?",
+    "options": [
+      "Это инструмент для просмотра системных и прикладных логов устройства/эмулятора Android",
+      "Он помогает находить ошибки, исключения и отслеживать поведение приложения во время тестирования",
+      "Это инструмент для тестирования iOS-приложений",
+      "LogCat используется только для установки APK-файлов",
+      "С помощью LogCat можно фильтровать логи по уровню и тегу приложения"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "topicUrl": "/docs/manual-qa/mobilnoe-testirovanie/chto-takoe-logcat-dlya-chego-on-nuzhen-testirovschiku"
+  },
+  {
+    "id": "manual-qa__mobilnoe-testirovanie__q7",
+    "category": "Мобильное тестирование",
+    "question": "Какая команда ADB устанавливает приложение на устройство?",
+    "options": [
+      "adb install app.apk",
+      "adb push app.apk",
+      "adb shell pm clear",
+      "adb devices",
+      "adb logcat -c"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/manual-qa/mobilnoe-testirovanie/kak-s-pomoschyu-adb-ustanovit-prilozhenie"
+  },
+  {
+    "id": "manual-qa__mobilnoe-testirovanie__q8",
+    "category": "Мобильное тестирование",
+    "question": "Что нужно проверять при тестировании разрешений (Permissions) в мобильном приложении?",
+    "options": [
+      "Корректный запрос разрешения в нужный момент с понятным объяснением цели",
+      "Поведение приложения при отказе пользователя предоставить разрешение",
+      "Разрешения запрашиваются только один раз при первой установке и больше никогда не проверяются",
+      "Поведение при отзыве ранее выданного разрешения через настройки ОС",
+      "Разрешения актуальны только для iOS-приложений"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "topicUrl": "/docs/manual-qa/mobilnoe-testirovanie/chto-takoe-razresheniya-permissions-kak-testirovat-scenarii"
+  },
+  {
+    "id": "manual-qa__modeli-razrabotki__q1",
+    "category": "Модели разработки",
+    "question": "Какие стадии обычно включает жизненный цикл разработки продукта (SDLC)?",
+    "options": [
+      "Сбор требований, проектирование, разработка, тестирование, внедрение, поддержка",
+      "Только написание кода и его развертывание на продакшн",
+      "Только тестирование и исправление багов",
+      "Маркетинг продукта и продажи",
+      "Только сбор требований и написание технического задания"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/manual-qa/modeli-razrabotki/perechislite-osnovnye-stadii-razrabotki-produkta-sdlc"
+  },
+  {
+    "id": "manual-qa__modeli-razrabotki__q2",
+    "category": "Модели разработки",
+    "question": "Какие модели разработки ПО существуют?",
+    "options": [
+      "Waterfall (водопадная)",
+      "Agile (гибкая)",
+      "V-модель",
+      "Спиральная модель",
+      "Модель регрессионного тестирования"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "topicUrl": "/docs/manual-qa/modeli-razrabotki/kakie-modeli-razrabotki-po-vy-znaete"
+  },
+  {
+    "id": "manual-qa__modeli-razrabotki__q3",
+    "category": "Модели разработки",
+    "question": "В чем суть водопадной модели (Waterfall)?",
+    "options": [
+      "Последовательное прохождение этапов, каждый следующий начинается после завершения предыдущего",
+      "Разработка идет параллельно короткими циклами с постоянной обратной связью",
+      "Тестирование планируется параллельно с каждым этапом разработки",
+      "Требования могут свободно меняться на любом этапе без последствий",
+      "Продукт выпускается небольшими инкрементами каждую неделю"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/manual-qa/modeli-razrabotki/v-chem-sut-vodopadnoy-modeli-waterfall-kakie-u"
+  },
+  {
+    "id": "manual-qa__modeli-razrabotki__q4",
+    "category": "Модели разработки",
+    "question": "Какие недостатки характерны для водопадной модели?",
+    "options": [
+      "Сложно вносить изменения после завершения этапа",
+      "Ошибки выявляются поздно, ближе к завершению проекта",
+      "Заказчик видит рабочий продукт только в конце разработки",
+      "Гибкость к изменяющимся требованиям и быстрая адаптация",
+      "Раннее и постоянное тестирование на каждом этапе"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/modeli-razrabotki/v-chem-sut-vodopadnoy-modeli-waterfall-kakie-u"
+  },
+  {
+    "id": "manual-qa__modeli-razrabotki__q5",
+    "category": "Модели разработки",
+    "question": "Чем итеративная модель отличается от водопадной?",
+    "options": [
+      "Продукт разрабатывается циклами (итерациями), в каждой из которых улучшается функциональность",
+      "Все требования фиксируются один раз в начале и больше не меняются",
+      "Обратная связь и корректировки возможны после каждой итерации",
+      "Тестирование проводится только на самом последнем этапе всего проекта",
+      "Этапы строго последовательны и не повторяются"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/modeli-razrabotki/chem-iterativnaya-model-otlichaetsya-ot-vodopadnoy"
+  },
+  {
+    "id": "manual-qa__modeli-razrabotki__q6",
+    "category": "Модели разработки",
+    "question": "Для каких проектов подходит спиральная модель разработки?",
+    "options": [
+      "Для крупных и сложных проектов с высокими рисками",
+      "Для проектов, где важен анализ и снижение рисков на каждой итерации",
+      "Для небольших проектов с полностью статичными и неизменными требованиями",
+      "Для проектов, где не требуется прототипирование",
+      "Только для проектов с фиксированным бюджетом и без анализа рисков"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/manual-qa/modeli-razrabotki/chto-takoe-spiralnaya-model-i-dlya-kakih-proektov"
+  },
+  {
+    "id": "manual-qa__modeli-razrabotki__q7",
+    "category": "Модели разработки",
+    "question": "В чем особенность V-модели и как в ней отражено тестирование?",
+    "options": [
+      "Каждому этапу разработки соответствует свой этап тестирования",
+      "Тестирование планируется заранее, параллельно с этапами разработки",
+      "Тестирование полностью отсутствует как отдельный процесс",
+      "Тестирование начинается только после релиза продукта пользователям",
+      "Модель строится в виде буквы V, где левая часть — разработка, правая — тестирование"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "topicUrl": "/docs/manual-qa/modeli-razrabotki/v-chem-osobennost-v-modeli-kak-v-ney"
+  },
+  {
+    "id": "manual-qa__modeli-razrabotki__q8",
+    "category": "Модели разработки",
+    "question": "Как культура DevOps влияет на процессы разработки и тестирования?",
+    "options": [
+      "Способствует автоматизации сборки, тестирования и развертывания (CI/CD)",
+      "Усиливает взаимодействие между командами разработки и эксплуатации",
+      "Ускоряет и учащает выпуск релизов",
+      "Полностью исключает необходимость тестирования продукта",
+      "Отменяет использование систем контроля версий"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/modeli-razrabotki/chto-takoe-devops-i-kak-eta-kultura-vliyaet"
+  },
+  {
+    "id": "manual-qa__osnovnye-ponyatiya__q1",
+    "category": "Основные понятия",
+    "question": "В чем ключевое отличие QA (Quality Assurance) от QC (Quality Control)?",
+    "options": [
+      "QA — это проверка готового продукта, QC — построение процессов",
+      "QA ориентирован на процесс и предотвращение дефектов, QC — на проверку конечного продукта",
+      "QA и QC — это полностью взаимозаменяемые термины",
+      "QA занимается только автоматизацией, а QC — только ручным тестированием",
+      "QC выполняется до начала разработки, а QA — после релиза"
+    ],
+    "correct": [
+      1
+    ],
+    "topicUrl": "/docs/manual-qa/osnovnye-ponyatiya/v-chem-raznica-mezhdu-qa-quality-assurance-i"
+  },
+  {
+    "id": "manual-qa__osnovnye-ponyatiya__q2",
+    "category": "Основные понятия",
+    "question": "Какие утверждения верно описывают верификацию и валидацию?",
+    "options": [
+      "Верификация отвечает на вопрос «мы правильно строим продукт?»",
+      "Валидация отвечает на вопрос «мы строим правильный продукт?»",
+      "Верификация всегда выполняется только конечным пользователем",
+      "Валидация проверяет соответствие требованиям на бумаге, без запуска продукта",
+      "Верификация и валидация — это два разных, но взаимодополняющих вида проверки качества"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "topicUrl": "/docs/manual-qa/osnovnye-ponyatiya/chto-takoe-verifikaciya-na-kakoy-vopros-ona-otvechaet"
+  },
+  {
+    "id": "manual-qa__osnovnye-ponyatiya__q3",
+    "category": "Основные понятия",
+    "question": "Какие из перечисленных принципов входят в «7 принципов тестирования»?",
+    "options": [
+      "Тестирование демонстрирует наличие дефектов",
+      "Исчерпывающее тестирование невозможно",
+      "Тестирование гарантирует полное отсутствие дефектов",
+      "Раннее тестирование экономит ресурсы",
+      "Парадокс пестицида"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "topicUrl": "/docs/manual-qa/osnovnye-ponyatiya/nazovite-i-obyasnite-7-principov-testirovaniya"
+  },
+  {
+    "id": "manual-qa__osnovnye-ponyatiya__q4",
+    "category": "Основные понятия",
+    "question": "В чем суть принципа «Тестирование демонстрирует наличие дефектов»?",
+    "options": [
+      "Тестирование может показать, что дефекты есть, но не доказывает их полное отсутствие",
+      "Тестирование гарантирует отсутствие всех ошибок в системе",
+      "Тестирование нужно только для демонстрации заказчику",
+      "Тестирование выявляет только критические дефекты",
+      "Дефекты можно обнаружить только на этапе продакшна"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/manual-qa/osnovnye-ponyatiya/obyasnite-princip-testirovanie-demonstriruet-nalichie-defekt"
+  },
+  {
+    "id": "manual-qa__osnovnye-ponyatiya__q5",
+    "category": "Основные понятия",
+    "question": "Что означает принцип «Исчерпывающее тестирование невозможно»?",
+    "options": [
+      "Нельзя протестировать абсолютно все комбинации входных данных и условий за разумное время",
+      "Тестировщики должны использовать приоритизацию и риск-ориентированный подход",
+      "Тестирование можно полностью автоматизировать и покрыть все случаи",
+      "Достаточно протестировать только позитивные сценарии",
+      "Это означает, что тестирование в принципе не нужно проводить"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/manual-qa/osnovnye-ponyatiya/chto-oznachaet-ischerpyvayuschee-testirovanie-nevozmozhno"
+  },
+  {
+    "id": "manual-qa__osnovnye-ponyatiya__q6",
+    "category": "Основные понятия",
+    "question": "В чем заключается «Парадокс пестицида» в тестировании?",
+    "options": [
+      "Одни и те же тест-кейсы со временем перестают находить новые дефекты",
+      "Нужно периодически пересматривать и обновлять тест-кейсы",
+      "Чем больше тестов написано, тем меньше дефектов остается навсегда",
+      "Автоматизация тестирования снижает качество продукта",
+      "Тестировщики со временем теряют квалификацию"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/manual-qa/osnovnye-ponyatiya/v-chem-zaklyuchaetsya-paradoks-pesticida"
+  },
+  {
+    "id": "manual-qa__osnovnye-ponyatiya__q7",
+    "category": "Основные понятия",
+    "question": "Для чего нужна среда STAGING?",
+    "options": [
+      "Максимально приближена к продакшну для финальной проверки перед релизом",
+      "Используется разработчиками для написания и отладки кода",
+      "Полностью совпадает по конфигурации с продакшн-средой",
+      "Предназначена для случайных экспериментов без каких-либо ограничений",
+      "Используется исключительно для нагрузочного тестирования"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/osnovnye-ponyatiya/dlya-chego-nuzhna-sreda-staging"
+  },
+  {
+    "id": "manual-qa__osnovnye-ponyatiya__q8",
+    "category": "Основные понятия",
+    "question": "Как соотносятся понятия «ошибка (error)», «дефект (defect)» и «отказ (failure)»?",
+    "options": [
+      "Error — это действие человека, приводящее к дефекту в коде",
+      "Defect — это несоответствие в продукте, возникшее из-за ошибки",
+      "Failure — это проявление дефекта во время выполнения системы",
+      "Это три синонима одного и того же понятия",
+      "Failure всегда возникает раньше, чем defect"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/osnovnye-ponyatiya/dayte-opredeleniya-ponyatiyam-oshibka-error-defekt-defect-ot"
+  },
+  {
+    "id": "manual-qa__osnovy-testirovaniya__q1",
+    "category": "Основы тестирования",
+    "question": "Что из перечисленного точно описывает тестирование программного обеспечения?",
+    "options": [
+      "Процесс написания кода, реализующего требования заказчика",
+      "Процесс проверки соответствия ПО требованиям и выявления дефектов",
+      "Разработка технического задания для программистов",
+      "Развертывание приложения на продуктивном сервере",
+      "Составление документации по итогам релиза"
+    ],
+    "correct": [
+      1
+    ],
+    "topicUrl": "/docs/manual-qa/osnovy-testirovaniya/chto-takoe-testirovanie-programmnogo-obespecheniya-dayte-opr"
+  },
+  {
+    "id": "manual-qa__osnovy-testirovaniya__q2",
+    "category": "Основы тестирования",
+    "question": "Какие утверждения верно описывают разницу между статическим и динамическим тестированием?",
+    "options": [
+      "Статическое тестирование выполняется без запуска программы (ревью, анализ кода)",
+      "Динамическое тестирование предполагает реальное выполнение программы",
+      "Статическое тестирование возможно только после релиза продукта",
+      "Динамическое тестирование не требует наличия исполняемого кода",
+      "Статическое и динамическое тестирование — это одно и то же"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/manual-qa/osnovy-testirovaniya/v-chem-raznica-mezhdu-staticheskim-i-dinamicheskim-testirova"
+  },
+  {
+    "id": "manual-qa__osnovy-testirovaniya__q3",
+    "category": "Основы тестирования",
+    "question": "Кто может выступать в роли исполнителя тестирования?",
+    "options": [
+      "Разработчик",
+      "Тестировщик",
+      "Конечный пользователь",
+      "Системный администратор базы данных",
+      "Специалист по продажам"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/osnovy-testirovaniya/kto-mozhet-vystupat-v-roli-ispolnitelya-testirovaniya-razrab"
+  },
+  {
+    "id": "manual-qa__osnovy-testirovaniya__q4",
+    "category": "Основы тестирования",
+    "question": "Что такое модульное (unit) тестирование и кто его обычно выполняет?",
+    "options": [
+      "Проверка отдельных компонентов кода, обычно выполняется разработчиками",
+      "Проверка взаимодействия всей системы с внешними сервисами силами заказчика",
+      "Проверка соответствия бизнес-требованиям, выполняемая бизнес-аналитиком",
+      "Проверка производительности системы под нагрузкой",
+      "Финальная приемка продукта конечным пользователем"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/manual-qa/osnovy-testirovaniya/chto-takoe-modulnoe-unit-testirovanie-i-kto-ego"
+  },
+  {
+    "id": "manual-qa__osnovy-testirovaniya__q5",
+    "category": "Основы тестирования",
+    "question": "Чем приемочное тестирование отличается от системного?",
+    "options": [
+      "Приемочное тестирование проверяет соответствие ожиданиям заказчика/пользователя",
+      "Системное тестирование проверяет продукт целиком с точки зрения технических требований",
+      "Приемочное тестирование всегда выполняется только разработчиками",
+      "Системное тестирование проводится исключительно после релиза продукта пользователям",
+      "Приемочное и системное тестирование — синонимы одного и того же уровня"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/manual-qa/osnovy-testirovaniya/chem-priemochnoe-testirovanie-otlichaetsya-ot-sistemnogo"
+  },
+  {
+    "id": "manual-qa__osnovy-testirovaniya__q6",
+    "category": "Основы тестирования",
+    "question": "Чем Definition of Ready (DoR) отличается от Definition of Done (DoD)?",
+    "options": [
+      "DoR определяет критерии готовности задачи к взятию в работу",
+      "DoD определяет критерии завершенности выполненной задачи",
+      "DoR применяется после завершения разработки, а DoD — до ее начала",
+      "DoR и DoD — это два названия одного и того же документа",
+      "DoD используется только для приемочного тестирования"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/manual-qa/osnovy-testirovaniya/chem-dor-otlichaetsya-ot-dod-privedite-primery"
+  },
+  {
+    "id": "manual-qa__osnovy-testirovaniya__q7",
+    "category": "Основы тестирования",
+    "question": "Что такое Acceptance Criteria (AC) и где они используются?",
+    "options": [
+      "Условия, при выполнении которых задача/фича считается принятой заказчиком",
+      "Формулируются в требованиях или пользовательской истории до начала разработки",
+      "Используются для проверки соответствия результата ожиданиям при приемке",
+      "Это внутренний технический стандарт кодирования для разработчиков",
+      "Применяются только на этапе развертывания инфраструктуры"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/osnovy-testirovaniya/chto-takoe-acceptance-criteria-ac-i-gde-oni"
+  },
+  {
+    "id": "manual-qa__osnovy-testirovaniya__q8",
+    "category": "Основы тестирования",
+    "question": "Какие активности относятся к основному процессу тестирования (от планирования до завершения)?",
+    "options": [
+      "Анализ и проектирование тестов",
+      "Реализация и выполнение тестов",
+      "Оценка критериев завершения и отчетность",
+      "Написание бизнес-плана продукта",
+      "Продажа лицензий на продукт"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/osnovy-testirovaniya/perechislite-osnovnye-aktivnosti-v-testirovanii-ot-planirova"
+  },
+  {
+    "id": "manual-qa__seti-i-protokoly__q1",
+    "category": "Сети и протоколы",
+    "question": "Какие порты по умолчанию используют перечисленные протоколы?",
+    "options": [
+      "HTTP — 80, HTTPS — 443",
+      "FTP (управление) — 21, SSH — 22",
+      "DNS — 53",
+      "HTTPS — 8080, SSH — 3306",
+      "HTTP — 21, DNS — 443"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/seti-i-protokoly/nazovite-osnovnye-protokoly-prikladnogo-urovnya-i-ih-porty"
+  },
+  {
+    "id": "manual-qa__seti-i-protokoly__q2",
+    "category": "Сети и протоколы",
+    "question": "Для чего используется протокол SMTP?",
+    "options": [
+      "Для отправки электронной почты",
+      "Для получения электронной почты клиентом с сервера",
+      "Для разрешения доменных имен в IP-адреса",
+      "Для передачи файлов между хостами",
+      "Для удаленного защищенного доступа к серверу"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/manual-qa/seti-i-protokoly/dlya-chego-ispolzuetsya-protokol-smtp"
+  },
+  {
+    "id": "manual-qa__seti-i-protokoly__q3",
+    "category": "Сети и протоколы",
+    "question": "Чем TCP отличается от UDP?",
+    "options": [
+      "TCP устанавливает соединение и гарантирует доставку данных, UDP — нет",
+      "UDP быстрее, но не гарантирует порядок и доставку пакетов",
+      "TCP используется там, где важна надежность (например, HTTP, FTP)",
+      "UDP всегда шифрует передаваемые данные, а TCP — никогда",
+      "TCP работает только на канальном уровне модели OSI"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/seti-i-protokoly/chem-tcp-otlichaetsya-ot-udp"
+  },
+  {
+    "id": "manual-qa__seti-i-protokoly__q4",
+    "category": "Сети и протоколы",
+    "question": "Сколько уровней содержит модель OSI и сколько — модель TCP/IP?",
+    "options": [
+      "OSI — 7 уровней, TCP/IP — обычно 4 уровня",
+      "OSI — 5 уровней, TCP/IP — 5 уровней",
+      "OSI — 7 уровней, TCP/IP — 7 уровней",
+      "OSI — 4 уровня, TCP/IP — 7 уровней",
+      "OSI — 6 уровней, TCP/IP — 3 уровня"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/manual-qa/seti-i-protokoly/kak-sootnosyatsya-urovni-modeli-osi-i-tcp-ip"
+  },
+  {
+    "id": "manual-qa__seti-i-protokoly__q5",
+    "category": "Сети и протоколы",
+    "question": "Что такое прокси-сервер и какие виды прокси существуют?",
+    "options": [
+      "Прямой прокси скрывает клиента от сервера назначения",
+      "Обратный (reverse) прокси скрывает реальные серверы от клиентов и распределяет нагрузку",
+      "Прокси-сервер выступает посредником между клиентом и сервером",
+      "Прокси-сервер обязательно шифрует MAC-адрес отправителя",
+      "Прокси используется только для передачи почты по SMTP"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/seti-i-protokoly/chto-takoe-proksi-server-kakie-vidy-proksi-byvayut"
+  },
+  {
+    "id": "manual-qa__seti-i-protokoly__q6",
+    "category": "Сети и протоколы",
+    "question": "Что такое VPN и какие протоколы VPN вы знаете?",
+    "options": [
+      "VPN создает защищенное зашифрованное соединение через публичную сеть",
+      "OpenVPN и WireGuard — примеры VPN-протоколов",
+      "VPN скрывает реальный IP-адрес и шифрует трафик пользователя",
+      "VPN — это протокол прикладного уровня для отправки почты",
+      "VPN работает исключительно без шифрования данных"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/seti-i-protokoly/chto-takoe-vpn-virtual-private-network-i-kak"
+  },
+  {
+    "id": "manual-qa__seti-i-protokoly__q7",
+    "category": "Сети и протоколы",
+    "question": "В чем разница между MAC-адресом и IP-адресом?",
+    "options": [
+      "MAC-адрес — физический адрес сетевого устройства, работает на канальном уровне",
+      "IP-адрес — логический адрес, используется для маршрутизации на сетевом уровне",
+      "MAC-адрес обычно присваивается производителем оборудования и относительно постоянен",
+      "IP-адрес может меняться в зависимости от сети, к которой подключено устройство",
+      "MAC-адрес и IP-адрес — это одно и то же и взаимозаменяемы"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "topicUrl": "/docs/manual-qa/seti-i-protokoly/v-chem-raznica-mezhdu-mac-adresom-i-ip"
+  },
+  {
+    "id": "manual-qa__seti-i-protokoly__q8",
+    "category": "Сети и протоколы",
+    "question": "Что такое сниффер и для чего он применяется в тестировании?",
+    "options": [
+      "Сниффер — инструмент для анализа/перехвата сетевого трафика (например, Wireshark, Fiddler)",
+      "Снифферы используют для отладки запросов и ответов между клиентом и сервером",
+      "Снифферы помогают анализировать заголовки, тело запросов и время отклика",
+      "Сниффер — это то же самое, что брандмауэр",
+      "Снифферы применяются только для отправки писем по SMTP"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/seti-i-protokoly/chto-takoe-sniffer-analizator-trafika-privedite-primery-wire"
+  },
+  {
+    "id": "manual-qa__test-dizayn__q1",
+    "category": "Тест-дизайн",
+    "question": "Что из перечисленного корректно описывает эквивалентное разделение (Equivalence Partitioning)?",
+    "options": [
+      "Разбиение входных данных на классы, где ожидается одинаковое поведение системы",
+      "Проверка только граничных значений диапазона",
+      "Достаточно взять одно представительное значение из каждого класса эквивалентности",
+      "Техника применима только к числовым полям",
+      "Комбинирование всех попарных значений параметров"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/test-dizayn/obyasnite-tehniku-ekvivalentnogo-razdeleniya-equivalence-par"
+  },
+  {
+    "id": "manual-qa__test-dizayn__q2",
+    "category": "Тест-дизайн",
+    "question": "Что проверяет техника анализа граничных значений (Boundary Value Analysis)?",
+    "options": [
+      "Значения на границах диапазона и рядом с ними (минимум, минимум-1, максимум, максимум+1)",
+      "Случайные значения внутри классов эквивалентности",
+      "Она часто применяется вместе с эквивалентным разделением",
+      "Комбинации всех возможных пар входных параметров",
+      "Только середину диапазона допустимых значений"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/test-dizayn/obyasnite-tehniku-analiza-granichnyh-znacheniy-boundary-valu"
+  },
+  {
+    "id": "manual-qa__test-dizayn__q3",
+    "category": "Тест-дизайн",
+    "question": "Для чего используются таблицы принятия решений (Decision Tables)?",
+    "options": [
+      "Для описания логики системы через комбинации условий и соответствующих им действий",
+      "Только для проверки визуального дизайна интерфейса",
+      "Для систематизации тестирования сложной бизнес-логики с множеством условий",
+      "Для генерации случайных некорректных данных",
+      "Для описания переходов между состояниями объекта"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/test-dizayn/dlya-chego-ispolzuyutsya-tablicy-prinyatiya-resheniy-decisio"
+  },
+  {
+    "id": "manual-qa__test-dizayn__q4",
+    "category": "Тест-дизайн",
+    "question": "Когда эффективно применять попарное тестирование (Pairwise Testing)?",
+    "options": [
+      "Когда нужно проверить абсолютно все возможные комбинации параметров",
+      "Когда параметров много и полный перебор комбинаций нецелесообразен по времени и ресурсам",
+      "Оно позволяет сократить число тестов, покрывая большинство дефектов взаимодействия пар параметров",
+      "Только для тестирования однопараметрических форм",
+      "Только при нагрузочном тестировании"
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/test-dizayn/chto-takoe-poparnoe-testirovanie-pairwise-testing-i-kogda"
+  },
+  {
+    "id": "manual-qa__test-dizayn__q5",
+    "category": "Тест-дизайн",
+    "question": "Что характерно для тестирования переходов состояний (State Transition Testing)?",
+    "options": [
+      "Применяется, когда система имеет конечное число состояний и правила перехода между ними",
+      "Строится на анализе диаграммы состояний и допустимых/недопустимых переходов",
+      "Используется только для проверки производительности",
+      "Не учитывает события, вызывающие переход между состояниями",
+      "Помогает выявить некорректные или недопустимые переходы состояний"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "topicUrl": "/docs/manual-qa/test-dizayn/opishite-tehniku-testirovaniya-perehodov-sostoyaniy-state-tr"
+  },
+  {
+    "id": "manual-qa__test-dizayn__q6",
+    "category": "Тест-дизайн",
+    "question": "Что такое исследовательское тестирование (Exploratory Testing)?",
+    "options": [
+      "Одновременное изучение продукта, проектирование тестов и их выполнение без заранее написанных тест-кейсов",
+      "Тестирование строго по формальному тест-плану без отклонений",
+      "Подход, при котором тестировщик опирается на опыт и интуицию для поиска дефектов",
+      "Разновидность нагрузочного тестирования",
+      "Метод, требующий обязательного использования автоматизации"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/test-dizayn/chto-takoe-issledovatelskoe-testirovanie-exploratory-testing"
+  },
+  {
+    "id": "manual-qa__test-dizayn__q7",
+    "category": "Тест-дизайн",
+    "question": "В чем заключается разница между тестированием «черного ящика» и «белого ящика»?",
+    "options": [
+      "Черный ящик тестирует систему без знания внутренней структуры кода, опираясь на требования",
+      "Белый ящик подразумевает знание и анализ внутренней структуры кода и логики",
+      "Черный ящик всегда выполняется только автоматизированно",
+      "Белый ящик используется исключительно для проверки UI",
+      "Серый ящик — это комбинированный подход с частичным знанием внутреннего устройства системы"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "topicUrl": "/docs/manual-qa/test-dizayn/v-chem-raznica-mezhdu-testirovaniem-chernogo-yaschika-i"
+  },
+  {
+    "id": "manual-qa__test-dizayn__q8",
+    "category": "Тест-дизайн",
+    "question": "Что представляет собой тестирование на основе рисков (Risk-Based Testing)?",
+    "options": [
+      "Приоритизация тестирования областей с наибольшей вероятностью и/или последствиями сбоя",
+      "Тестирование, при котором все функции проверяются одинаково тщательно без приоритетов",
+      "Помогает эффективно распределять ограниченные ресурсы и время тестирования",
+      "Метод, применимый только к тестированию безопасности",
+      "Оценка рисков обычно учитывает вероятность возникновения дефекта и критичность его последствий"
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ],
+    "topicUrl": "/docs/manual-qa/test-dizayn/chto-takoe-testirovanie-na-osnove-riskov-risk-based"
+  },
+  {
+    "id": "manual-qa__tipy-dannyh-i-formaty__q1",
+    "category": "Типы данных и форматы",
+    "question": "Какие типы данных поддерживает JSON нативно?",
+    "options": [
+      "Строки, числа, булевы значения, null, объекты и массивы",
+      "Только строки и числа",
+      "Дата и время как отдельный тип",
+      "Бинарные данные как отдельный тип",
+      "Функции и классы"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/manual-qa/tipy-dannyh-i-formaty/chto-takoe-json-opishite-ego-strukturu-i-tipy"
+  },
+  {
+    "id": "manual-qa__tipy-dannyh-i-formaty__q2",
+    "category": "Типы данных и форматы",
+    "question": "Какие из перечисленного являются преимуществами JSON?",
+    "options": [
+      "Компактность и читаемость человеком",
+      "Широкая поддержка в языках программирования",
+      "Встроенная строгая типизация чисел (int/float различаются на уровне спецификации)",
+      "Поддержка комментариев в стандарте",
+      "Простой парсинг благодаря простой структуре"
+    ],
+    "correct": [
+      0,
+      1,
+      4
+    ],
+    "topicUrl": "/docs/manual-qa/tipy-dannyh-i-formaty/kakie-preimuschestva-i-nedostatki-json"
+  },
+  {
+    "id": "manual-qa__tipy-dannyh-i-formaty__q3",
+    "category": "Типы данных и форматы",
+    "question": "Для чего используется JSON Schema?",
+    "options": [
+      "Для описания структуры, типов и ограничений JSON-документа",
+      "Для валидации JSON-данных по заданным правилам",
+      "Для генерации документации и автодополнения по контракту данных",
+      "Для сжатия JSON перед передачей по сети",
+      "Для преобразования JSON в XML"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/tipy-dannyh-i-formaty/chto-takoe-json-schema-i-dlya-chego-ona"
+  },
+  {
+    "id": "manual-qa__tipy-dannyh-i-formaty__q4",
+    "category": "Типы данных и форматы",
+    "question": "Что такое JSONPath?",
+    "options": [
+      "Язык запросов для навигации и извлечения значений из JSON-документа",
+      "Отдельный формат сериализации данных, конкурирующий с JSON",
+      "Способ указания пути к файлу конфигурации в формате JSON",
+      "Часть спецификации JSON Schema",
+      "Протокол передачи JSON по сети"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/manual-qa/tipy-dannyh-i-formaty/chto-takoe-jsonpath-kak-s-ego-pomoschyu-poluchit"
+  },
+  {
+    "id": "manual-qa__tipy-dannyh-i-formaty__q5",
+    "category": "Типы данных и форматы",
+    "question": "Чем XML отличается от JSON?",
+    "options": [
+      "XML использует теги и поддерживает атрибуты, схемы (XSD) и пространства имен",
+      "XML обычно более многословен и тяжелее для парсинга, чем JSON",
+      "JSON не поддерживает вложенные структуры данных",
+      "XML не может описывать иерархические данные",
+      "JSON изначально разрабатывался как расширение XML"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/manual-qa/tipy-dannyh-i-formaty/chto-takoe-xml-chem-on-otlichaetsya-ot-json"
+  },
+  {
+    "id": "manual-qa__tipy-dannyh-i-formaty__q6",
+    "category": "Типы данных и форматы",
+    "question": "Где чаще всего применяется YAML?",
+    "options": [
+      "В конфигурационных файлах приложений",
+      "В описаниях CI/CD пайплайнов (например, GitHub Actions, GitLab CI)",
+      "В Kubernetes-манифестах",
+      "В качестве основного формата передачи бинарных данных по сети",
+      "В качестве замены реляционных баз данных"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/tipy-dannyh-i-formaty/chto-takoe-yaml-gde-on-chasche-vsego-ispolzuetsya"
+  },
+  {
+    "id": "manual-qa__tipy-dannyh-i-formaty__q7",
+    "category": "Типы данных и форматы",
+    "question": "Какие утверждения про CSV верны?",
+    "options": [
+      "CSV хранит табличные данные, разделенные запятыми (или другим разделителем)",
+      "CSV удобен для импорта/экспорта в электронные таблицы и БД",
+      "CSV нативно поддерживает вложенные структуры данных",
+      "CSV не имеет единого строгого стандарта экранирования во всех реализациях",
+      "CSV всегда содержит строгую типизацию колонок на уровне формата"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "topicUrl": "/docs/manual-qa/tipy-dannyh-i-formaty/chto-takoe-csv"
+  },
+  {
+    "id": "manual-qa__tipy-dannyh-i-formaty__q8",
+    "category": "Типы данных и форматы",
+    "question": "В чем преимущество Protobuf перед JSON?",
+    "options": [
+      "Более компактная бинарная сериализация и меньший размер сообщений",
+      "Более быстрый парсинг за счет строгой типизированной схемы",
+      "Читаемость данных человеком без дополнительных инструментов",
+      "Строгая схема (.proto) обеспечивает контроль совместимости версий",
+      "Отсутствие необходимости в схеме для сериализации"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "topicUrl": "/docs/manual-qa/tipy-dannyh-i-formaty/chto-takoe-protobuf-protocol-buffers-v-chem-ego"
+  },
+  {
+    "id": "manual-qa__tipy-dannyh-i-formaty__q9",
+    "category": "Типы данных и форматы",
+    "question": "Где применяется формат Avro?",
+    "options": [
+      "В экосистеме Apache Kafka для сериализации сообщений",
+      "В Apache Hadoop для хранения больших данных",
+      "Хранит схему вместе с данными, что упрощает эволюцию схемы",
+      "Является форматом для описания CI/CD пайплайнов",
+      "Является языком запросов к базам данных"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/tipy-dannyh-i-formaty/chto-takoe-avro-gde-on-primenyaetsya-kafka-hadoop"
+  },
+  {
+    "id": "manual-qa__urovni-i-vidy-testirovaniya__q1",
+    "category": "Уровни и виды тестирования",
+    "question": "Какие уровни входят в классическую иерархию тестирования?",
+    "options": [
+      "Модульное, интеграционное, системное, приемочное",
+      "Модульное, регрессионное, дымовое, санитарное",
+      "Функциональное, нефункциональное, нагрузочное",
+      "Альфа, бета, релизное, пилотное",
+      "Ручное, автоматизированное, разведочное"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/manual-qa/urovni-i-vidy-testirovaniya/perechislite-4-osnovnyh-urovnya-testirovaniya-ierarhiya"
+  },
+  {
+    "id": "manual-qa__urovni-i-vidy-testirovaniya__q2",
+    "category": "Уровни и виды тестирования",
+    "question": "Какие методы интеграционного тестирования существуют?",
+    "options": [
+      "Big Bang",
+      "Top-Down",
+      "Bottom-Up",
+      "Sanity",
+      "Soak"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/urovni-i-vidy-testirovaniya/kakie-metody-integracii-vy-znaete-big-bang-top"
+  },
+  {
+    "id": "manual-qa__urovni-i-vidy-testirovaniya__q3",
+    "category": "Уровни и виды тестирования",
+    "question": "Какие подвиды относятся к приемочному тестированию (acceptance testing)?",
+    "options": [
+      "Альфа-тестирование",
+      "Бета-тестирование",
+      "UAT (User Acceptance Testing)",
+      "Smoke-тестирование",
+      "Build Verification Testing"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/urovni-i-vidy-testirovaniya/chto-takoe-priemochnoe-testirovanie-kakie-u-nego-podvidy"
+  },
+  {
+    "id": "manual-qa__urovni-i-vidy-testirovaniya__q4",
+    "category": "Уровни и виды тестирования",
+    "question": "К какой группе тестирования (по целям) относится проверка соответствия функционала требованиям?",
+    "options": [
+      "Функциональное тестирование",
+      "Нефункциональное тестирование",
+      "Тестирование, связанное с изменениями",
+      "Структурное (white-box) тестирование",
+      "Тестирование совместимости"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/manual-qa/urovni-i-vidy-testirovaniya/chto-takoe-funkcionalnoe-testirovanie-privedite-primery"
+  },
+  {
+    "id": "manual-qa__urovni-i-vidy-testirovaniya__q5",
+    "category": "Уровни и виды тестирования",
+    "question": "Что из перечисленного относится к нефункциональному тестированию?",
+    "options": [
+      "Тестирование производительности",
+      "Тестирование безопасности",
+      "Юзабилити-тестирование",
+      "Проверка бизнес-логики формы регистрации",
+      "Проверка расчета корзины интернет-магазина"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/urovni-i-vidy-testirovaniya/chto-takoe-nefunkcionalnoe-testirovanie-privedite-primery"
+  },
+  {
+    "id": "manual-qa__urovni-i-vidy-testirovaniya__q6",
+    "category": "Уровни и виды тестирования",
+    "question": "Какие уязвимости чаще всего проверяют в рамках тестирования безопасности?",
+    "options": [
+      "SQL-инъекции",
+      "XSS (Cross-Site Scripting)",
+      "Несанкционированный доступ",
+      "Утечки памяти при долгой работе приложения",
+      "Отклонение времени отклика сервера под нагрузкой"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/manual-qa/urovni-i-vidy-testirovaniya/rasskazhite-o-testirovanii-bezopasnosti-security-testing-kak"
+  },
+  {
+    "id": "manual-qa__urovni-i-vidy-testirovaniya__q7",
+    "category": "Уровни и виды тестирования",
+    "question": "В чем разница между нагрузочным (Load) и стрессовым (Stress) тестированием?",
+    "options": [
+      "Load проверяет поведение системы при ожидаемой нагрузке, Stress — при нагрузке выше предельной",
+      "Load и Stress — это одно и то же тестирование",
+      "Stress проверяет только UI, Load — только backend",
+      "Load выполняется вручную, Stress — только автоматизированно",
+      "Load определяет точку отказа системы, а Stress — среднюю нагрузку"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/manual-qa/urovni-i-vidy-testirovaniya/v-chem-raznica-mezhdu-nagruzochnym-load-i-stressovym"
+  },
+  {
+    "id": "manual-qa__urovni-i-vidy-testirovaniya__q8",
+    "category": "Уровни и виды тестирования",
+    "question": "Чем регрессионное тестирование отличается от ретеста (Re-testing)?",
+    "options": [
+      "Ретест проверяет, что конкретный найденный дефект исправлен",
+      "Регрессионное тестирование проверяет, что изменения не сломали ранее работавший функционал",
+      "Ретест и регрессия — синонимы одного и того же процесса",
+      "Регрессионное тестирование выполняется только один раз перед релизом",
+      "Ретест всегда охватывает весь проект целиком"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/manual-qa/urovni-i-vidy-testirovaniya/chem-regressionnoe-testirovanie-otlichaetsya-ot-retesta-re-t"
+  },
+  {
+    "id": "manual-qa__urovni-i-vidy-testirovaniya__q9",
+    "category": "Уровни и виды тестирования",
+    "question": "Что такое Smoke-тестирование и когда его проводят?",
+    "options": [
+      "Быстрая проверка базовой работоспособности сборки после её получения",
+      "Проводится перед началом более глубокого тестирования",
+      "Полная проверка всех функций приложения перед релизом",
+      "Проверка только производительности системы",
+      "Синоним регрессионного тестирования"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/manual-qa/urovni-i-vidy-testirovaniya/chto-takoe-smoke-testirovanie-kogda-ego-provodyat"
+  },
+  {
+    "id": "manual-qa__urovni-i-vidy-testirovaniya__q10",
+    "category": "Уровни и виды тестирования",
+    "question": "Что описывает концепция пирамиды тестирования?",
+    "options": [
+      "Рекомендуемое соотношение количества тестов: много модульных, меньше интеграционных, еще меньше UI/E2E",
+      "Порядок выполнения уровней тестирования во времени",
+      "Иерархию ролей в команде тестирования",
+      "Антипаттерн, при котором основной упор делается на ручное UI-тестирование",
+      "Структуру тест-плана проекта"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/manual-qa/urovni-i-vidy-testirovaniya/obyasnite-koncepciyu-piramidy-testirovaniya"
+  }
+]

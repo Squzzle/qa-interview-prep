@@ -3,6 +3,7 @@ import Link from '@docusaurus/Link';
 import {loadQuizBank} from './bank';
 import {selectRandom} from './select';
 import {isCorrect} from './grading';
+import {optionStatus, type OptionStatus} from './review';
 import type {QuizQuestion} from './types';
 import styles from './Quiz.module.css';
 
@@ -41,24 +42,57 @@ export default function Quiz(): React.ReactElement {
   if (submitted) {
     const wrong = questions.filter((q) => !isCorrect(answers[q.id] ?? [], q.correct));
     const score = questions.length - wrong.length;
+    const optClass: Record<OptionStatus, string> = {
+      'correct-selected': styles.correctSel,
+      'correct-missed': styles.correctMiss,
+      'wrong-selected': styles.wrongSel,
+      neutral: styles.neutral,
+    };
+    const mark = (st: OptionStatus) =>
+      st === 'wrong-selected' ? '✘' : st === 'neutral' ? '•' : '✔';
+    const note = (st: OptionStatus) =>
+      st === 'correct-selected'
+        ? 'ваш выбор, правильно'
+        : st === 'correct-missed'
+          ? 'правильный ответ (пропущен)'
+          : st === 'wrong-selected'
+            ? 'ваш выбор, неверно'
+            : '';
     return (
       <div>
         <h2>Результат: {score} / {questions.length}</h2>
-        {wrong.length === 0 ? (
-          <p>Все ответы верны! 🎉</p>
-        ) : (
-          <>
-            <p>Разберите темы, где были ошибки:</p>
-            <ul>
-              {wrong.map((q) => (
-                <li key={q.id}>
-                  {q.question} — <Link to={q.topicUrl}>Разобрать тему</Link>
-                </li>
-              ))}
-            </ul>
-          </>
-        )}
-        <button className="button button--primary" onClick={start}>Пройти заново</button>
+        <p className={styles.summary}>Верно: {score} · Ошибок: {wrong.length}</p>
+        {wrong.length === 0 && <p>Все ответы верны! 🎉</p>}
+        {questions.map((q, qi) => {
+          const sel = answers[q.id] ?? [];
+          const ok = isCorrect(sel, q.correct);
+          return (
+            <fieldset key={q.id} className={`${styles.q} ${ok ? styles.qOk : styles.qBad}`}>
+              <legend>
+                <b>{qi + 1}.</b> {q.question}{' '}
+                <span className={ok ? styles.badgeOk : styles.badgeBad}>
+                  {ok ? '✔ Верно' : '✘ Ошибка'}
+                </span>
+              </legend>
+              {q.options.map((opt, idx) => {
+                const st = optionStatus(idx, q.correct, sel);
+                const n = note(st);
+                return (
+                  <div key={idx} className={`${styles.review} ${optClass[st]}`}>
+                    <span className={styles.mark}>{mark(st)}</span> {opt}
+                    {n && <em className={styles.note}> — {n}</em>}
+                  </div>
+                );
+              })}
+              {!ok && (
+                <div className={styles.topic}>
+                  <Link to={q.topicUrl}>Разобрать тему →</Link>
+                </div>
+              )}
+            </fieldset>
+          );
+        })}
+        <button className="button button--primary button--lg" onClick={start}>Пройти заново</button>
       </div>
     );
   }

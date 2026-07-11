@@ -2,6 +2,13 @@
 .q { margin: 1rem 0; padding: 1rem; border: 1px solid var(--ifm-color-emphasis-300); border-radius: 8px; }
 .opt { display: block; margin: 0.35rem 0; cursor: pointer; }
 
+/* Section picker */
+.sections { display: inline-flex; flex-direction: column; gap: 0.4rem; text-align: left; margin: 0.5rem auto 1rem; }
+.sectionOpt { cursor: pointer; }
+.count { color: var(--ifm-color-emphasis-600); }
+.hint { color: var(--ifm-color-danger); }
+.actions { display: flex; gap: 0.75rem; flex-wrap: wrap; margin-top: 1rem; }
+
 /* Results review */
 .summary { color: var(--ifm-color-emphasis-700); margin-bottom: 1rem; }
 .qOk { border-left: 4px solid var(--ifm-color-success); }

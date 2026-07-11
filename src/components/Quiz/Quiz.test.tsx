@@ -9,6 +9,7 @@ vi.mock('./bank', () => ({
   loadQuizBank: () => [
     {
       id: 'q-single',
+      section: 'manual-qa',
       category: 'Demo',
       question: 'Столица Франции?',
       options: ['Париж', 'Лондон', 'Берлин', 'Рим', 'Мадрид'],
@@ -17,6 +18,7 @@ vi.mock('./bank', () => ({
     },
     {
       id: 'q-multi',
+      section: 'automation-qa',
       category: 'Demo',
       question: 'Какие числа чётные?',
       options: ['1', '2', '3', '4', '5'],
@@ -68,5 +70,23 @@ describe('Quiz results breakdown', () => {
     const topicLinks = screen.getAllByRole('link', {name: /Разобрать тему/});
     expect(topicLinks).toHaveLength(1);
     expect(topicLinks[0].getAttribute('href')).toBe('/docs/multi');
+  });
+
+  it('draws questions only from the selected sections', () => {
+    render(<Quiz />);
+    // deselect Automation QA, leaving only Manual QA
+    fireEvent.click(screen.getByLabelText(/Automation QA/));
+    fireEvent.click(screen.getByRole('button', {name: 'Пройти тест'}));
+
+    expect(screen.getByText('Столица Франции?')).toBeTruthy();
+    expect(screen.queryByText('Какие числа чётные?')).toBeNull();
+  });
+
+  it('disables the start button when no section is selected', () => {
+    render(<Quiz />);
+    fireEvent.click(screen.getByLabelText(/Manual QA/));
+    fireEvent.click(screen.getByLabelText(/Automation QA/));
+    const btn = screen.getByRole('button', {name: 'Пройти тест'}) as HTMLButtonElement;
+    expect(btn.disabled).toBe(true);
   });
 });

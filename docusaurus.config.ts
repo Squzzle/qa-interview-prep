@@ -1,12 +1,19 @@
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
+// URL/base path are overridable via env so the same build works both for the
+// nginx/Docker (root) deploy and for GitHub Pages (served under /<repo>/).
+// The GitHub Actions workflow injects SITE_URL and BASE_URL from the repo
+// context; locally they default to root so Docker/minikube keep working.
 const config: Config = {
   title: 'QA Interview Prep',
   tagline: 'Подготовка к собеседованиям по тестированию (2025–2026)',
   favicon: 'img/favicon.ico',
-  url: 'http://localhost',
-  baseUrl: '/',
+  url: process.env.SITE_URL || 'http://localhost',
+  baseUrl: process.env.BASE_URL || '/',
+  trailingSlash: false,
+  organizationName: process.env.GH_ORG || 'your-github-username',
+  projectName: process.env.GH_REPO || 'qa-interview-prep',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   i18n: {defaultLocale: 'ru', locales: ['ru']},

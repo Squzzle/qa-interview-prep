@@ -1,0 +1,162 @@
+[
+  {
+    "section": "typescript",
+    "block": "voprosy-typescript",
+    "blockLabel": "Собеседование по TypeScript",
+    "position": 1,
+    "slug": "chto-takoe-typescript-i-zachem-ispolzovat-ego-vmesto",
+    "question": "Что такое TypeScript и зачем использовать его вместо JavaScript?"
+  },
+  {
+    "section": "typescript",
+    "block": "voprosy-typescript",
+    "blockLabel": "Собеседование по TypeScript",
+    "position": 1,
+    "slug": "rasskazhite-ob-obobschennyh-tipah-generics-v-typescript",
+    "question": "Расскажите об обобщённых типах (generics) в TypeScript."
+  },
+  {
+    "section": "typescript",
+    "block": "voprosy-typescript",
+    "blockLabel": "Собеседование по TypeScript",
+    "position": 1,
+    "slug": "podderzhivaet-li-typescript-vse-principy-obektno-orientirova",
+    "question": "Поддерживает ли TypeScript все принципы объектно-ориентированного программирования?"
+  },
+  {
+    "section": "typescript",
+    "block": "voprosy-typescript",
+    "blockLabel": "Собеседование по TypeScript",
+    "position": 1,
+    "slug": "kak-v-typescript-proveryat-znacheniya-na-ravenstvo-null",
+    "question": "Как в TypeScript проверять значения на равенство null и undefined?"
+  },
+  {
+    "section": "typescript",
+    "block": "voprosy-typescript",
+    "blockLabel": "Собеседование по TypeScript",
+    "position": 1,
+    "slug": "kak-v-typescript-realizovat-svoystva-klassa-yavlyayuschiesya",
+    "question": "Как в TypeScript реализовать свойства класса, являющиеся константами?"
+  },
+  {
+    "section": "typescript",
+    "block": "voprosy-typescript",
+    "blockLabel": "Собеседование по TypeScript",
+    "position": 1,
+    "slug": "chto-predstavlyayut-soboy-map-fayly-source-maps-v",
+    "question": "Что представляют собой .map-файлы (source maps) в TypeScript?"
+  },
+  {
+    "section": "typescript",
+    "block": "voprosy-typescript",
+    "blockLabel": "Собеседование по TypeScript",
+    "position": 1,
+    "slug": "chto-takoe-gettery-i-settery-v-typescript",
+    "question": "Что такое геттеры и сеттеры в TypeScript?"
+  },
+  {
+    "section": "typescript",
+    "block": "voprosy-typescript",
+    "blockLabel": "Собеседование по TypeScript",
+    "position": 1,
+    "slug": "mozhno-li-ispolzovat-typescript-v-servernoy-razrabotke-i",
+    "question": "Можно ли использовать TypeScript в серверной разработке, и если да — то как?"
+  },
+  {
+    "section": "typescript",
+    "block": "voprosy-typescript",
+    "blockLabel": "Собеседование по TypeScript",
+    "position": 1,
+    "slug": "rasskazhite-ob-osnovnyh-komponentah-typescript",
+    "question": "Расскажите об основных компонентах TypeScript."
+  },
+  {
+    "section": "typescript",
+    "block": "voprosy-typescript",
+    "blockLabel": "Собеседование по TypeScript",
+    "position": 1,
+    "slug": "kak-nahodit-oshibki-tipizacii-v-typescript-kode-razberite",
+    "question": "Как находить ошибки типизации в TypeScript-коде? Разберите типичные ошибки на примере."
+  },
+  {
+    "section": "typescript",
+    "block": "voprosy-typescript",
+    "blockLabel": "Собеседование по TypeScript",
+    "position": 1,
+    "slug": "rasskazhite-ob-ispolzovanii-dekoratorov-svoystv-v-typescript",
+    "question": "Расскажите об использовании декораторов свойств в TypeScript."
+  },
+  {
+    "section": "typescript",
+    "block": "voprosy-typescript",
+    "blockLabel": "Собеседование по TypeScript",
+    "position": 1,
+    "slug": "mozhno-li-v-typescript-ispolzovat-strogo-tipizirovannye-funk",
+    "question": "Можно ли в TypeScript использовать строго типизированные функции в качестве параметров?"
+  },
+  {
+    "section": "typescript",
+    "block": "voprosy-typescript",
+    "blockLabel": "Собеседование по TypeScript",
+    "position": 1,
+    "slug": "kak-sdelat-tak-chtoby-klassy-obyavlennye-v-module",
+    "question": "Как сделать так, чтобы классы, объявленные в модуле, были доступны за его пределами?"
+  },
+  {
+    "section": "typescript",
+    "block": "voprosy-typescript",
+    "blockLabel": "Собеседование по TypeScript",
+    "position": 1,
+    "slug": "podderzhivaet-li-typescript-peregruzku-funkciy",
+    "question": "Поддерживает ли TypeScript перегрузку функций?"
+  },
+  {
+    "section": "typescript",
+    "block": "voprosy-typescript",
+    "blockLabel": "Собеседование по TypeScript",
+    "position": 1,
+    "slug": "kakie-rasprostranennye-oshibki-vstrechayutsya-v-typescript-k",
+    "question": "Какие распространённые ошибки встречаются в TypeScript-коде и как их избежать?"
+  },
+  {
+    "section": "typescript",
+    "block": "voprosy-typescript",
+    "blockLabel": "Собеседование по TypeScript",
+    "position": 1,
+    "slug": "kak-v-typescript-peregruzit-konstruktor-klassa",
+    "question": "Как в TypeScript перегрузить конструктор класса?"
+  },
+  {
+    "section": "typescript",
+    "block": "voprosy-typescript",
+    "blockLabel": "Собеседование по TypeScript",
+    "position": 1,
+    "slug": "chem-razlichayutsya-klyuchevye-slova-interface-i-type-v",
+    "question": "Чем различаются ключевые слова interface и type в TypeScript?"
+  },
+  {
+    "section": "typescript",
+    "block": "voprosy-typescript",
+    "blockLabel": "Собеседование по TypeScript",
+    "position": 1,
+    "slug": "rasskazhite-o-tom-kogda-v-typescript-ispolzuyut-klyuchevoe",
+    "question": "Расскажите о том, когда в TypeScript используют ключевое слово declare."
+  },
+  {
+    "section": "typescript",
+    "block": "voprosy-typescript",
+    "blockLabel": "Собеседование по TypeScript",
+    "position": 1,
+    "slug": "chto-takoe-vneshnie-obyavleniya-peremennyh-ambient-declarati",
+    "question": "Что такое внешние объявления переменных (ambient declarations) в TypeScript и когда их нужно использовать?"
+  },
+  {
+    "section": "typescript",
+    "block": "voprosy-typescript",
+    "blockLabel": "Собеседование по TypeScript",
+    "position": 1,
+    "slug": "mozhno-li-avtomaticheski-generirovat-fayly-obyavleniy-typesc",
+    "question": "Можно ли автоматически генерировать файлы объявлений TypeScript из JS-библиотек?"
+  }
+]

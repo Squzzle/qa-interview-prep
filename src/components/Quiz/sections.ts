@@ -1,13 +1,14 @@
 // Section metadata + helpers for the quiz. A "section" is one top-level area of
 // the question bank (one data/quiz/<section>.json file).
 
-export const SECTION_ORDER = ['manual-qa', 'automation-qa', 'sql', 'hr'];
+export const SECTION_ORDER = ['manual-qa', 'automation-qa', 'sql', 'hr', 'typescript'];
 
 export const SECTION_LABELS: Record<string, string> = {
   'manual-qa': 'Manual QA — теория',
   'automation-qa': 'Automation QA',
   sql: 'Лайвкодинг SQL',
   hr: 'HR и вопросы интервьюеру',
+  typescript: 'TypeScript',
 };
 
 export function sectionLabel(key: string): string {

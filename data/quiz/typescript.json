@@ -1,0 +1,114 @@
+[
+  {
+    "id": "typescript__voprosy-typescript__q1",
+    "category": "Собеседование по TypeScript",
+    "question": "Что верно описывает TypeScript по отношению к JavaScript?",
+    "options": [
+      "TypeScript — надмножество JavaScript со статической типизацией",
+      "TypeScript компилируется (транспилируется) в обычный JavaScript",
+      "TypeScript полностью заменяет JavaScript в браузере без компиляции",
+      "TypeScript позволяет находить часть ошибок ещё на этапе разработки, до выполнения кода",
+      "Любой валидный JavaScript-код является валидным TypeScript-кодом"
+    ],
+    "correct": [0, 1, 3, 4],
+    "topicUrl": "/docs/typescript/voprosy-typescript/chto-takoe-typescript-i-zachem-ispolzovat-ego-vmesto"
+  },
+  {
+    "id": "typescript__voprosy-typescript__q2",
+    "category": "Собеседование по TypeScript",
+    "question": "Что верно про обобщённые типы (generics) в TypeScript?",
+    "options": [
+      "Generics позволяют писать переиспользуемый код, работающий с разными типами без потери типобезопасности",
+      "Тип-параметр обычно обозначают буквой T (или другой заглавной буквой), но это не обязательное правило языка",
+      "Generics можно ограничивать с помощью extends, например T extends object",
+      "Generics существуют только для функций и не могут применяться к классам или интерфейсам",
+      "Generics полностью удаляются при компиляции в JavaScript и не влияют на рантайм"
+    ],
+    "correct": [0, 1, 2, 4],
+    "topicUrl": "/docs/typescript/voprosy-typescript/rasskazhite-ob-obobschennyh-tipah-generics-v-typescript"
+  },
+  {
+    "id": "typescript__voprosy-typescript__q3",
+    "category": "Собеседование по TypeScript",
+    "question": "Как в TypeScript правильно проверить значение на null или undefined?",
+    "options": [
+      "Использовать оператор нестрогого сравнения: value == null (ловит и null, и undefined)",
+      "Использовать оператор опциональной цепочки ?. вместе с оператором нулевого слияния ??",
+      "Использовать typeof value === 'null'",
+      "Использовать value === null && value === undefined",
+      "Использовать non-null assertion оператор value!, чтобы гарантированно проверить значение на null"
+    ],
+    "correct": [0, 1],
+    "topicUrl": "/docs/typescript/voprosy-typescript/kak-v-typescript-proveryat-znacheniya-na-ravenstvo-null"
+  },
+  {
+    "id": "typescript__voprosy-typescript__q4",
+    "category": "Собеседование по TypeScript",
+    "question": "Как объявить константное (неизменяемое) свойство класса в TypeScript?",
+    "options": [
+      "Использовать модификатор readonly у свойства класса",
+      "Использовать static readonly для константы уровня класса",
+      "Использовать модификатор const прямо перед именем свойства класса",
+      "Объявить свойство через геттер без соответствующего сеттера",
+      "Использовать enum вместо свойства класса"
+    ],
+    "correct": [0, 1, 3],
+    "topicUrl": "/docs/typescript/voprosy-typescript/kak-v-typescript-realizovat-svoystva-klassa-yavlyayuschiesya"
+  },
+  {
+    "id": "typescript__voprosy-typescript__q5",
+    "category": "Собеседование по TypeScript",
+    "question": "Чем различаются interface и type в TypeScript?",
+    "options": [
+      "Несколько объявлений interface с одним именем автоматически объединяются (declaration merging), для type это невозможно",
+      "type может описывать union и intersection типы, а также примитивы и кортежи, interface — нет",
+      "interface может расширяться (extends) другим interface или классом",
+      "type никогда не может описывать объектные типы, только примитивы",
+      "interface нельзя использовать для описания формы объекта"
+    ],
+    "correct": [0, 1, 2],
+    "topicUrl": "/docs/typescript/voprosy-typescript/chem-razlichayutsya-klyuchevye-slova-interface-i-type-v"
+  },
+  {
+    "id": "typescript__voprosy-typescript__q6",
+    "category": "Собеседование по TypeScript",
+    "question": "Что известно о перегрузке функций и конструкторов в TypeScript?",
+    "options": [
+      "TypeScript поддерживает описание нескольких сигнатур перегрузки для одной функции",
+      "Реализация перегруженной функции пишется одна, а над ней объявляются сигнатуры-перегрузки",
+      "Конструктор класса тоже можно перегрузить, описав несколько сигнатур перед единственной реализацией",
+      "Перегрузка функций в TypeScript порождает несколько отдельных функций в скомпилированном JS-коде",
+      "Перегрузка возможна только для методов интерфейсов, но не для обычных функций"
+    ],
+    "correct": [0, 1, 2],
+    "topicUrl": "/docs/typescript/voprosy-typescript/podderzhivaet-li-typescript-peregruzku-funkciy"
+  },
+  {
+    "id": "typescript__voprosy-typescript__q7",
+    "category": "Собеседование по TypeScript",
+    "question": "Для чего в TypeScript используется ключевое слово declare?",
+    "options": [
+      "Для описания типов уже существующих переменных, функций или модулей без реализации (ambient declarations)",
+      "Для интеграции типов сторонних JS-библиотек, у которых нет собственных .d.ts файлов",
+      "declare-объявления компилируются в исполняемый JavaScript-код",
+      "Для описания глобальных переменных, добавляемых, например, через тег <script>",
+      "declare используется только внутри классов для объявления приватных полей"
+    ],
+    "correct": [0, 1, 3],
+    "topicUrl": "/docs/typescript/voprosy-typescript/rasskazhite-o-tom-kogda-v-typescript-ispolzuyut-klyuchevoe"
+  },
+  {
+    "id": "typescript__voprosy-typescript__q8",
+    "category": "Собеседование по TypeScript",
+    "question": "Что верно про файлы объявлений типов (.d.ts) и генерацию типов из JS-библиотек?",
+    "options": [
+      "TypeScript-компилятор может автоматически генерировать .d.ts файлы через опцию declaration в tsconfig.json",
+      "Существует утилита dts-gen, а также инструмент tsc --allowJs --declaration для генерации типов из JS-кода",
+      "Для многих популярных JS-библиотек типы уже готовы в пакетах @types/*",
+      "Файлы .d.ts содержат исполняемую логику наравне с обычными .ts файлами",
+      "Сгенерировать декларации типов из чистого JavaScript в принципе невозможно"
+    ],
+    "correct": [0, 1, 2],
+    "topicUrl": "/docs/typescript/voprosy-typescript/mozhno-li-avtomaticheski-generirovat-fayly-obyavleniy-typesc"
+  }
+]

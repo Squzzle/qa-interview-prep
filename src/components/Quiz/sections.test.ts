@@ -12,6 +12,7 @@ describe('sectionLabel', () => {
   it('maps known sections to human labels', () => {
     expect(sectionLabel('manual-qa')).toBe('Manual QA — теория');
     expect(sectionLabel('sql')).toBe('Лайвкодинг SQL');
+    expect(sectionLabel('typescript')).toBe('TypeScript');
   });
   it('falls back to the key for unknown sections', () => {
     expect(sectionLabel('unknown-x')).toBe('unknown-x');

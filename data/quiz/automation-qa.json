@@ -1691,5 +1691,111 @@
       2
     ],
     "topicUrl": "/docs/automation-qa/test-ranery/kakie-suschestvuyut-sposoby-povtornogo-zapuska-upavshih-test"
+  },
+  {
+    "id": "automation-qa__arhitektura-freymvorka__solid1",
+    "category": "Архитектура фреймворка",
+    "question": "Что из перечисленного относится к принципам SOLID?",
+    "options": [
+      "Single Responsibility (единственная ответственность)",
+      "Open/Closed (открытость/закрытость)",
+      "DRY (Don’t Repeat Yourself)",
+      "Dependency Inversion (инверсия зависимостей)",
+      "KISS (Keep It Simple)"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "topicUrl": "/docs/automation-qa/arhitektura-freymvorka/chto-takoe-principy-solid-i-zachem-oni-nuzhny"
+  },
+  {
+    "id": "automation-qa__arhitektura-freymvorka__solid2",
+    "category": "Архитектура фреймворка",
+    "question": "Что утверждает принцип единственной ответственности (SRP)?",
+    "options": [
+      "У класса/модуля должна быть только одна причина для изменения",
+      "Класс отвечает за одну задачу (ответственность)",
+      "Класс не должен иметь более одного метода",
+      "Page Object не стоит смешивать с логикой ассертов — это разные ответственности",
+      "Класс может наследоваться только от одного родителя"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "topicUrl": "/docs/automation-qa/arhitektura-freymvorka/chto-takoe-princip-edinstvennoy-otvetstvennosti-srp-single-r"
+  },
+  {
+    "id": "automation-qa__arhitektura-freymvorka__solid3",
+    "category": "Архитектура фреймворка",
+    "question": "Что означает принцип открытости/закрытости (OCP)?",
+    "options": [
+      "Сущности открыты для расширения, но закрыты для модификации",
+      "Новое поведение добавляется расширением (наследование/композиция/полиморфизм), а не правкой готового кода",
+      "Все поля класса должны быть private",
+      "Добавление нового драйвера/репортёра не должно требовать переписывания ядра фреймворка",
+      "Класс нельзя расширять после написания"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "topicUrl": "/docs/automation-qa/arhitektura-freymvorka/chto-takoe-princip-otkrytosti-zakrytosti-ocp-open-closed"
+  },
+  {
+    "id": "automation-qa__arhitektura-freymvorka__solid4",
+    "category": "Архитектура фреймворка",
+    "question": "Что описывает принцип подстановки Барбары Лисков (LSP)?",
+    "options": [
+      "Объект подкласса подставляется вместо базового без нарушения корректности программы",
+      "Подкласс не должен усиливать предусловия и ослаблять постусловия базового класса",
+      "Наследование запрещено",
+      "Подкласс может менять контракт метода как угодно",
+      "Все методы класса должны быть абстрактными"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/automation-qa/arhitektura-freymvorka/chto-takoe-princip-podstanovki-barbary-liskov-lsp-liskov"
+  },
+  {
+    "id": "automation-qa__arhitektura-freymvorka__solid5",
+    "category": "Архитектура фреймворка",
+    "question": "Что рекомендует принцип разделения интерфейсов (ISP)?",
+    "options": [
+      "Несколько узких специализированных интерфейсов лучше одного «толстого»",
+      "Клиент не должен зависеть от методов интерфейса, которые не использует",
+      "Все классы обязаны реализовывать один общий интерфейс",
+      "Интерфейсы нужно делать как можно больше, чтобы покрыть всё сразу",
+      "Интерфейсы вообще не нужны"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/automation-qa/arhitektura-freymvorka/chto-takoe-princip-razdeleniya-interfeysov-isp-interface-seg"
+  },
+  {
+    "id": "automation-qa__arhitektura-freymvorka__solid6",
+    "category": "Архитектура фреймворка",
+    "question": "Что утверждает принцип инверсии зависимостей (DIP)?",
+    "options": [
+      "Модули верхнего уровня не зависят от нижнего — оба зависят от абстракций",
+      "Детали зависят от абстракций, а не наоборот",
+      "Тест должен зависеть от абстракции драйвера (интерфейса), а не от конкретного Selenium/Playwright",
+      "Зависимости всегда нужно создавать через new внутри класса",
+      "Абстракции не нужны, если код работает"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/arhitektura-freymvorka/chto-takoe-princip-inversii-zavisimostey-dip-dependency-inve"
   }
 ]

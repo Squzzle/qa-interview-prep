@@ -1142,5 +1142,53 @@
     "position": 12,
     "slug": "kakie-programmy-i-instrumenty-vhodyat-v-skoup-nabor",
     "question": "Какие программы и инструменты входят в \"скоуп\" (набор) для запуска мобильных тестов (Appium Server, эмуляторы/симуляторы, реальные устройства)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "arhitektura-freymvorka",
+    "blockLabel": "Архитектура фреймворка",
+    "position": 10,
+    "slug": "chto-takoe-principy-solid-i-zachem-oni-nuzhny",
+    "question": "Что такое принципы SOLID и зачем они нужны в автоматизации тестирования?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "arhitektura-freymvorka",
+    "blockLabel": "Архитектура фреймворка",
+    "position": 10,
+    "slug": "chto-takoe-princip-edinstvennoy-otvetstvennosti-srp-single-r",
+    "question": "Что такое принцип единственной ответственности (SRP, Single Responsibility Principle)? Приведите пример в автотестах."
+  },
+  {
+    "section": "automation-qa",
+    "block": "arhitektura-freymvorka",
+    "blockLabel": "Архитектура фреймворка",
+    "position": 10,
+    "slug": "chto-takoe-princip-otkrytosti-zakrytosti-ocp-open-closed",
+    "question": "Что такое принцип открытости/закрытости (OCP, Open/Closed Principle) и как применять его во фреймворке автотестов?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "arhitektura-freymvorka",
+    "blockLabel": "Архитектура фреймворка",
+    "position": 10,
+    "slug": "chto-takoe-princip-podstanovki-barbary-liskov-lsp-liskov",
+    "question": "Что такое принцип подстановки Барбары Лисков (LSP, Liskov Substitution Principle)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "arhitektura-freymvorka",
+    "blockLabel": "Архитектура фреймворка",
+    "position": 10,
+    "slug": "chto-takoe-princip-razdeleniya-interfeysov-isp-interface-seg",
+    "question": "Что такое принцип разделения интерфейсов (ISP, Interface Segregation Principle)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "arhitektura-freymvorka",
+    "blockLabel": "Архитектура фреймворка",
+    "position": 10,
+    "slug": "chto-takoe-princip-inversii-zavisimostey-dip-dependency-inve",
+    "question": "Что такое принцип инверсии зависимостей (DIP, Dependency Inversion Principle) и как он помогает в автотестах?"
   }
 ]

@@ -1797,5 +1797,174 @@
       2
     ],
     "topicUrl": "/docs/automation-qa/arhitektura-freymvorka/chto-takoe-princip-inversii-zavisimostey-dip-dependency-inve"
+  },
+  {
+    "id": "automation-qa__patterny-proektirovaniya__q1",
+    "category": "Паттерны проектирования (GoF)",
+    "question": "На какие основные группы делятся паттерны проектирования GoF?",
+    "options": [
+      "Порождающие, структурные, поведенческие",
+      "Функциональные, объектные, событийные",
+      "Синхронные, асинхронные, гибридные",
+      "Архитектурные, интеграционные, тестовые",
+      "Клиентские, серверные, сетевые"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/automation-qa/patterny-proektirovaniya/chto-takoe-patterny-proektirovaniya-i-na-kakie-gruppy"
+  },
+  {
+    "id": "automation-qa__patterny-proektirovaniya__q2",
+    "category": "Паттерны проектирования (GoF)",
+    "question": "Что характерно для паттерна Singleton (Одиночка)?",
+    "options": [
+      "Гарантирует существование единственного экземпляра класса и предоставляет глобальную точку доступа к нему",
+      "Может усложнять модульное тестирование из-за скрытого глобального состояния",
+      "Является порождающим паттерном",
+      "Всегда создаёт новый объект при каждом вызове",
+      "Определяет семейство алгоритмов и делает их взаимозаменяемыми"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/patterny-proektirovaniya/chto-takoe-pattern-odinochka-singleton-privedite-primer-i"
+  },
+  {
+    "id": "automation-qa__patterny-proektirovaniya__q3",
+    "category": "Паттерны проектирования (GoF)",
+    "question": "В чём разница между Factory Method и Abstract Factory?",
+    "options": [
+      "Factory Method создаёт объекты через один метод, переопределяемый в подклассах, а Abstract Factory создаёт семейства связанных объектов",
+      "Abstract Factory всегда создаёт только один объект",
+      "Factory Method — структурный паттерн, Abstract Factory — поведенческий",
+      "Abstract Factory обычно использует несколько фабричных методов внутри себя",
+      "Factory Method и Abstract Factory — это одно и то же"
+    ],
+    "correct": [
+      0,
+      3
+    ],
+    "topicUrl": "/docs/automation-qa/patterny-proektirovaniya/chto-takoe-pattern-fabrichnyy-metod-factory-method"
+  },
+  {
+    "id": "automation-qa__patterny-proektirovaniya__q4",
+    "category": "Паттерны проектирования (GoF)",
+    "question": "Какой паттерн используется для пошагового создания сложного объекта с одинаковым процессом конструирования, но разными представлениями результата?",
+    "options": [
+      "Builder (Строитель)",
+      "Prototype (Прототип)",
+      "Singleton (Одиночка)",
+      "Composite (Компоновщик)",
+      "Adapter (Адаптер)"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/automation-qa/patterny-proektirovaniya/chto-takoe-pattern-stroitel-builder"
+  },
+  {
+    "id": "automation-qa__patterny-proektirovaniya__q5",
+    "category": "Паттерны проектирования (GoF)",
+    "question": "Какие паттерны относятся к структурным?",
+    "options": [
+      "Adapter (Адаптер)",
+      "Decorator (Декоратор)",
+      "Facade (Фасад)",
+      "Observer (Наблюдатель)",
+      "Strategy (Стратегия)"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "topicUrl": "/docs/automation-qa/patterny-proektirovaniya/chto-takoe-pattern-adapter-adapter"
+  },
+  {
+    "id": "automation-qa__patterny-proektirovaniya__q6",
+    "category": "Паттерны проектирования (GoF)",
+    "question": "Что делает паттерн Decorator (Декоратор)?",
+    "options": [
+      "Динамически добавляет объекту новую функциональность, оборачивая его в объект-обёртку с тем же интерфейсом",
+      "Создаёт копию существующего объекта без обращения к его классу",
+      "Скрывает сложность подсистемы за единым упрощённым интерфейсом",
+      "Предоставляет альтернативу наследованию для расширения поведения",
+      "Управляет доступом к другому объекту, контролируя обращения к нему"
+    ],
+    "correct": [
+      0,
+      3
+    ],
+    "topicUrl": "/docs/automation-qa/patterny-proektirovaniya/chto-takoe-pattern-dekorator-decorator"
+  },
+  {
+    "id": "automation-qa__patterny-proektirovaniya__q7",
+    "category": "Паттерны проектирования (GoF)",
+    "question": "Чем Proxy (Заместитель) отличается от Decorator?",
+    "options": [
+      "Proxy контролирует доступ к объекту (например, ленивую загрузку, кэширование, права доступа), а Decorator добавляет новое поведение",
+      "Proxy и Decorator имеют одинаковую структуру (объект-обёртка с тем же интерфейсом), но разное назначение",
+      "Decorator всегда используется только для логирования запросов",
+      "Proxy — это поведенческий паттерн, а Decorator — порождающий",
+      "Proxy не может ограничивать доступ к объекту"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "topicUrl": "/docs/automation-qa/patterny-proektirovaniya/chto-takoe-pattern-zamestitel-proxy"
+  },
+  {
+    "id": "automation-qa__patterny-proektirovaniya__q8",
+    "category": "Паттерны проектирования (GoF)",
+    "question": "Какой паттерн определяет способ уведомления множества объектов об изменении состояния одного объекта (подписка/публикация)?",
+    "options": [
+      "Observer (Наблюдатель)",
+      "Mediator (Посредник)",
+      "State (Состояние)",
+      "Visitor (Посетитель)",
+      "Command (Команда)"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/automation-qa/patterny-proektirovaniya/chto-takoe-pattern-nablyudatel-observer"
+  },
+  {
+    "id": "automation-qa__patterny-proektirovaniya__q9",
+    "category": "Паттерны проектирования (GoF)",
+    "question": "Что общего и различного у паттернов Strategy и State?",
+    "options": [
+      "Оба инкапсулируют поведение в отдельные классы и делегируют выполнение контекстом",
+      "Strategy позволяет клиенту явно выбирать алгоритм, а State меняет поведение автоматически при смене внутреннего состояния объекта",
+      "State используется для определения семейства взаимозаменяемых алгоритмов, а Strategy — для конечных автоматов",
+      "Оба относятся к поведенческим паттернам",
+      "Strategy и State — синонимы одного и того же паттерна"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "topicUrl": "/docs/automation-qa/patterny-proektirovaniya/chto-takoe-pattern-strategiya-strategy"
+  },
+  {
+    "id": "automation-qa__patterny-proektirovaniya__q10",
+    "category": "Паттерны проектирования (GoF)",
+    "question": "Какой паттерн определяет скелет алгоритма в базовом классе, позволяя подклассам переопределять отдельные шаги без изменения структуры алгоритма?",
+    "options": [
+      "Template Method (Шаблонный метод)",
+      "Chain of Responsibility (Цепочка обязанностей)",
+      "Iterator (Итератор)",
+      "Memento (Снимок)",
+      "Interpreter (Интерпретатор)"
+    ],
+    "correct": [
+      0
+    ],
+    "topicUrl": "/docs/automation-qa/patterny-proektirovaniya/chto-takoe-pattern-shablonnyy-metod-template-method"
   }
 ]

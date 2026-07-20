@@ -1190,5 +1190,197 @@
     "position": 10,
     "slug": "chto-takoe-princip-inversii-zavisimostey-dip-dependency-inve",
     "question": "Что такое принцип инверсии зависимостей (DIP, Dependency Inversion Principle) и как он помогает в автотестах?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "patterny-proektirovaniya",
+    "blockLabel": "Паттерны проектирования (GoF)",
+    "position": 13,
+    "slug": "chto-takoe-patterny-proektirovaniya-i-na-kakie-gruppy",
+    "question": "Что такое паттерны проектирования и на какие группы они делятся?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "patterny-proektirovaniya",
+    "blockLabel": "Паттерны проектирования (GoF)",
+    "position": 13,
+    "slug": "chto-takoe-pattern-odinochka-singleton-privedite-primer-i",
+    "question": "Что такое паттерн Одиночка (Singleton)? Приведите пример и подводные камни."
+  },
+  {
+    "section": "automation-qa",
+    "block": "patterny-proektirovaniya",
+    "blockLabel": "Паттерны проектирования (GoF)",
+    "position": 13,
+    "slug": "chto-takoe-pattern-fabrichnyy-metod-factory-method",
+    "question": "Что такое паттерн Фабричный метод (Factory Method)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "patterny-proektirovaniya",
+    "blockLabel": "Паттерны проектирования (GoF)",
+    "position": 13,
+    "slug": "chto-takoe-pattern-abstraktnaya-fabrika-abstract-factory",
+    "question": "Что такое паттерн Абстрактная фабрика (Abstract Factory)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "patterny-proektirovaniya",
+    "blockLabel": "Паттерны проектирования (GoF)",
+    "position": 13,
+    "slug": "chto-takoe-pattern-stroitel-builder",
+    "question": "Что такое паттерн Строитель (Builder)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "patterny-proektirovaniya",
+    "blockLabel": "Паттерны проектирования (GoF)",
+    "position": 13,
+    "slug": "chto-takoe-pattern-prototip-prototype",
+    "question": "Что такое паттерн Прототип (Prototype)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "patterny-proektirovaniya",
+    "blockLabel": "Паттерны проектирования (GoF)",
+    "position": 13,
+    "slug": "chto-takoe-pattern-adapter-adapter",
+    "question": "Что такое паттерн Адаптер (Adapter)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "patterny-proektirovaniya",
+    "blockLabel": "Паттерны проектирования (GoF)",
+    "position": 13,
+    "slug": "chto-takoe-pattern-most-bridge",
+    "question": "Что такое паттерн Мост (Bridge)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "patterny-proektirovaniya",
+    "blockLabel": "Паттерны проектирования (GoF)",
+    "position": 13,
+    "slug": "chto-takoe-pattern-komponovschik-composite",
+    "question": "Что такое паттерн Компоновщик (Composite)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "patterny-proektirovaniya",
+    "blockLabel": "Паттерны проектирования (GoF)",
+    "position": 13,
+    "slug": "chto-takoe-pattern-dekorator-decorator",
+    "question": "Что такое паттерн Декоратор (Decorator)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "patterny-proektirovaniya",
+    "blockLabel": "Паттерны проектирования (GoF)",
+    "position": 13,
+    "slug": "chto-takoe-pattern-fasad-facade",
+    "question": "Что такое паттерн Фасад (Facade)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "patterny-proektirovaniya",
+    "blockLabel": "Паттерны проектирования (GoF)",
+    "position": 13,
+    "slug": "chto-takoe-pattern-prisposoblenec-flyweight",
+    "question": "Что такое паттерн Приспособленец (Flyweight)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "patterny-proektirovaniya",
+    "blockLabel": "Паттерны проектирования (GoF)",
+    "position": 13,
+    "slug": "chto-takoe-pattern-zamestitel-proxy",
+    "question": "Что такое паттерн Заместитель (Proxy)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "patterny-proektirovaniya",
+    "blockLabel": "Паттерны проектирования (GoF)",
+    "position": 13,
+    "slug": "chto-takoe-pattern-cepochka-obyazannostey-chain-of-responsib",
+    "question": "Что такое паттерн Цепочка обязанностей (Chain of Responsibility)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "patterny-proektirovaniya",
+    "blockLabel": "Паттерны проектирования (GoF)",
+    "position": 13,
+    "slug": "chto-takoe-pattern-komanda-command",
+    "question": "Что такое паттерн Команда (Command)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "patterny-proektirovaniya",
+    "blockLabel": "Паттерны проектирования (GoF)",
+    "position": 13,
+    "slug": "chto-takoe-pattern-iterator-iterator",
+    "question": "Что такое паттерн Итератор (Iterator)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "patterny-proektirovaniya",
+    "blockLabel": "Паттерны проектирования (GoF)",
+    "position": 13,
+    "slug": "chto-takoe-pattern-posrednik-mediator",
+    "question": "Что такое паттерн Посредник (Mediator)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "patterny-proektirovaniya",
+    "blockLabel": "Паттерны проектирования (GoF)",
+    "position": 13,
+    "slug": "chto-takoe-pattern-snimok-memento",
+    "question": "Что такое паттерн Снимок (Memento)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "patterny-proektirovaniya",
+    "blockLabel": "Паттерны проектирования (GoF)",
+    "position": 13,
+    "slug": "chto-takoe-pattern-nablyudatel-observer",
+    "question": "Что такое паттерн Наблюдатель (Observer)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "patterny-proektirovaniya",
+    "blockLabel": "Паттерны проектирования (GoF)",
+    "position": 13,
+    "slug": "chto-takoe-pattern-sostoyanie-state",
+    "question": "Что такое паттерн Состояние (State)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "patterny-proektirovaniya",
+    "blockLabel": "Паттерны проектирования (GoF)",
+    "position": 13,
+    "slug": "chto-takoe-pattern-strategiya-strategy",
+    "question": "Что такое паттерн Стратегия (Strategy)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "patterny-proektirovaniya",
+    "blockLabel": "Паттерны проектирования (GoF)",
+    "position": 13,
+    "slug": "chto-takoe-pattern-shablonnyy-metod-template-method",
+    "question": "Что такое паттерн Шаблонный метод (Template Method)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "patterny-proektirovaniya",
+    "blockLabel": "Паттерны проектирования (GoF)",
+    "position": 13,
+    "slug": "chto-takoe-pattern-posetitel-visitor",
+    "question": "Что такое паттерн Посетитель (Visitor)?"
+  },
+  {
+    "section": "automation-qa",
+    "block": "patterny-proektirovaniya",
+    "blockLabel": "Паттерны проектирования (GoF)",
+    "position": 13,
+    "slug": "chto-takoe-pattern-interpretator-interpreter",
+    "question": "Что такое паттерн Интерпретатор (Interpreter)?"
   }
 ]

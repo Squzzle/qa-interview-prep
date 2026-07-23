@@ -1,0 +1,2432 @@
+[
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-testirovanie",
+    "question": "Что такое тестирование?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "zachem-testirovat-po",
+    "question": "Зачем тестировать ПО?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "kakie-suschestvuyut-etapy-testirovaniya",
+    "question": "Какие существуют этапы тестирования?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "kakie-tipy-testirovaniya-mozhete-nazvat",
+    "question": "Какие типы тестирования можете назвать?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "kakie-urovni-testirovaniya-znaete",
+    "question": "Какие уровни тестирования знаете?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "kakie-tehniki-test-dizayna-znaete",
+    "question": "Какие техники тест-дизайна знаете?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-tehnika-analiza-klassov-ekvivalentnosti",
+    "question": "Что такое техника анализа классов эквивалентности?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-tehnika-analiza-predelnyh-znacheniy-v-chem",
+    "question": "Что такое техника анализа предельных значений? В чем ценность этой техники?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-regression-i-confirmation-testirovanie-kakaya-mez",
+    "question": "Что такое Regression и Confirmation тестирование, какая между ними разница?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "kak-chasto-sleduet-provodit-regressionnoe-testirovanie-produ",
+    "question": "Как часто следует проводить регрессионное тестирование продукта?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "kakie-byvayut-vidy-integracionnogo-testirovaniya",
+    "question": "Какие бывают виды интеграционного тестирования?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-configuration-testing",
+    "question": "Что такое Configuration Testing?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-exploratory-testing",
+    "question": "Что такое Exploratory Testing?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "kakie-suschestvuyut-ui-standarty",
+    "question": "Какие существуют UI-стандарты?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-black-grey-white-box-testing",
+    "question": "Что такое Black/Grey/White Box Testing?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-performance-testing",
+    "question": "Что такое Performance Testing?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-smoke-i-sanity-testirovanie-i-kakaya",
+    "question": "Что такое Smoke и Sanity тестирование и какая между ними разница?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-traceability-matrix",
+    "question": "Что такое Traceability Matrix?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-sanity-testing",
+    "question": "Что такое Sanity Testing?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-end-to-end-test",
+    "question": "Что такое End-to-End тест?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-testirovanie-bezopasnosti",
+    "question": "Что такое тестирование безопасности?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-ispytanie-na-osnove-riskov",
+    "question": "Что такое испытание на основе рисков?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-dinamicheskoe-testirovanie",
+    "question": "Что такое динамическое тестирование?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-paradoks-pesticida",
+    "question": "Что такое «парадокс пестицида»?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "opishite-osnovnye-fazy-stlc-dayte-opredelenie-entry-i",
+    "question": "Опишите основные фазы STLC? Дайте определение Entry и Exit Criteria."
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-bug-error-failure-fault",
+    "question": "Что такое Bug, Error, Failure, Fault?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "kakie-est-atributy-bag-reporta-kakie-osnovnye-polya",
+    "question": "Какие есть атрибуты баг-репорта? Какие основные поля для заполнения?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "kakova-raznica-mezhdu-prioritetom-i-sereznostyu",
+    "question": "Какова разница между приоритетом и серьезностью?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "privedite-primery-sereznogo-no-ne-prioritetnogo-baga",
+    "question": "Приведите примеры серьезного, но не приоритетного бага."
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "v-chem-raznica-mezhdu-validaciey-i-verifikaciey",
+    "question": "В чем разница между валидацией и верификацией?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "zachem-nuzhna-testovaya-dokumentaciya-kakie-ee-vidy",
+    "question": "Зачем нужна тестовая документация? Какие её виды?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-test-plan-kakie-elementy-u-nego",
+    "question": "Что такое тест-план? Какие элементы у него есть?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "kakuyu-obyazatelnuyu-informaciyu-dolzhen-soderzhat-test-plan",
+    "question": "Какую обязательную информацию должен содержать тест-план? Как правильно его использовать, поддерживать и нужен ли он вообще для большинства проектов?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "kakaya-raznica-mezhdu-cheklistom-i-test-keysami",
+    "question": "Какая разница между чеклистом и тест-кейсами?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/teoriya-testirovaniya",
+    "blockLabel": "Теория тестирования",
+    "levelLabel": "Junior",
+    "slug": "privedite-primer-horoshego-test-keysa",
+    "question": "Приведите пример хорошего тест-кейса."
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-programmirovanie",
+    "blockLabel": "AQA — Программирование",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-oop-nazovite-ego-principy-s-primerami",
+    "question": "Что такое ООП? Назовите его принципы с примерами?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-programmirovanie",
+    "blockLabel": "AQA — Программирование",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-interfeys-chto-takoe-abstraktnyy-klass-chem",
+    "question": "Что такое интерфейс? Что такое абстрактный класс? Чем они отличаются?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-programmirovanie",
+    "blockLabel": "AQA — Программирование",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-solid-privedite-primery",
+    "question": "Что такое SOLID? Приведите примеры."
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-programmirovanie",
+    "blockLabel": "AQA — Программирование",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-dry-kiss-yagni",
+    "question": "Что такое DRY, KISS, YAGNI?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-programmirovanie",
+    "blockLabel": "AQA — Программирование",
+    "levelLabel": "Junior",
+    "slug": "kakie-patterny-gof-vam-izvestny-privedite-primery-ih",
+    "question": "Какие паттерны GOF вам известны? Приведите примеры их использования."
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-programmirovanie",
+    "blockLabel": "AQA — Программирование",
+    "levelLabel": "Junior",
+    "slug": "kakaya-ierarhiya-collections",
+    "question": "Какая иерархия Collections?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-programmirovanie",
+    "blockLabel": "AQA — Программирование",
+    "levelLabel": "Junior",
+    "slug": "kakaya-raznica-mezhdu-thread-class-i-runnable-interface",
+    "question": "Какая разница между Thread class и Runnable interface?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-programmirovanie",
+    "blockLabel": "AQA — Программирование",
+    "levelLabel": "Junior",
+    "slug": "kakaya-raznica-mezhdu-string-stringbuffer-i-stringbuilder",
+    "question": "Какая разница между String, Stringbuffer и Stringbuilder?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-programmirovanie",
+    "blockLabel": "AQA — Программирование",
+    "levelLabel": "Junior",
+    "slug": "raznica-mezhdu-final-finally-i-finalize",
+    "question": "Разница между final, finally и finalize?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-selenium",
+    "blockLabel": "AQA — Selenium",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-selenium-i-zachem-ego-ispolzuyut",
+    "question": "Что такое Selenium и зачем его используют?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-selenium",
+    "blockLabel": "AQA — Selenium",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-drayver-brauzera",
+    "question": "Что такое драйвер браузера?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-selenium",
+    "blockLabel": "AQA — Selenium",
+    "levelLabel": "Junior",
+    "slug": "kakie-vidy-lokatorov-stranicy-suschestvuyut-kakovy-ih-preimu",
+    "question": "Какие виды локаторов страницы существуют? Каковы их преимущества и недостатки?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-selenium",
+    "blockLabel": "AQA — Selenium",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-selenium-waits-kakie-est-i-chem",
+    "question": "Что такое Selenium Waits? Какие есть и чем отличаются?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-selenium",
+    "blockLabel": "AQA — Selenium",
+    "levelLabel": "Junior",
+    "slug": "kakie-exceptions-mozhet-brosit-selenium-chto-oni-oznachayut",
+    "question": "Какие exceptions может бросить Selenium? Что они означают и как их обрабатывать?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-selenium",
+    "blockLabel": "AQA — Selenium",
+    "levelLabel": "Junior",
+    "slug": "dlya-chego-ispolzuyut-javascriptexecutor-privedite-primery",
+    "question": "Для чего используют JavaScriptExecutor? Приведите примеры."
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-selenium",
+    "blockLabel": "AQA — Selenium",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-selenium-grid",
+    "question": "Что такое Selenium Grid?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-selenium",
+    "blockLabel": "AQA — Selenium",
+    "levelLabel": "Junior",
+    "slug": "kakie-sposoby-click-i-send-keys-selenium",
+    "question": "Какие способы click и send keys Selenium?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-selenium",
+    "blockLabel": "AQA — Selenium",
+    "levelLabel": "Junior",
+    "slug": "kak-vy-zapuskaete-parallelnoe-vypolnenie-testov-chto-takoe",
+    "question": "Как вы запускаете параллельное выполнение тестов? Что такое ThreadLocal?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-selenium",
+    "blockLabel": "AQA — Selenium",
+    "levelLabel": "Junior",
+    "slug": "kakaya-raznica-mezhdu-action-i-actions",
+    "question": "Какая разница между Action и Actions?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-selenium",
+    "blockLabel": "AQA — Selenium",
+    "levelLabel": "Junior",
+    "slug": "kak-napisat-metod-iselementpresent",
+    "question": "Как написать метод isElementPresent?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-selenium",
+    "blockLabel": "AQA — Selenium",
+    "levelLabel": "Junior",
+    "slug": "kak-vychitat-dannye-iz-dinamicheskoy-veb-tablicy",
+    "question": "Как вычитать данные из динамической веб-таблицы?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-selenium",
+    "blockLabel": "AQA — Selenium",
+    "levelLabel": "Junior",
+    "slug": "mozhete-li-vy-nazvat-10-interfeysov-v-selenium",
+    "question": "Можете ли вы назвать 10 интерфейсов в Selenium?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-selenium",
+    "blockLabel": "AQA — Selenium",
+    "levelLabel": "Junior",
+    "slug": "nazovite-dva-sposoba-pozvolyayuschih-avtomatizirovat-kapchu",
+    "question": "Назовите два способа, позволяющих автоматизировать капчу."
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-selenium",
+    "blockLabel": "AQA — Selenium",
+    "levelLabel": "Junior",
+    "slug": "vspomnite-tipy-navigacionnyh-komand-selenium",
+    "question": "Вспомните типы навигационных команд Selenium."
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-selenium",
+    "blockLabel": "AQA — Selenium",
+    "levelLabel": "Junior",
+    "slug": "kak-nayti-povrezhdennye-ssylki-v-selenium-webdriver",
+    "question": "Как найти поврежденные ссылки в Selenium WebDriver?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-selenium",
+    "blockLabel": "AQA — Selenium",
+    "levelLabel": "Junior",
+    "slug": "kakuyu-tehniku-sleduet-rassmotret-ispolzuya-ves-scenariy-esl",
+    "question": "Какую технику следует рассмотреть, используя весь сценарий, если «нет ни frame id, ни frame name»?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-testng-junit-git-ci",
+    "blockLabel": "AQA — TestNG/JUnit, Git, CI",
+    "levelLabel": "Junior",
+    "slug": "dlya-chego-nuzhny-testng-junit",
+    "question": "Для чего нужны TestNG/JUnit?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-testng-junit-git-ci",
+    "blockLabel": "AQA — TestNG/JUnit, Git, CI",
+    "levelLabel": "Junior",
+    "slug": "kakie-instrukcii-ispolzuyutsya-v-testng-junit",
+    "question": "Какие инструкции используются в TestNG/JUnit?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-testng-junit-git-ci",
+    "blockLabel": "AQA — TestNG/JUnit, Git, CI",
+    "levelLabel": "Junior",
+    "slug": "kakie-assertions-est-v-testng-junit",
+    "question": "Какие assertions есть в TestNG/JUnit?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-testng-junit-git-ci",
+    "blockLabel": "AQA — TestNG/JUnit, Git, CI",
+    "levelLabel": "Junior",
+    "slug": "kak-vypolnyat-testy-parallelno-testng-junit",
+    "question": "Как выполнять тесты параллельно TestNG/JUnit?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-testng-junit-git-ci",
+    "blockLabel": "AQA — TestNG/JUnit, Git, CI",
+    "levelLabel": "Junior",
+    "slug": "dlya-chego-ispolzuyut-sistemy-kontrolya-versiy",
+    "question": "Для чего используют системы контроля версий?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-testng-junit-git-ci",
+    "blockLabel": "AQA — TestNG/JUnit, Git, CI",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-git-kakov-princip-ego-raboty",
+    "question": "Что такое Git? Каков принцип его работы?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-testng-junit-git-ci",
+    "blockLabel": "AQA — TestNG/JUnit, Git, CI",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-commits-branches-v-git",
+    "question": "Что такое commits, branches в Git?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-testng-junit-git-ci",
+    "blockLabel": "AQA — TestNG/JUnit, Git, CI",
+    "levelLabel": "Junior",
+    "slug": "dlya-chego-nuzhny-github-gitlab-i-drugie-baziruyuschiesya",
+    "question": "Для чего нужны GitHub, GitLab и другие, базирующиеся на Git, вебхостинги проектов?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/aqa-testng-junit-git-ci",
+    "blockLabel": "AQA — TestNG/JUnit, Git, CI",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-ci",
+    "question": "Что такое CI?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/web",
+    "blockLabel": "Web",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-klient-servernaya-arhitektura",
+    "question": "Что такое клиент-серверная архитектура?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/web",
+    "blockLabel": "Web",
+    "levelLabel": "Junior",
+    "slug": "chto-mozhet-vystupat-v-roli-klienta",
+    "question": "Что может выступать в роли клиента?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/web",
+    "blockLabel": "Web",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-rest-api-soap-v-chem-raznica",
+    "question": "Что такое REST API, SOAP? В чем разница?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/web",
+    "blockLabel": "Web",
+    "levelLabel": "Junior",
+    "slug": "kakie-protokoly-peredachi-dannyh-znaete",
+    "question": "Какие протоколы передачи данных знаете?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/web",
+    "blockLabel": "Web",
+    "levelLabel": "Junior",
+    "slug": "kakie-sposoby-vzaimodeystviya-s-api-suschestvuyut-v-chem",
+    "question": "Какие способы взаимодействия с API существуют? В чем разница между ними?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/web",
+    "blockLabel": "Web",
+    "levelLabel": "Junior",
+    "slug": "kak-mozhno-protestirovat-api-chto-tam-nuzhno-proveryat",
+    "question": "Как можно протестировать API, что там нужно проверять?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/web",
+    "blockLabel": "Web",
+    "levelLabel": "Junior",
+    "slug": "kak-rasshifrovyvaetsya-crud",
+    "question": "Как расшифровывается CRUD?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/web",
+    "blockLabel": "Web",
+    "levelLabel": "Junior",
+    "slug": "chem-otlichaetsya-get-ot-post",
+    "question": "Чем отличается GET от POST?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/web",
+    "blockLabel": "Web",
+    "levelLabel": "Junior",
+    "slug": "kakie-otlichiya-mezhdu-xml-i-json",
+    "question": "Какие отличия между XML и JSON?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/web",
+    "blockLabel": "Web",
+    "levelLabel": "Junior",
+    "slug": "kakie-znaete-formaty-peredachi-dannyh",
+    "question": "Какие знаете форматы передачи данных?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/web",
+    "blockLabel": "Web",
+    "levelLabel": "Junior",
+    "slug": "kak-proishodit-shifrovanie",
+    "question": "Как происходит шифрование?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/web",
+    "blockLabel": "Web",
+    "levelLabel": "Junior",
+    "slug": "kakie-byvayut-vidy-baz-dannyh",
+    "question": "Какие бывают виды баз данных?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/web",
+    "blockLabel": "Web",
+    "levelLabel": "Junior",
+    "slug": "oharakterizuyte-kazhdyy-klass-status-code-1hh-2xx-3xx",
+    "question": "Охарактеризуйте каждый класс status code (1хх; 2xx; 3xx; 4xx; 5xx)."
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/web",
+    "blockLabel": "Web",
+    "levelLabel": "Junior",
+    "slug": "kakie-est-http-metody",
+    "question": "Какие есть HTTP-методы?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/web",
+    "blockLabel": "Web",
+    "levelLabel": "Junior",
+    "slug": "kakie-znaete-web-elements",
+    "question": "Какие знаете Web elements?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/web",
+    "blockLabel": "Web",
+    "levelLabel": "Junior",
+    "slug": "kakie-brauzery-znaete-v-chem-ih-otlichie",
+    "question": "Какие браузеры знаете? В чем их отличие?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/web",
+    "blockLabel": "Web",
+    "levelLabel": "Junior",
+    "slug": "dlya-chego-neobhodimy-instrumenty-razrabotchika-v-brauzere-c",
+    "question": "Для чего необходимы инструменты разработчика в браузере (Chrome DevTools) и как они помогают в тестировании."
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/web",
+    "blockLabel": "Web",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-kesh",
+    "question": "Что такое кэш?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/web",
+    "blockLabel": "Web",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-sessiya",
+    "question": "Что такое сессия?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/web",
+    "blockLabel": "Web",
+    "levelLabel": "Junior",
+    "slug": "zachem-nuzhny-cookies",
+    "question": "Зачем нужны cookies?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/web",
+    "blockLabel": "Web",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-freym",
+    "question": "Что такое фрейм?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/web",
+    "blockLabel": "Web",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-html-css-javascript",
+    "question": "Что такое HTML/CSS/JavaScript?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/web",
+    "blockLabel": "Web",
+    "levelLabel": "Junior",
+    "slug": "kakuyu-strukturu-imeet-veb-stranica",
+    "question": "Какую структуру имеет веб-страница?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/web",
+    "blockLabel": "Web",
+    "levelLabel": "Junior",
+    "slug": "zachem-chistit-kesh",
+    "question": "Зачем чистить кэш?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/web",
+    "blockLabel": "Web",
+    "levelLabel": "Junior",
+    "slug": "kakie-vidy-testirovaniya-mozhno-primenit-tolko-k-web",
+    "question": "Какие виды тестирования можно применить только к Web?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/web",
+    "blockLabel": "Web",
+    "levelLabel": "Junior",
+    "slug": "dlya-chego-v-veb-stranicah-ispolzuyut-javascript",
+    "question": "Для чего в веб-страницах используют JavaScript?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/web",
+    "blockLabel": "Web",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-rest",
+    "question": "Что такое REST?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/web",
+    "blockLabel": "Web",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-ajax",
+    "question": "Что такое AJAX?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/mobile",
+    "blockLabel": "Mobile",
+    "levelLabel": "Junior",
+    "slug": "kakie-mobilnye-platformy-suschestvuyut",
+    "question": "Какие мобильные платформы существуют?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/mobile",
+    "blockLabel": "Mobile",
+    "levelLabel": "Junior",
+    "slug": "kakie-versii-android-i-ios-ispolzuyutsya-na-rynke",
+    "question": "Какие версии Android и iOS используются на рынке (минимальные и максимальные)?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/mobile",
+    "blockLabel": "Mobile",
+    "levelLabel": "Junior",
+    "slug": "kakie-versii-android-nuzhno-testirovat-esli-zakazchik-skazal",
+    "question": "Какие версии Android нужно тестировать, если заказчик сказал поддерживать с версии 5.0?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/mobile",
+    "blockLabel": "Mobile",
+    "levelLabel": "Junior",
+    "slug": "nazovite-tipy-mobilnyh-prilozheniy",
+    "question": "Назовите типы мобильных приложений."
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/mobile",
+    "blockLabel": "Mobile",
+    "levelLabel": "Junior",
+    "slug": "kakov-format-faylov-sborok-prilozheniy-dlya-android-i",
+    "question": "Каков формат файлов сборок приложений для Android и iOS?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/mobile",
+    "blockLabel": "Mobile",
+    "levelLabel": "Junior",
+    "slug": "chto-takoe-adb",
+    "question": "Что такое ADB?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/mobile",
+    "blockLabel": "Mobile",
+    "levelLabel": "Junior",
+    "slug": "kak-snyat-logi-s-aos-ios",
+    "question": "Как снять логи с AOS/IOS?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/mobile",
+    "blockLabel": "Mobile",
+    "levelLabel": "Junior",
+    "slug": "chto-nuzhno-proveryat-pri-ispolzovanii-skanera-otpechatka-fa",
+    "question": "Что нужно проверять при использовании сканера отпечатка/Face ID?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/mobile",
+    "blockLabel": "Mobile",
+    "levelLabel": "Junior",
+    "slug": "kak-ya-mogu-zapuskat-testy-android-bez-appium",
+    "question": "Как я могу запускать тесты Android без Appium?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/mobile",
+    "blockLabel": "Mobile",
+    "levelLabel": "Junior",
+    "slug": "obyasnite-koncepciyu-dizayna-appium",
+    "question": "Объясните концепцию дизайна Appium."
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Junior",
+    "slug": "napisat-cheklist-dlya-funkcionala-korziny-v-internet-magazin",
+    "question": "Написать чеклист для функционала корзины в интернет-магазине."
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Junior",
+    "slug": "napisat-testovye-nabory-dannyh-dlya-polya-vvoda-daty",
+    "question": "Написать тестовые наборы данных для поля ввода даты, которое отсеивает пользователей в возрасте до 18 лет."
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Junior",
+    "slug": "napisat-cheklist-testirovaniya-formy-vvoda-dannyh-platezhnoy",
+    "question": "Написать чеклист тестирования формы ввода данных платежной карты."
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Junior",
+    "slug": "protestovat-predmet-otnositelno-razlichnyh-vidov-testirovani",
+    "question": "Протестовать «предмет» относительно различных видов тестирования. (Предмет - лифт, карандаш, калькулятор и т. д.)"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Junior",
+    "slug": "est-input-pole-prinimayuschee-celye-znacheniya-ot-18",
+    "question": "Есть Input поле, принимающее целые значения от 18 до 99 включительно. Надо протестировать с помощью техники тест-дизайна Boundary Values ​​Analysis и Equivalence Partitioning."
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Junior",
+    "slug": "est-veb-stranica-s-polyami-e-mail-password",
+    "question": "Есть веб-страница с полями: e-mail, password и кнопкой submit. Необходимо привести примеры отрицательных тест-кейсов, которыми можно проверить эту страницу."
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Junior",
+    "slug": "privesti-primery-test-keysov-dlya-funkcionala-nahodyaschegos",
+    "question": "Привести примеры тест-кейсов для функционала, находящегося на нескольких страницах проекта (например, поле поиска)."
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Junior",
+    "slug": "kak-protestirovat-process-oplaty-v-internet-magazine",
+    "question": "Как протестировать процесс оплаты в интернет-магазине?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Junior",
+    "slug": "kak-protestirovat-slomannyy-toster",
+    "question": "Как протестировать сломанный тостер?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Junior",
+    "slug": "obyasnite-dlya-7-letnego-rebenka-chto-takoe-baza",
+    "question": "Объясните для 7-летнего ребенка, что такое база данных."
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Junior",
+    "slug": "opredelite-neobhodimoe-kolichestvo-funkcionalnyh-test-keysov",
+    "question": "Определите необходимое количество функциональных тест-кейсов, чтобы проверить Log in форму."
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Junior",
+    "slug": "est-forma-registracii-v-veb-prilozhenii-s-polyami",
+    "question": "Есть форма регистрации в веб-приложении с полями (first name, last name, username, password, repeat password) и кнопкой Register. Какие проверки нужно провести?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Junior",
+    "slug": "pole-username-dolzhno-byt-obyazatelnym-no-ono-ne",
+    "question": "Поле username должно быть обязательным, но оно не является обязательным. Приведите пример баг-репорта, созданного для этой ошибки."
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Junior",
+    "slug": "kak-by-vy-proveli-smoke-testing-dlya-prilozheniya",
+    "question": "Как бы вы провели smoke-testing для приложения типа Telegram?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Junior",
+    "slug": "kak-budet-vyglyadet-bag-report-esli-k-primeru",
+    "question": "Как будет выглядеть баг-репорт, если, к примеру, не работает электрический чайник?"
+  },
+  {
+    "section": "itvdn",
+    "level": "junior",
+    "block": "junior/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Junior",
+    "slug": "est-tablica-books-s-polyami-name-price-page",
+    "question": "Есть таблица books с полями: name, price, page_count. Следует выбрать все имена книг, в которых price более 10 единиц и количество страниц от 20 до 100."
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Middle",
+    "slug": "nazovite-obyazannosti-qa",
+    "question": "Назовите обязанности QA?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Middle",
+    "slug": "chto-znaete-o-testirovanii-nagruzki-v-kakom-sluchae",
+    "question": "Что знаете о тестировании нагрузки? В каком случае следует проводить такое тестирование? На каком этапе готовности продукта?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Middle",
+    "slug": "chto-takoe-tablica-resheniy-decision-table-i-kak",
+    "question": "Что такое таблица решений/decision table и как её можно использовать?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Middle",
+    "slug": "chto-mozhet-byt-kriteriyami-zapuska-i-zaversheniya-testirova",
+    "question": "Что может быть критериями запуска и завершения тестирования?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Middle",
+    "slug": "rasskazhite-o-variantah-integrirovaniya-testovoy-dokumentaci",
+    "question": "Расскажите о вариантах интегрирования тестовой документации в проект, инструментах для работы с ней."
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Middle",
+    "slug": "kak-organizovat-skvoznoe-testirovanie-e2e",
+    "question": "Как организовать сквозное тестирование (e2e)?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Middle",
+    "slug": "kakie-test-keysy-mozhno-sdat-dlya-testirovaniya-baz",
+    "question": "Какие тест-кейсы можно сдать для тестирования баз данных?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Middle",
+    "slug": "privedite-primery-podhodov-dlya-testirovaniya-lokalizacii",
+    "question": "Приведите примеры подходов для тестирования локализации."
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Middle",
+    "slug": "chto-takoe-a-b-testirovanie",
+    "question": "Что такое A/B тестирование?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Middle",
+    "slug": "chto-takoe-mock-stub-kakie-znaete-instrumenty-dlya",
+    "question": "Что такое mock/stub? Какие знаете инструменты для работы с ними?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Middle",
+    "slug": "kogda-nuzhno-ispolzovat-tehniku-pairwise",
+    "question": "Когда нужно использовать технику Pairwise?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Middle",
+    "slug": "chto-takoe-fuzz-testirovanie-i-gde-ego-ispolzuyut",
+    "question": "Что такое fuzz-тестирование и где его используют?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Middle",
+    "slug": "chto-takoe-regexp",
+    "question": "Что такое REgexp?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Middle",
+    "slug": "kak-menyaetsya-stoimost-defekta-pri-testirovanii-programmnog",
+    "question": "Как меняется стоимость дефекта при тестировании программного обеспечения?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Middle",
+    "slug": "kakovy-puti-analiza-biznesa-klienta-kak-opredelit-celesoobra",
+    "question": "Каковы пути анализа бизнеса клиента? Как определить целесообразность того или иного функционала?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Middle",
+    "slug": "nazovite-posledovatelnost-vypolneniya-ci-cd-processa-na-proe",
+    "question": "Назовите последовательность выполнения CI/CD процесса на проекте."
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Middle",
+    "slug": "kakoe-dolzhno-byt-procentnoe-sootnoshenie-mezhdu-polozhiteln",
+    "question": "Какое должно быть процентное соотношение между положительным и отрицательным тестированием на проекте?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Middle",
+    "slug": "kakoy-vid-testirovaniya-celesoobraznee-provodit-do-reliza",
+    "question": "Какой вид тестирования целесообразнее проводить до релиза?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Middle",
+    "slug": "est-li-raznica-mezhdu-bug-leakage-i-bug",
+    "question": "Есть ли разница между bug leakage и bug release?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Middle",
+    "slug": "mozhet-li-byt-situaciya-kogda-kriterii-zaversheniya-exit",
+    "question": "Может ли быть ситуация, когда критерии завершения (exit criteria) не выполнены? Что должно происходить в этом случае?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Middle",
+    "slug": "chto-my-deystvitelno-dolzhny-pokryvat-test-keysami-a",
+    "question": "Что мы действительно должны покрывать тест-кейсами, а что считается избыточным расходом времени и денег? Когда нецелесообразно писать тест-кейсы?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Middle",
+    "slug": "dlya-kakogo-funkcionala-trudnee-vsego-napisat-test-keysy",
+    "question": "Для какого функционала труднее всего написать тест-кейсы?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Middle",
+    "slug": "kak-poschitat-cyclomatic-complexity",
+    "question": "Как посчитать Cyclomatic complexity?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Middle",
+    "slug": "v-chem-osnovnaya-raznica-mezhdu-defect-detection-percentage",
+    "question": "В чем основная разница между defect detection percentage и defect removal efficiency?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Middle",
+    "slug": "kakie-modeli-risk-based-testing-vy-znaete",
+    "question": "Какие модели risk-based testing вы знаете?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Middle",
+    "slug": "chto-takoe-testirovanie-api-kakimi-instrumentami-polzuyutsya",
+    "question": "Что такое тестирование API? Какими инструментами пользуются для его выполнения?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Middle",
+    "slug": "chto-takoe-performance-testing-kakimi-instrumentami-polzuyut",
+    "question": "Что такое performance testing? Какими инструментами пользуются для его выполнения?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Middle",
+    "slug": "chto-takoe-load-i-stress-testing-kakimi-instrumentami",
+    "question": "Что такое load и stress testing? Какими инструментами пользуются для их выполнения?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Middle",
+    "slug": "chto-takoe-contract-testing",
+    "question": "Что такое contract testing?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Middle",
+    "slug": "kakaya-raznica-mezhdu-scrum-i-kanban",
+    "question": "Какая разница между Scrum и Kanban?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Middle",
+    "slug": "rasskazhite-o-ritualah-cennostyah-i-rolyah-v-scrum",
+    "question": "Расскажите о ритуалах, ценностях и ролях в Scrum."
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Middle",
+    "slug": "kak-vybor-metodologii-mozhet-povliyat-na-kachestvo-razrabotk",
+    "question": "Как выбор методологии может повлиять на качество разработки?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Middle",
+    "slug": "nulevoy-sprint-v-scrum-dlya-testirovaniya-est-zadanie",
+    "question": "Нулевой спринт в Scrum. Для тестирования есть задание под названием «Настройка среды». Что здесь нужно выполнять?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/aqa-selenium",
+    "blockLabel": "AQA — Selenium",
+    "levelLabel": "Middle",
+    "slug": "rasskazhite-kak-vy-budete-stroit-i-vnedryat-strategiyu",
+    "question": "Расскажите, как вы будете строить и внедрять стратегию по автоматизации тестирования."
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/aqa-selenium",
+    "blockLabel": "AQA — Selenium",
+    "levelLabel": "Middle",
+    "slug": "kak-vzaimodeystvuyut-klientskaya-biblioteka-selenium-drayver",
+    "question": "Как взаимодействуют клиентская библиотека Selenium, драйвер браузера и сам браузер?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/aqa-selenium",
+    "blockLabel": "AQA — Selenium",
+    "levelLabel": "Middle",
+    "slug": "dlya-chego-ispolzuyut-browser-capabilities-arguments-i-optio",
+    "question": "Для чего используют browser capabilities, arguments и options?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/aqa-selenium",
+    "blockLabel": "AQA — Selenium",
+    "levelLabel": "Middle",
+    "slug": "chto-takoe-iframe-i-kak-s-nim-rabotat",
+    "question": "Что такое iframe и как с ним работать в Selenium?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/aqa-selenium",
+    "blockLabel": "AQA — Selenium",
+    "levelLabel": "Middle",
+    "slug": "kak-obrabatyvat-brauzernye-soobscheniya-alerts",
+    "question": "Как обрабатывать браузерные сообщения (alerts)?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/aqa-selenium",
+    "blockLabel": "AQA — Selenium",
+    "levelLabel": "Middle",
+    "slug": "chto-takoe-appium",
+    "question": "Что такое Appium?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/aqa-selenium",
+    "blockLabel": "AQA — Selenium",
+    "levelLabel": "Middle",
+    "slug": "chto-takoe-electron-based-applications-kak-ispolzovat-seleni",
+    "question": "Что такое Electron-based applications? Как использовать Selenium и Appium для их тестирования?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/aqa-selenium",
+    "blockLabel": "AQA — Selenium",
+    "levelLabel": "Middle",
+    "slug": "kak-vzaimodeystvovat-s-zaprosami-otpravlyaemymi-iz-brauzera",
+    "question": "Как взаимодействовать с запросами, отправляемыми из браузера?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/aqa-selenium",
+    "blockLabel": "AQA — Selenium",
+    "levelLabel": "Middle",
+    "slug": "kak-vzaimodeystvovat-s-cookies-localstorage-i-sessionstorage",
+    "question": "Как взаимодействовать с cookies, LocalStorage и SessionStorage?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/aqa-testovaya-infrastruktura",
+    "blockLabel": "AQA — Тестовая инфраструктура",
+    "levelLabel": "Middle",
+    "slug": "chto-takoe-i-chem-otlichayutsya-virtualnaya-mashina-simulyat",
+    "question": "Что такое и чем отличаются виртуальная машина, симулятор и эмулятор?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/aqa-testovaya-infrastruktura",
+    "blockLabel": "AQA — Тестовая инфраструктура",
+    "levelLabel": "Middle",
+    "slug": "chto-takoe-konteyner-i-chem-on-otlichaetsya-ot",
+    "question": "Что такое контейнер и чем он отличается от виртуальной машины?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/aqa-testovaya-infrastruktura",
+    "blockLabel": "AQA — Тестовая инфраструктура",
+    "levelLabel": "Middle",
+    "slug": "kak-ispolzuyut-virtualnye-mashiny-i-konteynery-v-avtomatizac",
+    "question": "Как используют виртуальные машины и контейнеры в автоматизации?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/aqa-testovaya-infrastruktura",
+    "blockLabel": "AQA — Тестовая инфраструктура",
+    "levelLabel": "Middle",
+    "slug": "chto-takoe-iaas-i-paas-privedite-primery",
+    "question": "Что такое IaaS и PaaS? Приведите примеры."
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/aqa-testovaya-infrastruktura",
+    "blockLabel": "AQA — Тестовая инфраструктура",
+    "levelLabel": "Middle",
+    "slug": "chto-takoe-configuration-management",
+    "question": "Что такое Configuration Management?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/aqa-testovaya-infrastruktura",
+    "blockLabel": "AQA — Тестовая инфраструктура",
+    "levelLabel": "Middle",
+    "slug": "chto-takoe-provisioning",
+    "question": "Что такое Provisioning?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/aqa-testovaya-infrastruktura",
+    "blockLabel": "AQA — Тестовая инфраструктура",
+    "levelLabel": "Middle",
+    "slug": "kakie-komandy-linux-shell-vam-izvestny-kak-s",
+    "question": "Какие команды Linux Shell вам известны? Как с помощью команд Linux Shell найти лог-файл и строчку с ошибкой в файле?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/aqa-testovaya-infrastruktura",
+    "blockLabel": "AQA — Тестовая инфраструктура",
+    "levelLabel": "Middle",
+    "slug": "kakie-komandy-windows-cmd-vam-izvestny-kak-s",
+    "question": "Какие команды Windows CMD вам известны? Как с помощью команд Windows CMD найти IP-адрес машины?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/aqa-testovaya-infrastruktura",
+    "blockLabel": "AQA — Тестовая инфраструктура",
+    "levelLabel": "Middle",
+    "slug": "chto-takoe-ssh-i-kak-im-polzovatsya",
+    "question": "Что такое SSH и как им пользоваться?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/aqa-testovaya-infrastruktura",
+    "blockLabel": "AQA — Тестовая инфраструктура",
+    "levelLabel": "Middle",
+    "slug": "chto-takoe-bash-i-batch-skripty-zachem-ih",
+    "question": "Что такое bash и batch скрипты? Зачем их используют?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/web",
+    "blockLabel": "Web",
+    "levelLabel": "Middle",
+    "slug": "kakaya-raznica-mezhdu-avtorizaciey-i-autentifikaciey",
+    "question": "Какая разница между авторизацией и аутентификацией?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/web",
+    "blockLabel": "Web",
+    "levelLabel": "Middle",
+    "slug": "kak-proishodit-avtorizaciya-na-servere",
+    "question": "Как происходит авторизация на сервере?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/web",
+    "blockLabel": "Web",
+    "levelLabel": "Middle",
+    "slug": "kakie-status-kody-oshibok-byvayut-mozhet-li-server",
+    "question": "Какие статус-коды ошибок бывают? Может ли сервер отправить код 400, если проблема на его стороне?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/web",
+    "blockLabel": "Web",
+    "levelLabel": "Middle",
+    "slug": "kak-vypolnit-debug-stranicy-v-brauzere",
+    "question": "Как выполнить Debug страницы в браузере?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/web",
+    "blockLabel": "Web",
+    "levelLabel": "Middle",
+    "slug": "kak-protestirovat-adaptivnuyu-verstku",
+    "question": "Как протестировать адаптивную верстку?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/web",
+    "blockLabel": "Web",
+    "levelLabel": "Middle",
+    "slug": "chto-takoe-websocket-i-kak-proverit-obryv-soedineniya",
+    "question": "Что такое WebSocket и как проверить обрыв соединения?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/web",
+    "blockLabel": "Web",
+    "levelLabel": "Middle",
+    "slug": "kakovy-est-osnovnye-vidy-uyazvimosti-veb-prilozheniy",
+    "question": "Каковы есть основные виды уязвимости веб-приложений?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/web",
+    "blockLabel": "Web",
+    "levelLabel": "Middle",
+    "slug": "kakie-instrumenty-dlya-testirovaniya-web-performance-client",
+    "question": "Какие инструменты для тестирования Web performance client-side знаете?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/web",
+    "blockLabel": "Web",
+    "levelLabel": "Middle",
+    "slug": "kakova-raznica-mezhdu-metodami-get-i-post",
+    "question": "Какова разница между методами GET и POST?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/web",
+    "blockLabel": "Web",
+    "levelLabel": "Middle",
+    "slug": "kakaya-raznica-mezhdu-metodami-put-i-patch",
+    "question": "Какая разница между методами PUT и PATCH?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/web",
+    "blockLabel": "Web",
+    "levelLabel": "Middle",
+    "slug": "kakie-znaete-snifery",
+    "question": "Какие знаете сниферы?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/web",
+    "blockLabel": "Web",
+    "levelLabel": "Middle",
+    "slug": "kakova-raznica-mezhdu-drop-i-truncate",
+    "question": "Какова разница между DROP и TRUNCATE?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/web",
+    "blockLabel": "Web",
+    "levelLabel": "Middle",
+    "slug": "chto-takoe-case-function",
+    "question": "Что такое case function?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/web",
+    "blockLabel": "Web",
+    "levelLabel": "Middle",
+    "slug": "chto-takoe-collation",
+    "question": "Что такое collation?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/web",
+    "blockLabel": "Web",
+    "levelLabel": "Middle",
+    "slug": "chto-takoe-shema-graphql",
+    "question": "Что такое схема GraphQL?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/web",
+    "blockLabel": "Web",
+    "levelLabel": "Middle",
+    "slug": "obyasnite-raznicu-mezhdu-oltp-i-olap",
+    "question": "Объясните разницу между OLTP и OLAP."
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/web",
+    "blockLabel": "Web",
+    "levelLabel": "Middle",
+    "slug": "vspomnite-raznye-tipy-replikacii-v-sql-server",
+    "question": "Вспомните разные типы репликации в SQL Server?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/web",
+    "blockLabel": "Web",
+    "levelLabel": "Middle",
+    "slug": "chto-vy-ponimaete-pod-self-join-privedite-primery",
+    "question": "Что вы понимаете под Self Join? Приведите примеры."
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/web",
+    "blockLabel": "Web",
+    "levelLabel": "Middle",
+    "slug": "chto-takoe-cursor-i-kak-im-polzovatsya",
+    "question": "Что такое cursor и как им пользоваться?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/mobile",
+    "blockLabel": "Mobile",
+    "levelLabel": "Middle",
+    "slug": "chto-osnovnoe-nuzhno-proverit-pri-testirovanii-mobilnogo-pri",
+    "question": "Что основное нужно проверить при тестировании мобильного приложения?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/mobile",
+    "blockLabel": "Mobile",
+    "levelLabel": "Middle",
+    "slug": "chto-takoe-manifest-xml-v-apk-fayle-i",
+    "question": "Что такое Manifest.xml в .apk файле и какие данные там указывают?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/mobile",
+    "blockLabel": "Mobile",
+    "levelLabel": "Middle",
+    "slug": "chto-takoe-rezhim-razrabotchika-do-not-keep-activities",
+    "question": "Что такое режим разработчика Do not keep activities?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/mobile",
+    "blockLabel": "Mobile",
+    "levelLabel": "Middle",
+    "slug": "kak-proishodit-perehvat-trafika-http-https-dlya-mobilnyh",
+    "question": "Как происходит перехват трафика http/https для мобильных устройств?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/mobile",
+    "blockLabel": "Mobile",
+    "levelLabel": "Middle",
+    "slug": "v-kakom-vide-hranyatsya-dannye-v-mobilnyh-prilozheniyah",
+    "question": "В каком виде хранятся данные в мобильных приложениях локально?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/mobile",
+    "blockLabel": "Mobile",
+    "levelLabel": "Middle",
+    "slug": "kak-testirovat-migraciyu-lokalnyh-dannyh",
+    "question": "Как тестировать миграцию локальных данных?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/mobile",
+    "blockLabel": "Mobile",
+    "levelLabel": "Middle",
+    "slug": "kakovy-osnovnye-komponenty-android-prilozheniy-aktiviti-frag",
+    "question": "Каковы основные компоненты Android-приложений (активити / фрагмент / сервис / интент-фильтр)?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/mobile",
+    "blockLabel": "Mobile",
+    "levelLabel": "Middle",
+    "slug": "opishite-zhiznennyy-cikl-aktiviti",
+    "question": "Опишите жизненный цикл активити."
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/mobile",
+    "blockLabel": "Mobile",
+    "levelLabel": "Middle",
+    "slug": "chto-takoe-utechki-pamyati-kak-nayti",
+    "question": "Что такое утечки памяти? Как найти?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/mobile",
+    "blockLabel": "Mobile",
+    "levelLabel": "Middle",
+    "slug": "kak-protestirovat-bild-na-android",
+    "question": "Как протестировать билд на Android?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/mobile",
+    "blockLabel": "Mobile",
+    "levelLabel": "Middle",
+    "slug": "chto-takoe-testflight-kak-testirovat-s-ego-pomoschyu",
+    "question": "Что такое Testflight? Как тестировать с его помощью?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/mobile",
+    "blockLabel": "Mobile",
+    "levelLabel": "Middle",
+    "slug": "kak-rabotaet-android-kakaya-u-nego-arhitektura",
+    "question": "Как работает Android? Какая у него архитектура?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/mobile",
+    "blockLabel": "Mobile",
+    "levelLabel": "Middle",
+    "slug": "kak-proishodit-deploy-programm-ios-aos",
+    "question": "Как происходит деплой программ IOS/AOS?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Middle",
+    "slug": "chto-delat-esli-razrabotchik-ne-soglashaetsya-chto-ukazannyy",
+    "question": "Что делать, если разработчик не соглашается, что указанный баг действительно является багом? А если в требованиях использована неоднозначная формулировка? Если бизнес-аналитик, PM и представитель клиента сейчас недоступны, чтобы подсказать? Как можно предотвратить такую ​​ситуацию?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Middle",
+    "slug": "slozhilas-situaciya-kogda-komanda-testirovaniya-ne-uspevaet",
+    "question": "Сложилась ситуация, когда команда тестирования не успевает закончить свою работу в дедлайн. Как правильно действовать в этом случае? А если релиз передвинуть нельзя? А если никакие фичи из релиза забрать нельзя?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Middle",
+    "slug": "chto-delat-esli-proekt-uzhe-nachalsya-a-qa",
+    "question": "Что делать, если проект уже начался, а QA-инженер там начал работать только когда начали разрабатываться бизнес-фичи? Какие этапы тестирования теперь нужно наверстать и нужно ли это? Как это сделать максимально грамотно без ущерба для загрузки по тестированию новых фич? Какие риски имеет позднее вовлечение QA-инженера в разработку?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Middle",
+    "slug": "veb-stranica-s-polyami-e-mail-password-i",
+    "question": "Веб-страница с полями e-mail, password и кнопкой submit. Назовите отрицательные тест-кейсы, по которым можно проверить эту страницу."
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Middle",
+    "slug": "predpolozhim-chto-posle-nazhatiya-knopki-submit-stranica-per",
+    "question": "Предположим, что после нажатия кнопки submit страница перезагружается и ранее введенные данные исчезают. Как проверить, что информация отправлена ​​в базу данных?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Middle",
+    "slug": "kak-proverit-chto-dannye-otpravilis-na-server-esli",
+    "question": "Как проверить, что данные отправились на сервер, если у нас нет доступа к бэкенду?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Middle",
+    "slug": "privedite-primery-uluchsheniy-dlya-privedennoy-veb-stranicy",
+    "question": "Приведите примеры улучшений для приведенной веб-страницы (любая на выбор)."
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Middle",
+    "slug": "sostavit-smoke-test-suite-dlya-dou-ua",
+    "question": "Составить Smoke Test Suite для DOU.ua."
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Middle",
+    "slug": "protestovat-funkcional-bankomata-s-pomoschyu-tehniki-state-t",
+    "question": "Протестовать функционал банкомата с помощью техники State Transition Diagram."
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Middle",
+    "slug": "napisat-predelnye-znacheniya-dlya-vvoda-v-formu-oplaty",
+    "question": "Написать предельные значения для ввода в форму оплаты товара на сайте."
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Middle",
+    "slug": "est-metod-post-kotoryy-registriruet-novogo-polzovatelya-na",
+    "question": "Есть метод POST, который регистрирует нового пользователя на сайте, есть тело запроса, содержащее данные о почте, телефоне, имени пользователя и адресе проживания. Какие кейсы для проверки можете привести?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Middle",
+    "slug": "na-chto-sleduet-akcentirovat-vnimanie-pri-avtomatizacii-meto",
+    "question": "На что следует акцентировать внимание при автоматизации методов API? Что следует проверять?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Middle",
+    "slug": "vy-testiruete-login-formu-vvodite-login-i-parol",
+    "question": "Вы тестируете логин-форму, вводите логин и пароль, нажимаете кнопку логин и ничего не происходит. Ваши действия?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Middle",
+    "slug": "v-techenie-5-minut-naydite-i-opishite-defekty",
+    "question": "В течение 5 минут найдите и опишите дефекты, которые вы видите: [скриншот в оригинальной статье]."
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Middle",
+    "slug": "vam-nuzhno-sdelat-regression-testing-za-dva-dnya",
+    "question": "Вам нужно сделать Regression Testing за два дня. Как вы это сделаете, если Regression Run охватывает 1000 тест-кейсов?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Middle",
+    "slug": "vy-testiruete-internet-magazin-kotoryy-prodaet-karandashi-v",
+    "question": "Вы тестируете интернет-магазин, который продаёт карандаши. В заказе нужно указать количество карандашей (максимум для заказа – 1000 штук). В зависимости от заказанного количества карандашей отличается цена: 1–100 – 10 грн за шт., 101-200 – 9 грн за шт., 201-300 – 8 грн за шт. С каждой новой сотней цена уменьшается на 1 гривну. Задание: используя тест-дизайн, опишите все необходимые тест-кейсы, которые будут максимально покрывать описанную функциональность."
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Middle",
+    "slug": "est-prilozhenie-tipa-messendzhera-polzovatel-zahodit-v-chat",
+    "question": "Есть приложение типа мессенджера, пользователь заходит в чат и отсылает файл (видит сообщение Failed to send...) Когда это может быть баг, а когда нет?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Middle",
+    "slug": "est-veb-prilozhenie-internet-magazina-registraciya-login-poi",
+    "question": "Есть веб-приложение интернет-магазина (регистрация, логин, поиск товаров, корзина и покупки). Программу поддерживают следующие браузеры: Chrome, Safari, Edge. У нас есть ограниченное время на тестирование. Расскажите, как вы будете проверять приложение?"
+  },
+  {
+    "section": "itvdn",
+    "level": "middle",
+    "block": "middle/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Middle",
+    "slug": "napishite-avtomaticheskie-testovye-scenarii-dlya-proverki-ap",
+    "question": "Напишите автоматические тестовые сценарии для проверки API операций создания и просмотра GitHub Gists. Интегрируйте ваш проект с известной вам CI-системой."
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "kak-vy-preodoleete-trudnosti-iz-za-otsutstviya-nadlezhaschey",
+    "question": "Как вы преодолеете трудности из-за отсутствия надлежащей документации для тестирования?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "kakoy-podhod-yavlyaetsya-nailuchshim-dlya-starta-qa-v",
+    "question": "Какой подход является наилучшим для старта QA в проекте?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "kakie-prepyatstviya-mogut-vozniknut-v-obespechenii-kachestva",
+    "question": "Какие препятствия могут возникнуть в обеспечении качества для Agile Tester?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "chto-takoe-definition-of-done",
+    "question": "Что такое Definition of Done?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "kogda-mozhno-schitat-chto-testirovanie-okoncheno",
+    "question": "Когда можно считать, что тестирование окончено?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "chto-takoe-rca-v-testirovanii-nuzhno-li-ego",
+    "question": "Что такое RCA в тестировании? Нужно ли его проводить?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "kakoy-podhod-vy-ispolzuete-dlya-test-cases-review",
+    "question": "Какой подход вы используете для Test Cases Review?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "kakie-vidy-riskov-suschestvuyut-chto-takoe-mitigation-plan",
+    "question": "Какие виды рисков существуют? Что такое Mitigation Plan?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "na-osnove-chego-nuzhno-sostavlyat-strategiyu-dlya-provedeniy",
+    "question": "На основе чего нужно составлять стратегию для проведения тестирования нагрузки?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "kak-chasto-sleduet-revyuirovat-testovuyu-dokumentaciyu",
+    "question": "Как часто следует ревьюировать тестовую документацию?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "kak-mozhno-bystro-sdelat-vyborku-neobhodimyh-proverok-dlya",
+    "question": "Как можно быстро сделать выборку необходимых проверок для смоук-тестирования?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "kak-zaplanirovat-zagruzhennost-komandy-testirovschikov",
+    "question": "Как запланировать загруженность команды тестировщиков?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "kakuyu-cennost-neset-analiz-rezultatov-testirovaniya-komande",
+    "question": "Какую ценность несет анализ результатов тестирования команде и проекту в целом?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "kak-mozhno-podkorrektirovat-flou-razrabotki-chtoby-poluchat",
+    "question": "Как можно подкорректировать флоу разработки, чтобы получать более чистые результаты на выходе и уменьшить количество багов на проде?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "rasskazhite-o-metrikah-kachestva-kotorye-vy-primenyali-zache",
+    "question": "Расскажите о метриках качества, которые вы применяли. Зачем они нужны?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "kak-provesti-estimeyt-zadachi-kakovy-tehniki-ocenki-obema",
+    "question": "Как провести эстимейт задачи? Каковы техники оценки объема тестирования существуют?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "kak-mozhno-poschitat-pokrytie-testami-funkcionala",
+    "question": "Как можно посчитать покрытие тестами функционала?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "kakoe-optimalnoe-kolichestvo-shagov-v-testovom-scenarii",
+    "question": "Какое оптимальное количество шагов в тестовом сценарии?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "kak-izbezhat-poyavleniya-regressivnyh-defektov",
+    "question": "Как избежать появления регрессивных дефектов?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "chto-takoe-testirovanie-so-smescheniem-vlevo-shift-left",
+    "question": "Что такое тестирование со смещением влево (Shift left testing)?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "kak-budete-testirovat-programmu-esli-dlya-produkta-net",
+    "question": "Как будете тестировать программу, если для продукта нет документации?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "v-chem-smysl-yunit-testov",
+    "question": "В чем смысл юнит-тестов?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "kakie-minusy-polnoy-avtomatizacii-testirovaniya",
+    "question": "Какие минусы полной автоматизации тестирования?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "chto-takoe-roi-i-kak-ego-schitat",
+    "question": "Что такое ROI и как его считать?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "chto-takoe-ci-cd-kakie-plyusy-i-minusy",
+    "question": "Что такое CI/CD? Какие плюсы и минусы этого подхода?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "top-owasp-kakie-znaete-uyazvimosti-i-metody-zaschity",
+    "question": "TOP OWASP: какие знаете уязвимости и методы защиты?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "chto-vy-dumaete-po-povodu-bdd-kogda-sleduet",
+    "question": "Что вы думаете по поводу BDD? Когда следует использовать, а когда будет только хуже? Если все же следует использовать, то для UI или API автоматизированного тестирования?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "chto-takoe-sokety-i-kak-ih-testirovat-vruchnuyu",
+    "question": "Что такое сокеты и как их тестировать, вручную и автоматизировано? Зачем их используют?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "kogda-sleduet-delat-stress-testirovanie-na-proektah-ot",
+    "question": "Когда следует делать стресс-тестирование на проектах? От чего отталкиваться, когда строите сценарий для такого тестирования? Что учесть при выборе инструмента?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "rasskazhite-ob-algoritmah-shifrovaniya-trafika",
+    "question": "Расскажите об алгоритмах шифрования трафика."
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "chto-takoe-nic",
+    "question": "Что такое NIC?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "dlya-chego-nuzhen-protokol-rtp",
+    "question": "Для чего нужен протокол RTP?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "chto-po-vashemu-mneniyu-luchshe-sip-ili-pri",
+    "question": "Что, по вашему мнению, лучше – SIP или PRI?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/teoriya",
+    "blockLabel": "Теория",
+    "levelLabel": "Senior",
+    "slug": "chto-takoe-nat",
+    "question": "Что такое NAT?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Senior",
+    "slug": "sformuliruyte-negativnye-scenarii-dlya-post-zaprosa-kotoryy",
+    "question": "Сформулируйте негативные сценарии для POST-запроса, который создаёт нового пользователя."
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Senior",
+    "slug": "kak-vy-reguliruete-konfliktnye-situacii-mezhdu-qa-i",
+    "question": "Как вы регулируете конфликтные ситуации между QA и разработчиками?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Senior",
+    "slug": "est-proekt-na-kotorom-net-testovoy-dokumentacii-no",
+    "question": "Есть проект, на котором нет тестовой документации, но проекту уже год. Мануальным QA не хватает времени на тестирование, они очень устали, есть желание уволиться. Какое решение по команде можно принять?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Senior",
+    "slug": "prodayte-mne-testirovanie-kak-klientu-ne-zhelayuschemu-ego",
+    "question": "Продайте мне тестирование как клиенту, не желающему его покупать. Кратко и структурированно опишите вашу работу на каждом из этапов разработки ПО, используя профессиональные термины."
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Senior",
+    "slug": "u-vas-est-onlayn-kalkulyator-vy-vvodite-1",
+    "question": "У вас есть онлайн-калькулятор. Вы вводите 1+1 и получаете 3. Расскажите, как вы будете искать причину проблемы."
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Senior",
+    "slug": "mogut-li-byt-takie-vidy-arhitektur-chego-mozhet",
+    "question": "Могут ли быть такие виды архитектур? Чего может быть недостаточно для правильной работы архитектур, приведенных ниже?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Senior",
+    "slug": "est-veb-stranica-s-polyami-e-mail-password",
+    "question": "Есть веб-страница с полями e-mail, password и кнопкой submit... Как проверить, что данные отправлены в базу данных?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Senior",
+    "slug": "kakoe-minimalnoe-kolichestvo-test-keysov-neobhodimo-chtoby-u",
+    "question": "Какое минимальное количество тест-кейсов необходимо, чтобы убедиться в корректной работе этой веб-страницы?"
+  },
+  {
+    "section": "itvdn",
+    "level": "senior",
+    "block": "senior/prakticheskie-zadaniya",
+    "blockLabel": "Практические задания",
+    "levelLabel": "Senior",
+    "slug": "kak-proverit-bezopasnost-na-veb-stranice-na-vybor",
+    "question": "Как проверить безопасность на веб-странице (на выбор)?"
+  }
+]

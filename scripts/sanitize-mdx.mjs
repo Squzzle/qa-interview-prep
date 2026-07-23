@@ -7,7 +7,7 @@
 import { readFileSync, writeFileSync, readdirSync, statSync } from 'node:fs';
 import { join } from 'node:path';
 
-const ROOTS = ['docs/manual-qa', 'docs/automation-qa', 'docs/sql', 'docs/hr', 'docs/typescript'];
+const ROOTS = ['docs/manual-qa', 'docs/automation-qa', 'docs/sql', 'docs/hr', 'docs/typescript', 'docs/itvdn'];
 
 function walk(dir, acc) {
   for (const name of readdirSync(dir)) {

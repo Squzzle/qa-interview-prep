@@ -25,3 +25,4 @@ data/inventory/quiz-src/
 
 # Local Claude Code tooling/config
 .claude/
+data/inventory/itvdn-blocks/
